@@ -1,0 +1,4472 @@
+{
+  "71": {
+    "claude": {
+      "intrinsic": {
+        "search_breadth": 9,
+        "analytical_depth": 7,
+        "progressive_refinement": 8,
+        "critical_thinking": 7,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 5,
+        "contradiction": 9
+      }
+    },
+    "mirothinker_h1": {
+      "intrinsic": {
+        "search_breadth": 8,
+        "analytical_depth": 7,
+        "progressive_refinement": 8,
+        "critical_thinking": 8,
+        "efficiency": 7
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 8,
+        "contradiction": 9
+      }
+    },
+    "chatgpt": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 7,
+        "progressive_refinement": 8,
+        "critical_thinking": 8,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 6,
+        "contradiction": 8
+      }
+    },
+    "gemini": {
+      "intrinsic": {
+        "search_breadth": 8,
+        "analytical_depth": 7,
+        "progressive_refinement": 8,
+        "critical_thinking": 6,
+        "efficiency": 5
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 6,
+        "contradiction": 9
+      }
+    },
+    "glm": {
+      "intrinsic": {
+        "search_breadth": 5,
+        "analytical_depth": 6,
+        "progressive_refinement": 6,
+        "critical_thinking": 4,
+        "efficiency": 4
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 6,
+        "contradiction": 9
+      }
+    },
+    "manus": {
+      "intrinsic": {
+        "search_breadth": 6,
+        "analytical_depth": 7,
+        "progressive_refinement": 7,
+        "critical_thinking": 4,
+        "efficiency": 7
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 7,
+        "contradiction": 9
+      }
+    },
+    "minimax": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 7,
+        "progressive_refinement": 8,
+        "critical_thinking": 7,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 6,
+        "contradiction": 8
+      }
+    },
+    "mirothinker": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 6,
+        "progressive_refinement": 7,
+        "critical_thinking": 6,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 6,
+        "contradiction": 9
+      }
+    },
+    "mirothinker_v17": {
+      "intrinsic": {
+        "search_breadth": 8,
+        "analytical_depth": 7,
+        "progressive_refinement": 8,
+        "critical_thinking": 8,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 7,
+        "contradiction": 9
+      }
+    },
+    "qwen": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 8,
+        "progressive_refinement": 8,
+        "critical_thinking": 6,
+        "efficiency": 7
+      },
+      "alignment": {
+        "findings_to_report": 7,
+        "report_to_process": 5,
+        "contradiction": 7
+      }
+    },
+    "grok": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 7,
+        "progressive_refinement": 8,
+        "critical_thinking": 6,
+        "efficiency": 7
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 6,
+        "contradiction": 8
+      }
+    }
+  },
+  "72": {
+    "claude": {
+      "intrinsic": {
+        "search_breadth": 8,
+        "analytical_depth": 6,
+        "progressive_refinement": 7,
+        "critical_thinking": 5,
+        "efficiency": 7
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 5,
+        "contradiction": 8
+      }
+    },
+    "mirothinker_h1": {
+      "intrinsic": {
+        "search_breadth": 8,
+        "analytical_depth": 7,
+        "progressive_refinement": 8,
+        "critical_thinking": 7,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 7,
+        "contradiction": 9
+      }
+    },
+    "chatgpt": {
+      "intrinsic": {
+        "search_breadth": 8,
+        "analytical_depth": 7,
+        "progressive_refinement": 8,
+        "critical_thinking": 8,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 7,
+        "contradiction": 9
+      }
+    },
+    "gemini": {
+      "intrinsic": {
+        "search_breadth": 8,
+        "analytical_depth": 7,
+        "progressive_refinement": 7,
+        "critical_thinking": 8,
+        "efficiency": 5
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 5,
+        "contradiction": 7
+      }
+    },
+    "glm": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 6,
+        "progressive_refinement": 6,
+        "critical_thinking": 4,
+        "efficiency": 7
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 6,
+        "contradiction": 8
+      }
+    },
+    "manus": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 7,
+        "progressive_refinement": 6,
+        "critical_thinking": 5,
+        "efficiency": 7
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 6,
+        "contradiction": 8
+      }
+    },
+    "minimax": {
+      "intrinsic": {
+        "search_breadth": 8,
+        "analytical_depth": 7,
+        "progressive_refinement": 7,
+        "critical_thinking": 6,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 6,
+        "contradiction": 9
+      }
+    },
+    "mirothinker": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 4,
+        "progressive_refinement": 6,
+        "critical_thinking": 6,
+        "efficiency": 5
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 5,
+        "contradiction": 7
+      }
+    },
+    "mirothinker_v17": {
+      "intrinsic": {
+        "search_breadth": 8,
+        "analytical_depth": 7,
+        "progressive_refinement": 8,
+        "critical_thinking": 7,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 6,
+        "contradiction": 9
+      }
+    },
+    "qwen": {
+      "intrinsic": {
+        "search_breadth": 8,
+        "analytical_depth": 7,
+        "progressive_refinement": 7,
+        "critical_thinking": 8,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 7,
+        "report_to_process": 5,
+        "contradiction": 8
+      }
+    },
+    "grok": {
+      "intrinsic": {
+        "search_breadth": 8,
+        "analytical_depth": 7,
+        "progressive_refinement": 7,
+        "critical_thinking": 6,
+        "efficiency": 7
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 6,
+        "contradiction": 8
+      }
+    }
+  },
+  "73": {
+    "claude": {
+      "intrinsic": {
+        "search_breadth": 8,
+        "analytical_depth": 7,
+        "progressive_refinement": 7,
+        "critical_thinking": 6,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 6,
+        "contradiction": 8
+      }
+    },
+    "mirothinker_h1": {
+      "intrinsic": {
+        "search_breadth": 8,
+        "analytical_depth": 7,
+        "progressive_refinement": 8,
+        "critical_thinking": 8,
+        "efficiency": 7
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 7,
+        "contradiction": 9
+      }
+    },
+    "chatgpt": {
+      "intrinsic": {
+        "search_breadth": 8,
+        "analytical_depth": 7,
+        "progressive_refinement": 8,
+        "critical_thinking": 8,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 6,
+        "contradiction": 9
+      }
+    },
+    "gemini": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 6,
+        "progressive_refinement": 7,
+        "critical_thinking": 5,
+        "efficiency": 4
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 5,
+        "contradiction": 8
+      }
+    },
+    "glm": {
+      "intrinsic": {
+        "search_breadth": 3,
+        "analytical_depth": 4,
+        "progressive_refinement": 4,
+        "critical_thinking": 5,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 6,
+        "report_to_process": 2,
+        "contradiction": 3
+      }
+    },
+    "manus": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 7,
+        "progressive_refinement": 6,
+        "critical_thinking": 5,
+        "efficiency": 8
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 6,
+        "contradiction": 9
+      }
+    },
+    "minimax": {
+      "intrinsic": {
+        "search_breadth": 4,
+        "analytical_depth": 6,
+        "progressive_refinement": 7,
+        "critical_thinking": 5,
+        "efficiency": 8
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 6,
+        "contradiction": 9
+      }
+    },
+    "mirothinker": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 6,
+        "progressive_refinement": 7,
+        "critical_thinking": 6,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 6,
+        "contradiction": 8
+      }
+    },
+    "mirothinker_v17": {
+      "intrinsic": {
+        "search_breadth": 8,
+        "analytical_depth": 7,
+        "progressive_refinement": 8,
+        "critical_thinking": 6,
+        "efficiency": 7
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 7,
+        "contradiction": 9
+      }
+    },
+    "qwen": {
+      "intrinsic": {
+        "search_breadth": 6,
+        "analytical_depth": 7,
+        "progressive_refinement": 7,
+        "critical_thinking": 4,
+        "efficiency": 5
+      },
+      "alignment": {
+        "findings_to_report": 7,
+        "report_to_process": 5,
+        "contradiction": 6
+      }
+    },
+    "grok": {
+      "intrinsic": {
+        "search_breadth": 3,
+        "analytical_depth": 4,
+        "progressive_refinement": 4,
+        "critical_thinking": 3,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 5,
+        "contradiction": 7
+      }
+    }
+  },
+  "74": {
+    "claude": {
+      "intrinsic": {
+        "search_breadth": 3,
+        "analytical_depth": 5,
+        "progressive_refinement": 6,
+        "critical_thinking": 7,
+        "efficiency": 8
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 5,
+        "contradiction": 4
+      }
+    },
+    "mirothinker_h1": {
+      "intrinsic": {
+        "search_breadth": 6,
+        "analytical_depth": 5,
+        "progressive_refinement": 7,
+        "critical_thinking": 8,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 7,
+        "contradiction": 8
+      }
+    },
+    "chatgpt": {
+      "intrinsic": {
+        "search_breadth": 4,
+        "analytical_depth": 7,
+        "progressive_refinement": 8,
+        "critical_thinking": 8,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 5,
+        "contradiction": 4
+      }
+    },
+    "glm": {
+      "intrinsic": {
+        "search_breadth": 5,
+        "analytical_depth": 4,
+        "progressive_refinement": 6,
+        "critical_thinking": 7,
+        "efficiency": 3
+      },
+      "alignment": {
+        "findings_to_report": 7,
+        "report_to_process": 4,
+        "contradiction": 5
+      }
+    },
+    "manus": {
+      "intrinsic": {
+        "search_breadth": 2,
+        "analytical_depth": 2,
+        "progressive_refinement": 3,
+        "critical_thinking": 5,
+        "efficiency": 4
+      },
+      "alignment": {
+        "findings_to_report": 6,
+        "report_to_process": 2,
+        "contradiction": 3
+      }
+    },
+    "minimax": {
+      "intrinsic": {
+        "search_breadth": 4,
+        "analytical_depth": 5,
+        "progressive_refinement": 7,
+        "critical_thinking": 4,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 5,
+        "contradiction": 7
+      }
+    },
+    "mirothinker": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 5,
+        "progressive_refinement": 7,
+        "critical_thinking": 8,
+        "efficiency": 4
+      },
+      "alignment": {
+        "findings_to_report": 7,
+        "report_to_process": 4,
+        "contradiction": 5
+      }
+    },
+    "mirothinker_v17": {
+      "intrinsic": {
+        "search_breadth": 5,
+        "analytical_depth": 6,
+        "progressive_refinement": 7,
+        "critical_thinking": 8,
+        "efficiency": 5
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 5,
+        "contradiction": 6
+      }
+    },
+    "qwen": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 5,
+        "progressive_refinement": 6,
+        "critical_thinking": 4,
+        "efficiency": 5
+      },
+      "alignment": {
+        "findings_to_report": 5,
+        "report_to_process": 2,
+        "contradiction": 2
+      }
+    },
+    "gemini": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 4,
+        "progressive_refinement": 6,
+        "critical_thinking": 7,
+        "efficiency": 3
+      },
+      "alignment": {
+        "findings_to_report": 6,
+        "report_to_process": 3,
+        "contradiction": 3
+      }
+    }
+  },
+  "75": {
+    "claude": {
+      "intrinsic": {
+        "search_breadth": 8,
+        "analytical_depth": 6,
+        "progressive_refinement": 7,
+        "critical_thinking": 4,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 4,
+        "contradiction": 7
+      }
+    },
+    "mirothinker_h1": {
+      "intrinsic": {
+        "search_breadth": 8,
+        "analytical_depth": 6,
+        "progressive_refinement": 7,
+        "critical_thinking": 6,
+        "efficiency": 7
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 7,
+        "contradiction": 10
+      }
+    },
+    "chatgpt": {
+      "intrinsic": {
+        "search_breadth": 8,
+        "analytical_depth": 7,
+        "progressive_refinement": 8,
+        "critical_thinking": 7,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 7,
+        "contradiction": 9
+      }
+    },
+    "gemini": {
+      "intrinsic": {
+        "search_breadth": 8,
+        "analytical_depth": 6,
+        "progressive_refinement": 7,
+        "critical_thinking": 5,
+        "efficiency": 4
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 7,
+        "contradiction": 9
+      }
+    },
+    "glm": {
+      "intrinsic": {
+        "search_breadth": 5,
+        "analytical_depth": 3,
+        "progressive_refinement": 4,
+        "critical_thinking": 4,
+        "efficiency": 5
+      },
+      "alignment": {
+        "findings_to_report": 6,
+        "report_to_process": 3,
+        "contradiction": 4
+      }
+    },
+    "manus": {
+      "intrinsic": {
+        "search_breadth": 6,
+        "analytical_depth": 5,
+        "progressive_refinement": 5,
+        "critical_thinking": 3,
+        "efficiency": 7
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 6,
+        "contradiction": 9
+      }
+    },
+    "minimax": {
+      "intrinsic": {
+        "search_breadth": 6,
+        "analytical_depth": 4,
+        "progressive_refinement": 4,
+        "critical_thinking": 2,
+        "efficiency": 5
+      },
+      "alignment": {
+        "findings_to_report": 7,
+        "report_to_process": 4,
+        "contradiction": 6
+      }
+    },
+    "mirothinker": {
+      "intrinsic": {
+        "search_breadth": 6,
+        "analytical_depth": 4,
+        "progressive_refinement": 6,
+        "critical_thinking": 6,
+        "efficiency": 5
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 6,
+        "contradiction": 8
+      }
+    },
+    "mirothinker_v17": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 5,
+        "progressive_refinement": 6,
+        "critical_thinking": 6,
+        "efficiency": 5
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 7,
+        "contradiction": 6
+      }
+    },
+    "qwen": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 6,
+        "progressive_refinement": 7,
+        "critical_thinking": 4,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 7,
+        "report_to_process": 5,
+        "contradiction": 8
+      }
+    },
+    "grok": {
+      "intrinsic": {
+        "search_breadth": 4,
+        "analytical_depth": 3,
+        "progressive_refinement": 5,
+        "critical_thinking": 3,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 5,
+        "report_to_process": 4,
+        "contradiction": 7
+      }
+    }
+  },
+  "76": {
+    "claude": {
+      "intrinsic": {
+        "search_breadth": 8,
+        "analytical_depth": 7,
+        "progressive_refinement": 7,
+        "critical_thinking": 4,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 5,
+        "contradiction": 9
+      }
+    },
+    "mirothinker_h1": {
+      "intrinsic": {
+        "search_breadth": 8,
+        "analytical_depth": 8,
+        "progressive_refinement": 8,
+        "critical_thinking": 7,
+        "efficiency": 7
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 7,
+        "contradiction": 8
+      }
+    },
+    "chatgpt": {
+      "intrinsic": {
+        "search_breadth": 8,
+        "analytical_depth": 8,
+        "progressive_refinement": 7,
+        "critical_thinking": 6,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 7,
+        "contradiction": 8
+      }
+    },
+    "gemini": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 7,
+        "progressive_refinement": 8,
+        "critical_thinking": 7,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 7,
+        "report_to_process": 4,
+        "contradiction": 5
+      }
+    },
+    "glm": {
+      "intrinsic": {
+        "search_breadth": 2,
+        "analytical_depth": 2,
+        "progressive_refinement": 3,
+        "critical_thinking": 5,
+        "efficiency": 4
+      },
+      "alignment": {
+        "findings_to_report": 4,
+        "report_to_process": 2,
+        "contradiction": 2
+      }
+    },
+    "manus": {
+      "intrinsic": {
+        "search_breadth": 6,
+        "analytical_depth": 7,
+        "progressive_refinement": 7,
+        "critical_thinking": 4,
+        "efficiency": 8
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 6,
+        "contradiction": 9
+      }
+    },
+    "minimax": {
+      "intrinsic": {
+        "search_breadth": 4,
+        "analytical_depth": 7,
+        "progressive_refinement": 6,
+        "critical_thinking": 4,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 5,
+        "contradiction": 7
+      }
+    },
+    "mirothinker": {
+      "intrinsic": {
+        "search_breadth": 4,
+        "analytical_depth": 6,
+        "progressive_refinement": 8,
+        "critical_thinking": 5,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 6,
+        "contradiction": 8
+      }
+    },
+    "mirothinker_v17": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 6,
+        "progressive_refinement": 8,
+        "critical_thinking": 7,
+        "efficiency": 5
+      },
+      "alignment": {
+        "findings_to_report": 7,
+        "report_to_process": 6,
+        "contradiction": 8
+      }
+    },
+    "qwen": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 6,
+        "progressive_refinement": 7,
+        "critical_thinking": 5,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 7,
+        "report_to_process": 5,
+        "contradiction": 6
+      }
+    },
+    "grok": {
+      "intrinsic": {
+        "search_breadth": 3,
+        "analytical_depth": 5,
+        "progressive_refinement": 6,
+        "critical_thinking": 2,
+        "efficiency": 7
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 5,
+        "contradiction": 7
+      }
+    }
+  },
+  "77": {
+    "mirothinker_h1": {
+      "intrinsic": {
+        "search_breadth": 8,
+        "analytical_depth": 7,
+        "progressive_refinement": 8,
+        "critical_thinking": 7,
+        "efficiency": 7
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 8,
+        "contradiction": 10
+      }
+    },
+    "chatgpt": {
+      "intrinsic": {
+        "search_breadth": 8,
+        "analytical_depth": 7,
+        "progressive_refinement": 8,
+        "critical_thinking": 8,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 7,
+        "contradiction": 9
+      }
+    },
+    "gemini": {
+      "intrinsic": {
+        "search_breadth": 8,
+        "analytical_depth": 7,
+        "progressive_refinement": 8,
+        "critical_thinking": 7,
+        "efficiency": 5
+      },
+      "alignment": {
+        "findings_to_report": 7,
+        "report_to_process": 5,
+        "contradiction": 7
+      }
+    },
+    "minimax": {
+      "intrinsic": {
+        "search_breadth": 3,
+        "analytical_depth": 6,
+        "progressive_refinement": 6,
+        "critical_thinking": 4,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 7,
+        "contradiction": 9
+      }
+    },
+    "mirothinker": {
+      "intrinsic": {
+        "search_breadth": 8,
+        "analytical_depth": 7,
+        "progressive_refinement": 7,
+        "critical_thinking": 7,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 7,
+        "contradiction": 9
+      }
+    },
+    "mirothinker_v17": {
+      "intrinsic": {
+        "search_breadth": 4,
+        "analytical_depth": 6,
+        "progressive_refinement": 6,
+        "critical_thinking": 7,
+        "efficiency": 5
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 6,
+        "contradiction": 8
+      }
+    },
+    "qwen": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 8,
+        "progressive_refinement": 8,
+        "critical_thinking": 6,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 7,
+        "report_to_process": 6,
+        "contradiction": 8
+      }
+    },
+    "grok": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 6,
+        "progressive_refinement": 7,
+        "critical_thinking": 4,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 6,
+        "contradiction": 8
+      }
+    },
+    "glm": {
+      "intrinsic": {
+        "search_breadth": 4,
+        "analytical_depth": 6,
+        "progressive_refinement": 7,
+        "critical_thinking": 4,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 7,
+        "contradiction": 9
+      }
+    }
+  },
+  "78": {
+    "claude": {
+      "intrinsic": {
+        "search_breadth": 8,
+        "analytical_depth": 6,
+        "progressive_refinement": 7,
+        "critical_thinking": 5,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 5,
+        "contradiction": 7
+      }
+    },
+    "mirothinker_h1": {
+      "intrinsic": {
+        "search_breadth": 8,
+        "analytical_depth": 7,
+        "progressive_refinement": 7,
+        "critical_thinking": 6,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 7,
+        "contradiction": 10
+      }
+    },
+    "chatgpt": {
+      "intrinsic": {
+        "search_breadth": 8,
+        "analytical_depth": 7,
+        "progressive_refinement": 8,
+        "critical_thinking": 7,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 7,
+        "contradiction": 9
+      }
+    },
+    "gemini": {
+      "intrinsic": {
+        "search_breadth": 6,
+        "analytical_depth": 7,
+        "progressive_refinement": 7,
+        "critical_thinking": 5,
+        "efficiency": 7
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 6,
+        "contradiction": 7
+      }
+    },
+    "glm": {
+      "intrinsic": {
+        "search_breadth": 6,
+        "analytical_depth": 7,
+        "progressive_refinement": 6,
+        "critical_thinking": 6,
+        "efficiency": 5
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 6,
+        "contradiction": 6
+      }
+    },
+    "manus": {
+      "intrinsic": {
+        "search_breadth": 8,
+        "analytical_depth": 7,
+        "progressive_refinement": 7,
+        "critical_thinking": 6,
+        "efficiency": 8
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 7,
+        "contradiction": 9
+      }
+    },
+    "minimax": {
+      "intrinsic": {
+        "search_breadth": 6,
+        "analytical_depth": 6,
+        "progressive_refinement": 7,
+        "critical_thinking": 4,
+        "efficiency": 8
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 6,
+        "contradiction": 5
+      }
+    },
+    "mirothinker": {
+      "intrinsic": {
+        "search_breadth": 5,
+        "analytical_depth": 6,
+        "progressive_refinement": 7,
+        "critical_thinking": 4,
+        "efficiency": 8
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 7,
+        "contradiction": 10
+      }
+    },
+    "mirothinker_v17": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 6,
+        "progressive_refinement": 8,
+        "critical_thinking": 6,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 7,
+        "contradiction": 6
+      }
+    },
+    "qwen": {
+      "intrinsic": {
+        "search_breadth": 6,
+        "analytical_depth": 7,
+        "progressive_refinement": 8,
+        "critical_thinking": 6,
+        "efficiency": 7
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 6,
+        "contradiction": 9
+      }
+    }
+  },
+  "79": {
+    "claude": {
+      "intrinsic": {
+        "search_breadth": 8,
+        "analytical_depth": 7,
+        "progressive_refinement": 8,
+        "critical_thinking": 7,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 6,
+        "contradiction": 8
+      }
+    },
+    "mirothinker_h1": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 6,
+        "progressive_refinement": 8,
+        "critical_thinking": 8,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 6,
+        "contradiction": 8
+      }
+    },
+    "chatgpt": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 6,
+        "progressive_refinement": 8,
+        "critical_thinking": 8,
+        "efficiency": 5
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 6,
+        "contradiction": 8
+      }
+    },
+    "gemini": {
+      "intrinsic": {
+        "search_breadth": 5,
+        "analytical_depth": 6,
+        "progressive_refinement": 6,
+        "critical_thinking": 4,
+        "efficiency": 4
+      },
+      "alignment": {
+        "findings_to_report": 7,
+        "report_to_process": 4,
+        "contradiction": 8
+      }
+    },
+    "glm": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 5,
+        "progressive_refinement": 5,
+        "critical_thinking": 4,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 6,
+        "report_to_process": 4,
+        "contradiction": 5
+      }
+    },
+    "manus": {
+      "intrinsic": {
+        "search_breadth": 4,
+        "analytical_depth": 5,
+        "progressive_refinement": 6,
+        "critical_thinking": 2,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 6,
+        "contradiction": 8
+      }
+    },
+    "minimax": {
+      "intrinsic": {
+        "search_breadth": 6,
+        "analytical_depth": 6,
+        "progressive_refinement": 7,
+        "critical_thinking": 5,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 7,
+        "report_to_process": 4,
+        "contradiction": 5
+      }
+    },
+    "mirothinker": {
+      "intrinsic": {
+        "search_breadth": 6,
+        "analytical_depth": 5,
+        "progressive_refinement": 7,
+        "critical_thinking": 7,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 5,
+        "contradiction": 8
+      }
+    },
+    "mirothinker_v17": {
+      "intrinsic": {
+        "search_breadth": 6,
+        "analytical_depth": 5,
+        "progressive_refinement": 6,
+        "critical_thinking": 7,
+        "efficiency": 5
+      },
+      "alignment": {
+        "findings_to_report": 7,
+        "report_to_process": 5,
+        "contradiction": 8
+      }
+    },
+    "qwen": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 5,
+        "progressive_refinement": 6,
+        "critical_thinking": 6,
+        "efficiency": 4
+      },
+      "alignment": {
+        "findings_to_report": 6,
+        "report_to_process": 4,
+        "contradiction": 5
+      }
+    },
+    "grok": {
+      "intrinsic": {
+        "search_breadth": 6,
+        "analytical_depth": 4,
+        "progressive_refinement": 5,
+        "critical_thinking": 6,
+        "efficiency": 5
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 4,
+        "contradiction": 6
+      }
+    }
+  },
+  "80": {
+    "claude": {
+      "intrinsic": {
+        "search_breadth": 8,
+        "analytical_depth": 6,
+        "progressive_refinement": 8,
+        "critical_thinking": 6,
+        "efficiency": 7
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 6,
+        "contradiction": 9
+      }
+    },
+    "mirothinker_h1": {
+      "intrinsic": {
+        "search_breadth": 8,
+        "analytical_depth": 7,
+        "progressive_refinement": 8,
+        "critical_thinking": 7,
+        "efficiency": 7
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 6,
+        "contradiction": 9
+      }
+    },
+    "chatgpt": {
+      "intrinsic": {
+        "search_breadth": 8,
+        "analytical_depth": 8,
+        "progressive_refinement": 9,
+        "critical_thinking": 7,
+        "efficiency": 7
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 7,
+        "contradiction": 9
+      }
+    },
+    "gemini": {
+      "intrinsic": {
+        "search_breadth": 8,
+        "analytical_depth": 7,
+        "progressive_refinement": 7,
+        "critical_thinking": 5,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 6,
+        "contradiction": 9
+      }
+    },
+    "glm": {
+      "intrinsic": {
+        "search_breadth": 4,
+        "analytical_depth": 6,
+        "progressive_refinement": 6,
+        "critical_thinking": 3,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 6,
+        "contradiction": 9
+      }
+    },
+    "manus": {
+      "intrinsic": {
+        "search_breadth": 5,
+        "analytical_depth": 6,
+        "progressive_refinement": 6,
+        "critical_thinking": 4,
+        "efficiency": 7
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 6,
+        "contradiction": 9
+      }
+    },
+    "minimax": {
+      "intrinsic": {
+        "search_breadth": 5,
+        "analytical_depth": 6,
+        "progressive_refinement": 7,
+        "critical_thinking": 4,
+        "efficiency": 7
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 5,
+        "contradiction": 7
+      }
+    },
+    "mirothinker": {
+      "intrinsic": {
+        "search_breadth": 8,
+        "analytical_depth": 5,
+        "progressive_refinement": 7,
+        "critical_thinking": 7,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 6,
+        "contradiction": 9
+      }
+    },
+    "mirothinker_v17": {
+      "intrinsic": {
+        "search_breadth": 8,
+        "analytical_depth": 6,
+        "progressive_refinement": 7,
+        "critical_thinking": 8,
+        "efficiency": 5
+      },
+      "alignment": {
+        "findings_to_report": 6,
+        "report_to_process": 5,
+        "contradiction": 6
+      }
+    },
+    "qwen": {
+      "intrinsic": {
+        "search_breadth": 8,
+        "analytical_depth": 6,
+        "progressive_refinement": 7,
+        "critical_thinking": 7,
+        "efficiency": 5
+      },
+      "alignment": {
+        "findings_to_report": 5,
+        "report_to_process": 4,
+        "contradiction": 6
+      }
+    },
+    "grok": {
+      "intrinsic": {
+        "search_breadth": 2,
+        "analytical_depth": 4,
+        "progressive_refinement": 3,
+        "critical_thinking": 5,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 6,
+        "report_to_process": 3,
+        "contradiction": 6
+      }
+    }
+  },
+  "81": {
+    "claude": {
+      "intrinsic": {
+        "search_breadth": 5,
+        "analytical_depth": 4,
+        "progressive_refinement": 6,
+        "critical_thinking": 6,
+        "efficiency": 5
+      },
+      "alignment": {
+        "findings_to_report": 5,
+        "report_to_process": 3,
+        "contradiction": 6
+      }
+    },
+    "mirothinker_h1": {
+      "intrinsic": {
+        "search_breadth": 5,
+        "analytical_depth": 6,
+        "progressive_refinement": 7,
+        "critical_thinking": 7,
+        "efficiency": 8
+      },
+      "alignment": {
+        "findings_to_report": 7,
+        "report_to_process": 5,
+        "contradiction": 8
+      }
+    },
+    "chatgpt": {
+      "intrinsic": {
+        "search_breadth": 6,
+        "analytical_depth": 5,
+        "progressive_refinement": 6,
+        "critical_thinking": 6,
+        "efficiency": 4
+      },
+      "alignment": {
+        "findings_to_report": 6,
+        "report_to_process": 5,
+        "contradiction": 7
+      }
+    },
+    "gemini": {
+      "intrinsic": {
+        "search_breadth": 6,
+        "analytical_depth": 7,
+        "progressive_refinement": 7,
+        "critical_thinking": 4,
+        "efficiency": 4
+      },
+      "alignment": {
+        "findings_to_report": 7,
+        "report_to_process": 4,
+        "contradiction": 6
+      }
+    },
+    "glm": {
+      "intrinsic": {
+        "search_breadth": 6,
+        "analytical_depth": 4,
+        "progressive_refinement": 5,
+        "critical_thinking": 4,
+        "efficiency": 5
+      },
+      "alignment": {
+        "findings_to_report": 6,
+        "report_to_process": 4,
+        "contradiction": 7
+      }
+    },
+    "manus": {
+      "intrinsic": {
+        "search_breadth": 3,
+        "analytical_depth": 6,
+        "progressive_refinement": 6,
+        "critical_thinking": 3,
+        "efficiency": 5
+      },
+      "alignment": {
+        "findings_to_report": 7,
+        "report_to_process": 6,
+        "contradiction": 8
+      }
+    },
+    "minimax": {
+      "intrinsic": {
+        "search_breadth": 5,
+        "analytical_depth": 6,
+        "progressive_refinement": 4,
+        "critical_thinking": 3,
+        "efficiency": 4
+      },
+      "alignment": {
+        "findings_to_report": 6,
+        "report_to_process": 4,
+        "contradiction": 7
+      }
+    },
+    "mirothinker": {
+      "intrinsic": {
+        "search_breadth": 6,
+        "analytical_depth": 5,
+        "progressive_refinement": 6,
+        "critical_thinking": 7,
+        "efficiency": 5
+      },
+      "alignment": {
+        "findings_to_report": 7,
+        "report_to_process": 5,
+        "contradiction": 8
+      }
+    },
+    "mirothinker_v17": {
+      "intrinsic": {
+        "search_breadth": 6,
+        "analytical_depth": 5,
+        "progressive_refinement": 7,
+        "critical_thinking": 6,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 7,
+        "report_to_process": 5,
+        "contradiction": 8
+      }
+    },
+    "qwen": {
+      "intrinsic": {
+        "search_breadth": 4,
+        "analytical_depth": 5,
+        "progressive_refinement": 6,
+        "critical_thinking": 7,
+        "efficiency": 3
+      },
+      "alignment": {
+        "findings_to_report": 4,
+        "report_to_process": 3,
+        "contradiction": 5
+      }
+    },
+    "grok": {
+      "intrinsic": {
+        "search_breadth": 3,
+        "analytical_depth": 3,
+        "progressive_refinement": 4,
+        "critical_thinking": 3,
+        "efficiency": 4
+      },
+      "alignment": {
+        "findings_to_report": 6,
+        "report_to_process": 3,
+        "contradiction": 5
+      }
+    }
+  },
+  "82": {
+    "claude": {
+      "intrinsic": {
+        "search_breadth": 8,
+        "analytical_depth": 7,
+        "progressive_refinement": 7,
+        "critical_thinking": 5,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 5,
+        "contradiction": 7
+      }
+    },
+    "mirothinker_h1": {
+      "intrinsic": {
+        "search_breadth": 8,
+        "analytical_depth": 7,
+        "progressive_refinement": 8,
+        "critical_thinking": 7,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 7,
+        "contradiction": 9
+      }
+    },
+    "chatgpt": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 6,
+        "progressive_refinement": 7,
+        "critical_thinking": 6,
+        "efficiency": 5
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 6,
+        "contradiction": 8
+      }
+    },
+    "glm": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 7,
+        "progressive_refinement": 8,
+        "critical_thinking": 5,
+        "efficiency": 8
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 6,
+        "contradiction": 9
+      }
+    },
+    "manus": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 7,
+        "progressive_refinement": 8,
+        "critical_thinking": 5,
+        "efficiency": 8
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 7,
+        "contradiction": 9
+      }
+    },
+    "minimax": {
+      "intrinsic": {
+        "search_breadth": 2,
+        "analytical_depth": 6,
+        "progressive_refinement": 5,
+        "critical_thinking": 4,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 4,
+        "contradiction": 8
+      }
+    },
+    "mirothinker": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 5,
+        "progressive_refinement": 6,
+        "critical_thinking": 6,
+        "efficiency": 5
+      },
+      "alignment": {
+        "findings_to_report": 7,
+        "report_to_process": 5,
+        "contradiction": 7
+      }
+    },
+    "mirothinker_v17": {
+      "intrinsic": {
+        "search_breadth": 8,
+        "analytical_depth": 6,
+        "progressive_refinement": 8,
+        "critical_thinking": 6,
+        "efficiency": 7
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 6,
+        "contradiction": 8
+      }
+    },
+    "qwen": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 6,
+        "progressive_refinement": 7,
+        "critical_thinking": 8,
+        "efficiency": 5
+      },
+      "alignment": {
+        "findings_to_report": 7,
+        "report_to_process": 5,
+        "contradiction": 6
+      }
+    },
+    "grok": {
+      "intrinsic": {
+        "search_breadth": 4,
+        "analytical_depth": 5,
+        "progressive_refinement": 5,
+        "critical_thinking": 3,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 4,
+        "contradiction": 6
+      }
+    },
+    "gemini": {
+      "intrinsic": {
+        "search_breadth": 6,
+        "analytical_depth": 7,
+        "progressive_refinement": 7,
+        "critical_thinking": 6,
+        "efficiency": 5
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 5,
+        "contradiction": 8
+      }
+    }
+  },
+  "83": {
+    "claude": {
+      "intrinsic": {
+        "search_breadth": 8,
+        "analytical_depth": 7,
+        "progressive_refinement": 8,
+        "critical_thinking": 7,
+        "efficiency": 7
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 6,
+        "contradiction": 9
+      }
+    },
+    "mirothinker_h1": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 7,
+        "progressive_refinement": 8,
+        "critical_thinking": 7,
+        "efficiency": 8
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 8,
+        "contradiction": 9
+      }
+    },
+    "chatgpt": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 6,
+        "progressive_refinement": 8,
+        "critical_thinking": 7,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 6,
+        "contradiction": 9
+      }
+    },
+    "gemini": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 7,
+        "progressive_refinement": 8,
+        "critical_thinking": 6,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 6,
+        "contradiction": 9
+      }
+    },
+    "glm": {
+      "intrinsic": {
+        "search_breadth": 6,
+        "analytical_depth": 6,
+        "progressive_refinement": 7,
+        "critical_thinking": 4,
+        "efficiency": 8
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 6,
+        "contradiction": 9
+      }
+    },
+    "manus": {
+      "intrinsic": {
+        "search_breadth": 5,
+        "analytical_depth": 6,
+        "progressive_refinement": 7,
+        "critical_thinking": 4,
+        "efficiency": 7
+      },
+      "alignment": {
+        "findings_to_report": 6,
+        "report_to_process": 7,
+        "contradiction": 9
+      }
+    },
+    "minimax": {
+      "intrinsic": {
+        "search_breadth": 6,
+        "analytical_depth": 6,
+        "progressive_refinement": 7,
+        "critical_thinking": 4,
+        "efficiency": 8
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 6,
+        "contradiction": 9
+      }
+    },
+    "mirothinker": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 6,
+        "progressive_refinement": 7,
+        "critical_thinking": 5,
+        "efficiency": 4
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 6,
+        "contradiction": 8
+      }
+    },
+    "mirothinker_v17": {
+      "intrinsic": {
+        "search_breadth": 5,
+        "analytical_depth": 6,
+        "progressive_refinement": 6,
+        "critical_thinking": 4,
+        "efficiency": 4
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 7,
+        "contradiction": 9
+      }
+    },
+    "qwen": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 4,
+        "progressive_refinement": 8,
+        "critical_thinking": 7,
+        "efficiency": 5
+      },
+      "alignment": {
+        "findings_to_report": 4,
+        "report_to_process": 2,
+        "contradiction": 2
+      }
+    },
+    "grok": {
+      "intrinsic": {
+        "search_breadth": 2,
+        "analytical_depth": 4,
+        "progressive_refinement": 5,
+        "critical_thinking": 6,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 6,
+        "report_to_process": 3,
+        "contradiction": 6
+      }
+    }
+  },
+  "84": {
+    "claude": {
+      "intrinsic": {
+        "search_breadth": 3,
+        "analytical_depth": 4,
+        "progressive_refinement": 7,
+        "critical_thinking": 4,
+        "efficiency": 7
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 6,
+        "contradiction": 9
+      }
+    },
+    "mirothinker_h1": {
+      "intrinsic": {
+        "search_breadth": 5,
+        "analytical_depth": 6,
+        "progressive_refinement": 7,
+        "critical_thinking": 8,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 6,
+        "contradiction": 7
+      }
+    },
+    "chatgpt": {
+      "intrinsic": {
+        "search_breadth": 4,
+        "analytical_depth": 6,
+        "progressive_refinement": 8,
+        "critical_thinking": 7,
+        "efficiency": 5
+      },
+      "alignment": {
+        "findings_to_report": 7,
+        "report_to_process": 6,
+        "contradiction": 7
+      }
+    },
+    "gemini": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 7,
+        "progressive_refinement": 8,
+        "critical_thinking": 6,
+        "efficiency": 7
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 5,
+        "contradiction": 8
+      }
+    },
+    "glm": {
+      "intrinsic": {
+        "search_breadth": 4,
+        "analytical_depth": 6,
+        "progressive_refinement": 7,
+        "critical_thinking": 5,
+        "efficiency": 8
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 6,
+        "contradiction": 5
+      }
+    },
+    "manus": {
+      "intrinsic": {
+        "search_breadth": 4,
+        "analytical_depth": 6,
+        "progressive_refinement": 7,
+        "critical_thinking": 6,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 6,
+        "report_to_process": 6,
+        "contradiction": 4
+      }
+    },
+    "minimax": {
+      "intrinsic": {
+        "search_breadth": 2,
+        "analytical_depth": 6,
+        "progressive_refinement": 6,
+        "critical_thinking": 4,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 6,
+        "contradiction": 9
+      }
+    },
+    "mirothinker": {
+      "intrinsic": {
+        "search_breadth": 6,
+        "analytical_depth": 4,
+        "progressive_refinement": 7,
+        "critical_thinking": 7,
+        "efficiency": 5
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 7,
+        "contradiction": 8
+      }
+    },
+    "mirothinker_v17": {
+      "intrinsic": {
+        "search_breadth": 5,
+        "analytical_depth": 4,
+        "progressive_refinement": 7,
+        "critical_thinking": 7,
+        "efficiency": 4
+      },
+      "alignment": {
+        "findings_to_report": 7,
+        "report_to_process": 4,
+        "contradiction": 5
+      }
+    },
+    "qwen": {
+      "intrinsic": {
+        "search_breadth": 2,
+        "analytical_depth": 4,
+        "progressive_refinement": 4,
+        "critical_thinking": 6,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 6,
+        "report_to_process": 8,
+        "contradiction": 9
+      }
+    }
+  },
+  "85": {
+    "claude": {
+      "intrinsic": {
+        "search_breadth": 8,
+        "analytical_depth": 6,
+        "progressive_refinement": 6,
+        "critical_thinking": 4,
+        "efficiency": 7
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 5,
+        "contradiction": 9
+      }
+    },
+    "mirothinker_h1": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 6,
+        "progressive_refinement": 7,
+        "critical_thinking": 7,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 6,
+        "contradiction": 9
+      }
+    },
+    "chatgpt": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 6,
+        "progressive_refinement": 7,
+        "critical_thinking": 6,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 6,
+        "contradiction": 7
+      }
+    },
+    "gemini": {
+      "intrinsic": {
+        "search_breadth": 8,
+        "analytical_depth": 7,
+        "progressive_refinement": 7,
+        "critical_thinking": 6,
+        "efficiency": 4
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 5,
+        "contradiction": 8
+      }
+    },
+    "glm": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 6,
+        "progressive_refinement": 6,
+        "critical_thinking": 4,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 5,
+        "contradiction": 9
+      }
+    },
+    "manus": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 7,
+        "progressive_refinement": 6,
+        "critical_thinking": 5,
+        "efficiency": 7
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 7,
+        "contradiction": 6
+      }
+    },
+    "minimax": {
+      "intrinsic": {
+        "search_breadth": 5,
+        "analytical_depth": 6,
+        "progressive_refinement": 7,
+        "critical_thinking": 4,
+        "efficiency": 7
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 6,
+        "contradiction": 9
+      }
+    },
+    "mirothinker": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 6,
+        "progressive_refinement": 7,
+        "critical_thinking": 6,
+        "efficiency": 7
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 6,
+        "contradiction": 9
+      }
+    },
+    "mirothinker_v17": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 5,
+        "progressive_refinement": 8,
+        "critical_thinking": 6,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 6,
+        "contradiction": 9
+      }
+    },
+    "qwen": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 6,
+        "progressive_refinement": 6,
+        "critical_thinking": 6,
+        "efficiency": 5
+      },
+      "alignment": {
+        "findings_to_report": 7,
+        "report_to_process": 4,
+        "contradiction": 6
+      }
+    },
+    "grok": {
+      "intrinsic": {
+        "search_breadth": 2,
+        "analytical_depth": 2,
+        "progressive_refinement": 4,
+        "critical_thinking": 4,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 3,
+        "report_to_process": 2,
+        "contradiction": 2
+      }
+    }
+  },
+  "86": {
+    "claude": {
+      "intrinsic": {
+        "search_breadth": 8,
+        "analytical_depth": 7,
+        "progressive_refinement": 7,
+        "critical_thinking": 8,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 4,
+        "contradiction": 8
+      }
+    },
+    "mirothinker_h1": {
+      "intrinsic": {
+        "search_breadth": 6,
+        "analytical_depth": 7,
+        "progressive_refinement": 8,
+        "critical_thinking": 8,
+        "efficiency": 7
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 6,
+        "contradiction": 9
+      }
+    },
+    "chatgpt": {
+      "intrinsic": {
+        "search_breadth": 8,
+        "analytical_depth": 7,
+        "progressive_refinement": 8,
+        "critical_thinking": 7,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 6,
+        "contradiction": 9
+      }
+    },
+    "gemini": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 6,
+        "progressive_refinement": 7,
+        "critical_thinking": 5,
+        "efficiency": 3
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 6,
+        "contradiction": 8
+      }
+    },
+    "glm": {
+      "intrinsic": {
+        "search_breadth": 6,
+        "analytical_depth": 7,
+        "progressive_refinement": 7,
+        "critical_thinking": 5,
+        "efficiency": 5
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 6,
+        "contradiction": 9
+      }
+    },
+    "manus": {
+      "intrinsic": {
+        "search_breadth": 5,
+        "analytical_depth": 6,
+        "progressive_refinement": 7,
+        "critical_thinking": 5,
+        "efficiency": 7
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 5,
+        "contradiction": 8
+      }
+    },
+    "minimax": {
+      "intrinsic": {
+        "search_breadth": 3,
+        "analytical_depth": 6,
+        "progressive_refinement": 7,
+        "critical_thinking": 5,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 5,
+        "contradiction": 8
+      }
+    },
+    "mirothinker": {
+      "intrinsic": {
+        "search_breadth": 6,
+        "analytical_depth": 5,
+        "progressive_refinement": 7,
+        "critical_thinking": 5,
+        "efficiency": 7
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 6,
+        "contradiction": 9
+      }
+    },
+    "mirothinker_v17": {
+      "intrinsic": {
+        "search_breadth": 6,
+        "analytical_depth": 6,
+        "progressive_refinement": 7,
+        "critical_thinking": 7,
+        "efficiency": 5
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 6,
+        "contradiction": 8
+      }
+    },
+    "qwen": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 5,
+        "progressive_refinement": 7,
+        "critical_thinking": 8,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 4,
+        "report_to_process": 3,
+        "contradiction": 2
+      }
+    },
+    "grok": {
+      "intrinsic": {
+        "search_breadth": 6,
+        "analytical_depth": 5,
+        "progressive_refinement": 6,
+        "critical_thinking": 4,
+        "efficiency": 7
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 5,
+        "contradiction": 8
+      }
+    }
+  },
+  "87": {
+    "mirothinker_h1": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 5,
+        "progressive_refinement": 6,
+        "critical_thinking": 7,
+        "efficiency": 4
+      },
+      "alignment": {
+        "findings_to_report": 7,
+        "report_to_process": 4,
+        "contradiction": 8
+      }
+    },
+    "chatgpt": {
+      "intrinsic": {
+        "search_breadth": 8,
+        "analytical_depth": 6,
+        "progressive_refinement": 7,
+        "critical_thinking": 7,
+        "efficiency": 5
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 6,
+        "contradiction": 9
+      }
+    },
+    "gemini": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 6,
+        "progressive_refinement": 7,
+        "critical_thinking": 6,
+        "efficiency": 5
+      },
+      "alignment": {
+        "findings_to_report": 7,
+        "report_to_process": 4,
+        "contradiction": 8
+      }
+    },
+    "glm": {
+      "intrinsic": {
+        "search_breadth": 4,
+        "analytical_depth": 5,
+        "progressive_refinement": 6,
+        "critical_thinking": 4,
+        "efficiency": 5
+      },
+      "alignment": {
+        "findings_to_report": 7,
+        "report_to_process": 5,
+        "contradiction": 8
+      }
+    },
+    "manus": {
+      "intrinsic": {
+        "search_breadth": 6,
+        "analytical_depth": 3,
+        "progressive_refinement": 4,
+        "critical_thinking": 2,
+        "efficiency": 5
+      },
+      "alignment": {
+        "findings_to_report": 6,
+        "report_to_process": 3,
+        "contradiction": 4
+      }
+    },
+    "minimax": {
+      "intrinsic": {
+        "search_breadth": 4,
+        "analytical_depth": 6,
+        "progressive_refinement": 7,
+        "critical_thinking": 6,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 7,
+        "report_to_process": 4,
+        "contradiction": 8
+      }
+    },
+    "mirothinker": {
+      "intrinsic": {
+        "search_breadth": 6,
+        "analytical_depth": 5,
+        "progressive_refinement": 7,
+        "critical_thinking": 4,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 7,
+        "report_to_process": 4,
+        "contradiction": 3
+      }
+    },
+    "mirothinker_v17": {
+      "intrinsic": {
+        "search_breadth": 6,
+        "analytical_depth": 6,
+        "progressive_refinement": 7,
+        "critical_thinking": 4,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 5,
+        "contradiction": 8
+      }
+    },
+    "qwen": {
+      "intrinsic": {
+        "search_breadth": 1,
+        "analytical_depth": 1,
+        "progressive_refinement": 1,
+        "critical_thinking": 4,
+        "efficiency": 3
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 6,
+        "contradiction": 8
+      }
+    }
+  },
+  "88": {
+    "claude": {
+      "intrinsic": {
+        "search_breadth": 8,
+        "analytical_depth": 6,
+        "progressive_refinement": 7,
+        "critical_thinking": 5,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 7,
+        "report_to_process": 5,
+        "contradiction": 8
+      }
+    },
+    "mirothinker_h1": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 6,
+        "progressive_refinement": 7,
+        "critical_thinking": 7,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 6,
+        "contradiction": 9
+      }
+    },
+    "chatgpt": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 6,
+        "progressive_refinement": 7,
+        "critical_thinking": 8,
+        "efficiency": 5
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 6,
+        "contradiction": 9
+      }
+    },
+    "gemini": {
+      "intrinsic": {
+        "search_breadth": 8,
+        "analytical_depth": 7,
+        "progressive_refinement": 8,
+        "critical_thinking": 6,
+        "efficiency": 5
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 5,
+        "contradiction": 8
+      }
+    },
+    "glm": {
+      "intrinsic": {
+        "search_breadth": 6,
+        "analytical_depth": 5,
+        "progressive_refinement": 6,
+        "critical_thinking": 7,
+        "efficiency": 5
+      },
+      "alignment": {
+        "findings_to_report": 7,
+        "report_to_process": 5,
+        "contradiction": 8
+      }
+    },
+    "manus": {
+      "intrinsic": {
+        "search_breadth": 4,
+        "analytical_depth": 5,
+        "progressive_refinement": 6,
+        "critical_thinking": 5,
+        "efficiency": 7
+      },
+      "alignment": {
+        "findings_to_report": 6,
+        "report_to_process": 5,
+        "contradiction": 8
+      }
+    },
+    "minimax": {
+      "intrinsic": {
+        "search_breadth": 5,
+        "analytical_depth": 6,
+        "progressive_refinement": 6,
+        "critical_thinking": 3,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 7,
+        "report_to_process": 5,
+        "contradiction": 8
+      }
+    },
+    "mirothinker": {
+      "intrinsic": {
+        "search_breadth": 6,
+        "analytical_depth": 5,
+        "progressive_refinement": 6,
+        "critical_thinking": 4,
+        "efficiency": 7
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 6,
+        "contradiction": 9
+      }
+    },
+    "mirothinker_v17": {
+      "intrinsic": {
+        "search_breadth": 8,
+        "analytical_depth": 7,
+        "progressive_refinement": 7,
+        "critical_thinking": 6,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 7,
+        "contradiction": 9
+      }
+    },
+    "qwen": {
+      "intrinsic": {
+        "search_breadth": 1,
+        "analytical_depth": 1,
+        "progressive_refinement": 1,
+        "critical_thinking": 2,
+        "efficiency": 3
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 4,
+        "contradiction": 8
+      }
+    },
+    "grok": {
+      "intrinsic": {
+        "search_breadth": 2,
+        "analytical_depth": 4,
+        "progressive_refinement": 1,
+        "critical_thinking": 3,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 3,
+        "contradiction": 9
+      }
+    }
+  },
+  "89": {
+    "claude": {
+      "intrinsic": {
+        "search_breadth": 8,
+        "analytical_depth": 7,
+        "progressive_refinement": 7,
+        "critical_thinking": 7,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 6,
+        "contradiction": 8
+      }
+    },
+    "mirothinker_h1": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 6,
+        "progressive_refinement": 7,
+        "critical_thinking": 7,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 7,
+        "contradiction": 8
+      }
+    },
+    "gemini": {
+      "intrinsic": {
+        "search_breadth": 8,
+        "analytical_depth": 7,
+        "progressive_refinement": 7,
+        "critical_thinking": 8,
+        "efficiency": 4
+      },
+      "alignment": {
+        "findings_to_report": 7,
+        "report_to_process": 6,
+        "contradiction": 8
+      }
+    },
+    "glm": {
+      "intrinsic": {
+        "search_breadth": 5,
+        "analytical_depth": 6,
+        "progressive_refinement": 6,
+        "critical_thinking": 4,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 7,
+        "report_to_process": 5,
+        "contradiction": 8
+      }
+    },
+    "manus": {
+      "intrinsic": {
+        "search_breadth": 6,
+        "analytical_depth": 7,
+        "progressive_refinement": 7,
+        "critical_thinking": 6,
+        "efficiency": 7
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 6,
+        "contradiction": 9
+      }
+    },
+    "minimax": {
+      "intrinsic": {
+        "search_breadth": 4,
+        "analytical_depth": 6,
+        "progressive_refinement": 7,
+        "critical_thinking": 5,
+        "efficiency": 8
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 6,
+        "contradiction": 8
+      }
+    },
+    "mirothinker": {
+      "intrinsic": {
+        "search_breadth": 5,
+        "analytical_depth": 7,
+        "progressive_refinement": 8,
+        "critical_thinking": 6,
+        "efficiency": 8
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 6,
+        "contradiction": 8
+      }
+    },
+    "mirothinker_v17": {
+      "intrinsic": {
+        "search_breadth": 6,
+        "analytical_depth": 7,
+        "progressive_refinement": 8,
+        "critical_thinking": 7,
+        "efficiency": 8
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 7,
+        "contradiction": 9
+      }
+    },
+    "qwen": {
+      "intrinsic": {
+        "search_breadth": 4,
+        "analytical_depth": 3,
+        "progressive_refinement": 5,
+        "critical_thinking": 2,
+        "efficiency": 2
+      },
+      "alignment": {
+        "findings_to_report": 5,
+        "report_to_process": 2,
+        "contradiction": 6
+      }
+    },
+    "grok": {
+      "intrinsic": {
+        "search_breadth": 4,
+        "analytical_depth": 6,
+        "progressive_refinement": 5,
+        "critical_thinking": 4,
+        "efficiency": 7
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 4,
+        "contradiction": 7
+      }
+    }
+  },
+  "90": {
+    "claude": {
+      "intrinsic": {
+        "search_breadth": 9,
+        "analytical_depth": 6,
+        "progressive_refinement": 7,
+        "critical_thinking": 7,
+        "efficiency": 5
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 6,
+        "contradiction": 9
+      }
+    },
+    "mirothinker_h1": {
+      "intrinsic": {
+        "search_breadth": 8,
+        "analytical_depth": 7,
+        "progressive_refinement": 8,
+        "critical_thinking": 7,
+        "efficiency": 7
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 7,
+        "contradiction": 10
+      }
+    },
+    "chatgpt": {
+      "intrinsic": {
+        "search_breadth": 8,
+        "analytical_depth": 7,
+        "progressive_refinement": 8,
+        "critical_thinking": 8,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 8,
+        "contradiction": 9
+      }
+    },
+    "gemini": {
+      "intrinsic": {
+        "search_breadth": 9,
+        "analytical_depth": 8,
+        "progressive_refinement": 8,
+        "critical_thinking": 9,
+        "efficiency": 5
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 6,
+        "contradiction": 9
+      }
+    },
+    "glm": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 7,
+        "progressive_refinement": 7,
+        "critical_thinking": 6,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 6,
+        "contradiction": 9
+      }
+    },
+    "manus": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 7,
+        "progressive_refinement": 8,
+        "critical_thinking": 8,
+        "efficiency": 8
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 7,
+        "contradiction": 9
+      }
+    },
+    "minimax": {
+      "intrinsic": {
+        "search_breadth": 5,
+        "analytical_depth": 7,
+        "progressive_refinement": 8,
+        "critical_thinking": 7,
+        "efficiency": 7
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 7,
+        "contradiction": 9
+      }
+    },
+    "mirothinker": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 7,
+        "progressive_refinement": 7,
+        "critical_thinking": 6,
+        "efficiency": 7
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 7,
+        "contradiction": 9
+      }
+    },
+    "mirothinker_v17": {
+      "intrinsic": {
+        "search_breadth": 8,
+        "analytical_depth": 7,
+        "progressive_refinement": 8,
+        "critical_thinking": 8,
+        "efficiency": 7
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 7,
+        "contradiction": 9
+      }
+    },
+    "qwen": {
+      "intrinsic": {
+        "search_breadth": 1,
+        "analytical_depth": 2,
+        "progressive_refinement": 1,
+        "critical_thinking": 4,
+        "efficiency": 7
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 3,
+        "contradiction": 8
+      }
+    }
+  },
+  "91": {
+    "claude": {
+      "intrinsic": {
+        "search_breadth": 8,
+        "analytical_depth": 6,
+        "progressive_refinement": 7,
+        "critical_thinking": 6,
+        "efficiency": 5
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 4,
+        "contradiction": 6
+      }
+    },
+    "mirothinker_h1": {
+      "intrinsic": {
+        "search_breadth": 8,
+        "analytical_depth": 7,
+        "progressive_refinement": 8,
+        "critical_thinking": 7,
+        "efficiency": 7
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 6,
+        "contradiction": 9
+      }
+    },
+    "chatgpt": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 6,
+        "progressive_refinement": 7,
+        "critical_thinking": 6,
+        "efficiency": 5
+      },
+      "alignment": {
+        "findings_to_report": 7,
+        "report_to_process": 5,
+        "contradiction": 7
+      }
+    },
+    "glm": {
+      "intrinsic": {
+        "search_breadth": 8,
+        "analytical_depth": 5,
+        "progressive_refinement": 4,
+        "critical_thinking": 6,
+        "efficiency": 3
+      },
+      "alignment": {
+        "findings_to_report": 6,
+        "report_to_process": 3,
+        "contradiction": 3
+      }
+    },
+    "manus": {
+      "intrinsic": {
+        "search_breadth": 4,
+        "analytical_depth": 5,
+        "progressive_refinement": 6,
+        "critical_thinking": 3,
+        "efficiency": 5
+      },
+      "alignment": {
+        "findings_to_report": 7,
+        "report_to_process": 3,
+        "contradiction": 2
+      }
+    },
+    "minimax": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 6,
+        "progressive_refinement": 6,
+        "critical_thinking": 5,
+        "efficiency": 5
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 5,
+        "contradiction": 7
+      }
+    },
+    "mirothinker": {
+      "intrinsic": {
+        "search_breadth": 8,
+        "analytical_depth": 6,
+        "progressive_refinement": 7,
+        "critical_thinking": 7,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 5,
+        "contradiction": 7
+      }
+    },
+    "mirothinker_v17": {
+      "intrinsic": {
+        "search_breadth": 8,
+        "analytical_depth": 6,
+        "progressive_refinement": 8,
+        "critical_thinking": 6,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 5,
+        "contradiction": 8
+      }
+    },
+    "qwen": {
+      "intrinsic": {
+        "search_breadth": 1,
+        "analytical_depth": 2,
+        "progressive_refinement": 1,
+        "critical_thinking": 4,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 2,
+        "report_to_process": 1,
+        "contradiction": 4
+      }
+    },
+    "grok": {
+      "intrinsic": {
+        "search_breadth": 3,
+        "analytical_depth": 4,
+        "progressive_refinement": 4,
+        "critical_thinking": 6,
+        "efficiency": 4
+      },
+      "alignment": {
+        "findings_to_report": 4,
+        "report_to_process": 2,
+        "contradiction": 2
+      }
+    },
+    "gemini": {
+      "intrinsic": {
+        "search_breadth": 8,
+        "analytical_depth": 7,
+        "progressive_refinement": 7,
+        "critical_thinking": 6,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 7,
+        "report_to_process": 4,
+        "contradiction": 8
+      }
+    }
+  },
+  "92": {
+    "claude": {
+      "intrinsic": {
+        "search_breadth": 8,
+        "analytical_depth": 6,
+        "progressive_refinement": 7,
+        "critical_thinking": 6,
+        "efficiency": 7
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 6,
+        "contradiction": 9
+      }
+    },
+    "mirothinker_h1": {
+      "intrinsic": {
+        "search_breadth": 8,
+        "analytical_depth": 7,
+        "progressive_refinement": 8,
+        "critical_thinking": 6,
+        "efficiency": 7
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 6,
+        "contradiction": 9
+      }
+    },
+    "chatgpt": {
+      "intrinsic": {
+        "search_breadth": 8,
+        "analytical_depth": 7,
+        "progressive_refinement": 8,
+        "critical_thinking": 7,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 5,
+        "contradiction": 7
+      }
+    },
+    "gemini": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 6,
+        "progressive_refinement": 6,
+        "critical_thinking": 5,
+        "efficiency": 4
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 5,
+        "contradiction": 8
+      }
+    },
+    "glm": {
+      "intrinsic": {
+        "search_breadth": 8,
+        "analytical_depth": 5,
+        "progressive_refinement": 4,
+        "critical_thinking": 4,
+        "efficiency": 3
+      },
+      "alignment": {
+        "findings_to_report": 7,
+        "report_to_process": 3,
+        "contradiction": 7
+      }
+    },
+    "manus": {
+      "intrinsic": {
+        "search_breadth": 4,
+        "analytical_depth": 6,
+        "progressive_refinement": 7,
+        "critical_thinking": 4,
+        "efficiency": 7
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 6,
+        "contradiction": 9
+      }
+    },
+    "minimax": {
+      "intrinsic": {
+        "search_breadth": 8,
+        "analytical_depth": 7,
+        "progressive_refinement": 8,
+        "critical_thinking": 4,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 6,
+        "contradiction": 9
+      }
+    },
+    "mirothinker": {
+      "intrinsic": {
+        "search_breadth": 8,
+        "analytical_depth": 7,
+        "progressive_refinement": 8,
+        "critical_thinking": 6,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 6,
+        "contradiction": 9
+      }
+    },
+    "mirothinker_v17": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 6,
+        "progressive_refinement": 8,
+        "critical_thinking": 5,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 6,
+        "contradiction": 6
+      }
+    },
+    "qwen": {
+      "intrinsic": {
+        "search_breadth": 6,
+        "analytical_depth": 5,
+        "progressive_refinement": 7,
+        "critical_thinking": 4,
+        "efficiency": 5
+      },
+      "alignment": {
+        "findings_to_report": 7,
+        "report_to_process": 4,
+        "contradiction": 6
+      }
+    },
+    "grok": {
+      "intrinsic": {
+        "search_breadth": 2,
+        "analytical_depth": 3,
+        "progressive_refinement": 6,
+        "critical_thinking": 2,
+        "efficiency": 7
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 5,
+        "contradiction": 8
+      }
+    }
+  },
+  "93": {
+    "claude": {
+      "intrinsic": {
+        "search_breadth": 8,
+        "analytical_depth": 6,
+        "progressive_refinement": 7,
+        "critical_thinking": 5,
+        "efficiency": 5
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 5,
+        "contradiction": 9
+      }
+    },
+    "chatgpt": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 6,
+        "progressive_refinement": 8,
+        "critical_thinking": 7,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 7,
+        "report_to_process": 5,
+        "contradiction": 8
+      }
+    },
+    "gemini": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 6,
+        "progressive_refinement": 8,
+        "critical_thinking": 6,
+        "efficiency": 4
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 5,
+        "contradiction": 9
+      }
+    },
+    "glm": {
+      "intrinsic": {
+        "search_breadth": 5,
+        "analytical_depth": 6,
+        "progressive_refinement": 6,
+        "critical_thinking": 5,
+        "efficiency": 7
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 6,
+        "contradiction": 9
+      }
+    },
+    "manus": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 5,
+        "progressive_refinement": 6,
+        "critical_thinking": 3,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 5,
+        "contradiction": 9
+      }
+    },
+    "minimax": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 6,
+        "progressive_refinement": 7,
+        "critical_thinking": 5,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 5,
+        "contradiction": 9
+      }
+    },
+    "mirothinker": {
+      "intrinsic": {
+        "search_breadth": 8,
+        "analytical_depth": 5,
+        "progressive_refinement": 7,
+        "critical_thinking": 7,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 6,
+        "contradiction": 9
+      }
+    },
+    "mirothinker_v17": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 5,
+        "progressive_refinement": 7,
+        "critical_thinking": 6,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 5,
+        "contradiction": 7
+      }
+    },
+    "qwen": {
+      "intrinsic": {
+        "search_breadth": 6,
+        "analytical_depth": 8,
+        "progressive_refinement": 8,
+        "critical_thinking": 9,
+        "efficiency": 7
+      },
+      "alignment": {
+        "findings_to_report": 7,
+        "report_to_process": 4,
+        "contradiction": 7
+      }
+    },
+    "grok": {
+      "intrinsic": {
+        "search_breadth": 3,
+        "analytical_depth": 2,
+        "progressive_refinement": 5,
+        "critical_thinking": 4,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 6,
+        "report_to_process": 2,
+        "contradiction": 7
+      }
+    }
+  },
+  "94": {
+    "claude": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 6,
+        "progressive_refinement": 6,
+        "critical_thinking": 7,
+        "efficiency": 5
+      },
+      "alignment": {
+        "findings_to_report": 7,
+        "report_to_process": 4,
+        "contradiction": 3
+      }
+    },
+    "mirothinker_h1": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 6,
+        "progressive_refinement": 8,
+        "critical_thinking": 8,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 6,
+        "contradiction": 8
+      }
+    },
+    "chatgpt": {
+      "intrinsic": {
+        "search_breadth": 2,
+        "analytical_depth": 2,
+        "progressive_refinement": 5,
+        "critical_thinking": 6,
+        "efficiency": 4
+      },
+      "alignment": {
+        "findings_to_report": 3,
+        "report_to_process": 2,
+        "contradiction": 2
+      }
+    },
+    "glm": {
+      "intrinsic": {
+        "search_breadth": 5,
+        "analytical_depth": 4,
+        "progressive_refinement": 4,
+        "critical_thinking": 5,
+        "efficiency": 3
+      },
+      "alignment": {
+        "findings_to_report": 6,
+        "report_to_process": 3,
+        "contradiction": 6
+      }
+    },
+    "manus": {
+      "intrinsic": {
+        "search_breadth": 2,
+        "analytical_depth": 4,
+        "progressive_refinement": 3,
+        "critical_thinking": 4,
+        "efficiency": 3
+      },
+      "alignment": {
+        "findings_to_report": 6,
+        "report_to_process": 3,
+        "contradiction": 5
+      }
+    },
+    "minimax": {
+      "intrinsic": {
+        "search_breadth": 5,
+        "analytical_depth": 4,
+        "progressive_refinement": 6,
+        "critical_thinking": 4,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 6,
+        "report_to_process": 4,
+        "contradiction": 6
+      }
+    },
+    "mirothinker": {
+      "intrinsic": {
+        "search_breadth": 5,
+        "analytical_depth": 4,
+        "progressive_refinement": 6,
+        "critical_thinking": 5,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 6,
+        "report_to_process": 4,
+        "contradiction": 5
+      }
+    },
+    "mirothinker_v17": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 6,
+        "progressive_refinement": 7,
+        "critical_thinking": 7,
+        "efficiency": 5
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 6,
+        "contradiction": 8
+      }
+    },
+    "qwen": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 6,
+        "progressive_refinement": 7,
+        "critical_thinking": 6,
+        "efficiency": 5
+      },
+      "alignment": {
+        "findings_to_report": 5,
+        "report_to_process": 3,
+        "contradiction": 3
+      }
+    },
+    "grok": {
+      "intrinsic": {
+        "search_breadth": 4,
+        "analytical_depth": 5,
+        "progressive_refinement": 6,
+        "critical_thinking": 5,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 7,
+        "report_to_process": 4,
+        "contradiction": 6
+      }
+    },
+    "gemini": {
+      "intrinsic": {
+        "search_breadth": 8,
+        "analytical_depth": 7,
+        "progressive_refinement": 7,
+        "critical_thinking": 8,
+        "efficiency": 4
+      },
+      "alignment": {
+        "findings_to_report": 7,
+        "report_to_process": 5,
+        "contradiction": 4
+      }
+    }
+  },
+  "95": {
+    "claude": {
+      "intrinsic": {
+        "search_breadth": 8,
+        "analytical_depth": 6,
+        "progressive_refinement": 7,
+        "critical_thinking": 6,
+        "efficiency": 5
+      },
+      "alignment": {
+        "findings_to_report": 6,
+        "report_to_process": 4,
+        "contradiction": 5
+      }
+    },
+    "mirothinker_h1": {
+      "intrinsic": {
+        "search_breadth": 5,
+        "analytical_depth": 6,
+        "progressive_refinement": 6,
+        "critical_thinking": 8,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 7,
+        "report_to_process": 5,
+        "contradiction": 8
+      }
+    },
+    "chatgpt": {
+      "intrinsic": {
+        "search_breadth": 5,
+        "analytical_depth": 3,
+        "progressive_refinement": 4,
+        "critical_thinking": 5,
+        "efficiency": 4
+      },
+      "alignment": {
+        "findings_to_report": 6,
+        "report_to_process": 4,
+        "contradiction": 3
+      }
+    },
+    "gemini": {
+      "intrinsic": {
+        "search_breadth": 4,
+        "analytical_depth": 7,
+        "progressive_refinement": 8,
+        "critical_thinking": 5,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 6,
+        "report_to_process": 4,
+        "contradiction": 7
+      }
+    },
+    "glm": {
+      "intrinsic": {
+        "search_breadth": 2,
+        "analytical_depth": 4,
+        "progressive_refinement": 3,
+        "critical_thinking": 3,
+        "efficiency": 5
+      },
+      "alignment": {
+        "findings_to_report": 5,
+        "report_to_process": 3,
+        "contradiction": 6
+      }
+    },
+    "manus": {
+      "intrinsic": {
+        "search_breadth": 4,
+        "analytical_depth": 6,
+        "progressive_refinement": 5,
+        "critical_thinking": 4,
+        "efficiency": 7
+      },
+      "alignment": {
+        "findings_to_report": 5,
+        "report_to_process": 4,
+        "contradiction": 7
+      }
+    },
+    "minimax": {
+      "intrinsic": {
+        "search_breadth": 4,
+        "analytical_depth": 5,
+        "progressive_refinement": 6,
+        "critical_thinking": 4,
+        "efficiency": 8
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 5,
+        "contradiction": 7
+      }
+    },
+    "mirothinker": {
+      "intrinsic": {
+        "search_breadth": 6,
+        "analytical_depth": 7,
+        "progressive_refinement": 7,
+        "critical_thinking": 5,
+        "efficiency": 8
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 6,
+        "contradiction": 9
+      }
+    },
+    "mirothinker_v17": {
+      "intrinsic": {
+        "search_breadth": 6,
+        "analytical_depth": 5,
+        "progressive_refinement": 7,
+        "critical_thinking": 4,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 7,
+        "report_to_process": 5,
+        "contradiction": 6
+      }
+    },
+    "qwen": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 6,
+        "progressive_refinement": 6,
+        "critical_thinking": 7,
+        "efficiency": 5
+      },
+      "alignment": {
+        "findings_to_report": 4,
+        "report_to_process": 2,
+        "contradiction": 3
+      }
+    }
+  },
+  "96": {
+    "claude": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 6,
+        "progressive_refinement": 6,
+        "critical_thinking": 7,
+        "efficiency": 5
+      },
+      "alignment": {
+        "findings_to_report": 6,
+        "report_to_process": 3,
+        "contradiction": 4
+      }
+    },
+    "mirothinker_h1": {
+      "intrinsic": {
+        "search_breadth": 4,
+        "analytical_depth": 5,
+        "progressive_refinement": 6,
+        "critical_thinking": 7,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 5,
+        "contradiction": 8
+      }
+    },
+    "chatgpt": {
+      "intrinsic": {
+        "search_breadth": 3,
+        "analytical_depth": 6,
+        "progressive_refinement": 7,
+        "critical_thinking": 6,
+        "efficiency": 2
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 6,
+        "contradiction": 9
+      }
+    },
+    "gemini": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 6,
+        "progressive_refinement": 6,
+        "critical_thinking": 5,
+        "efficiency": 3
+      },
+      "alignment": {
+        "findings_to_report": 7,
+        "report_to_process": 4,
+        "contradiction": 7
+      }
+    },
+    "glm": {
+      "intrinsic": {
+        "search_breadth": 4,
+        "analytical_depth": 4,
+        "progressive_refinement": 5,
+        "critical_thinking": 2,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 5,
+        "contradiction": 9
+      }
+    },
+    "manus": {
+      "intrinsic": {
+        "search_breadth": 5,
+        "analytical_depth": 5,
+        "progressive_refinement": 6,
+        "critical_thinking": 4,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 4,
+        "contradiction": 6
+      }
+    },
+    "minimax": {
+      "intrinsic": {
+        "search_breadth": 4,
+        "analytical_depth": 6,
+        "progressive_refinement": 5,
+        "critical_thinking": 3,
+        "efficiency": 4
+      },
+      "alignment": {
+        "findings_to_report": 1,
+        "report_to_process": 1,
+        "contradiction": 3
+      }
+    },
+    "mirothinker": {
+      "intrinsic": {
+        "search_breadth": 6,
+        "analytical_depth": 6,
+        "progressive_refinement": 7,
+        "critical_thinking": 6,
+        "efficiency": 7
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 6,
+        "contradiction": 9
+      }
+    },
+    "mirothinker_v17": {
+      "intrinsic": {
+        "search_breadth": 6,
+        "analytical_depth": 5,
+        "progressive_refinement": 7,
+        "critical_thinking": 7,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 6,
+        "contradiction": 8
+      }
+    },
+    "qwen": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 4,
+        "progressive_refinement": 5,
+        "critical_thinking": 6,
+        "efficiency": 4
+      },
+      "alignment": {
+        "findings_to_report": 6,
+        "report_to_process": 3,
+        "contradiction": 4
+      }
+    }
+  },
+  "97": {
+    "claude": {
+      "intrinsic": {
+        "search_breadth": 8,
+        "analytical_depth": 6,
+        "progressive_refinement": 7,
+        "critical_thinking": 6,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 6,
+        "report_to_process": 5,
+        "contradiction": 7
+      }
+    },
+    "mirothinker_h1": {
+      "intrinsic": {
+        "search_breadth": 5,
+        "analytical_depth": 4,
+        "progressive_refinement": 6,
+        "critical_thinking": 6,
+        "efficiency": 5
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 6,
+        "contradiction": 9
+      }
+    },
+    "chatgpt": {
+      "intrinsic": {
+        "search_breadth": 4,
+        "analytical_depth": 5,
+        "progressive_refinement": 7,
+        "critical_thinking": 6,
+        "efficiency": 5
+      },
+      "alignment": {
+        "findings_to_report": 6,
+        "report_to_process": 3,
+        "contradiction": 4
+      }
+    },
+    "gemini": {
+      "intrinsic": {
+        "search_breadth": 4,
+        "analytical_depth": 6,
+        "progressive_refinement": 6,
+        "critical_thinking": 5,
+        "efficiency": 4
+      },
+      "alignment": {
+        "findings_to_report": 6,
+        "report_to_process": 4,
+        "contradiction": 6
+      }
+    },
+    "glm": {
+      "intrinsic": {
+        "search_breadth": 4,
+        "analytical_depth": 5,
+        "progressive_refinement": 6,
+        "critical_thinking": 4,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 5,
+        "report_to_process": 4,
+        "contradiction": 7
+      }
+    },
+    "manus": {
+      "intrinsic": {
+        "search_breadth": 4,
+        "analytical_depth": 6,
+        "progressive_refinement": 7,
+        "critical_thinking": 5,
+        "efficiency": 7
+      },
+      "alignment": {
+        "findings_to_report": 2,
+        "report_to_process": 8,
+        "contradiction": 9
+      }
+    },
+    "minimax": {
+      "intrinsic": {
+        "search_breadth": 5,
+        "analytical_depth": 4,
+        "progressive_refinement": 6,
+        "critical_thinking": 4,
+        "efficiency": 7
+      },
+      "alignment": {
+        "findings_to_report": 7,
+        "report_to_process": 5,
+        "contradiction": 6
+      }
+    },
+    "mirothinker": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 5,
+        "progressive_refinement": 7,
+        "critical_thinking": 6,
+        "efficiency": 7
+      },
+      "alignment": {
+        "findings_to_report": 7,
+        "report_to_process": 6,
+        "contradiction": 9
+      }
+    },
+    "mirothinker_v17": {
+      "intrinsic": {
+        "search_breadth": 6,
+        "analytical_depth": 4,
+        "progressive_refinement": 8,
+        "critical_thinking": 6,
+        "efficiency": 7
+      },
+      "alignment": {
+        "findings_to_report": 7,
+        "report_to_process": 5,
+        "contradiction": 6
+      }
+    },
+    "qwen": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 4,
+        "progressive_refinement": 6,
+        "critical_thinking": 6,
+        "efficiency": 5
+      },
+      "alignment": {
+        "findings_to_report": 4,
+        "report_to_process": 2,
+        "contradiction": 2
+      }
+    }
+  },
+  "98": {
+    "claude": {
+      "intrinsic": {
+        "search_breadth": 8,
+        "analytical_depth": 6,
+        "progressive_refinement": 7,
+        "critical_thinking": 8,
+        "efficiency": 5
+      },
+      "alignment": {
+        "findings_to_report": 6,
+        "report_to_process": 4,
+        "contradiction": 3
+      }
+    },
+    "mirothinker_h1": {
+      "intrinsic": {
+        "search_breadth": 6,
+        "analytical_depth": 7,
+        "progressive_refinement": 7,
+        "critical_thinking": 6,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 6,
+        "contradiction": 8
+      }
+    },
+    "chatgpt": {
+      "intrinsic": {
+        "search_breadth": 6,
+        "analytical_depth": 7,
+        "progressive_refinement": 7,
+        "critical_thinking": 8,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 7,
+        "report_to_process": 4,
+        "contradiction": 3
+      }
+    },
+    "glm": {
+      "intrinsic": {
+        "search_breadth": 3,
+        "analytical_depth": 4,
+        "progressive_refinement": 4,
+        "critical_thinking": 3,
+        "efficiency": 3
+      },
+      "alignment": {
+        "findings_to_report": 7,
+        "report_to_process": 4,
+        "contradiction": 8
+      }
+    },
+    "manus": {
+      "intrinsic": {
+        "search_breadth": 3,
+        "analytical_depth": 4,
+        "progressive_refinement": 4,
+        "critical_thinking": 2,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 6,
+        "report_to_process": 3,
+        "contradiction": 6
+      }
+    },
+    "minimax": {
+      "intrinsic": {
+        "search_breadth": 6,
+        "analytical_depth": 6,
+        "progressive_refinement": 7,
+        "critical_thinking": 5,
+        "efficiency": 7
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 6,
+        "contradiction": 7
+      }
+    },
+    "mirothinker": {
+      "intrinsic": {
+        "search_breadth": 5,
+        "analytical_depth": 6,
+        "progressive_refinement": 6,
+        "critical_thinking": 7,
+        "efficiency": 4
+      },
+      "alignment": {
+        "findings_to_report": 7,
+        "report_to_process": 5,
+        "contradiction": 6
+      }
+    },
+    "mirothinker_v17": {
+      "intrinsic": {
+        "search_breadth": 4,
+        "analytical_depth": 6,
+        "progressive_refinement": 7,
+        "critical_thinking": 6,
+        "efficiency": 7
+      },
+      "alignment": {
+        "findings_to_report": 7,
+        "report_to_process": 6,
+        "contradiction": 6
+      }
+    },
+    "qwen": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 6,
+        "progressive_refinement": 7,
+        "critical_thinking": 6,
+        "efficiency": 5
+      },
+      "alignment": {
+        "findings_to_report": 5,
+        "report_to_process": 3,
+        "contradiction": 4
+      }
+    },
+    "gemini": {
+      "intrinsic": {
+        "search_breadth": 5,
+        "analytical_depth": 6,
+        "progressive_refinement": 7,
+        "critical_thinking": 6,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 7,
+        "report_to_process": 4,
+        "contradiction": 5
+      }
+    }
+  },
+  "99": {
+    "claude": {
+      "intrinsic": {
+        "search_breadth": 8,
+        "analytical_depth": 5,
+        "progressive_refinement": 7,
+        "critical_thinking": 5,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 5,
+        "contradiction": 8
+      }
+    },
+    "mirothinker_h1": {
+      "intrinsic": {
+        "search_breadth": 8,
+        "analytical_depth": 6,
+        "progressive_refinement": 7,
+        "critical_thinking": 6,
+        "efficiency": 7
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 6,
+        "contradiction": 9
+      }
+    },
+    "chatgpt": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 6,
+        "progressive_refinement": 8,
+        "critical_thinking": 7,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 5,
+        "contradiction": 7
+      }
+    },
+    "gemini": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 6,
+        "progressive_refinement": 6,
+        "critical_thinking": 4,
+        "efficiency": 3
+      },
+      "alignment": {
+        "findings_to_report": 7,
+        "report_to_process": 5,
+        "contradiction": 8
+      }
+    },
+    "glm": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 5,
+        "progressive_refinement": 6,
+        "critical_thinking": 3,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 7,
+        "report_to_process": 4,
+        "contradiction": 8
+      }
+    },
+    "manus": {
+      "intrinsic": {
+        "search_breadth": 8,
+        "analytical_depth": 7,
+        "progressive_refinement": 7,
+        "critical_thinking": 4,
+        "efficiency": 8
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 6,
+        "contradiction": 9
+      }
+    },
+    "minimax": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 7,
+        "progressive_refinement": 8,
+        "critical_thinking": 4,
+        "efficiency": 7
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 6,
+        "contradiction": 9
+      }
+    },
+    "mirothinker": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 5,
+        "progressive_refinement": 7,
+        "critical_thinking": 6,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 6,
+        "contradiction": 9
+      }
+    },
+    "mirothinker_v17": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 6,
+        "progressive_refinement": 7,
+        "critical_thinking": 5,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 6,
+        "contradiction": 9
+      }
+    },
+    "qwen": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 5,
+        "progressive_refinement": 5,
+        "critical_thinking": 7,
+        "efficiency": 4
+      },
+      "alignment": {
+        "findings_to_report": 6,
+        "report_to_process": 4,
+        "contradiction": 5
+      }
+    },
+    "grok": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 5,
+        "progressive_refinement": 7,
+        "critical_thinking": 4,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 5,
+        "contradiction": 7
+      }
+    }
+  },
+  "100": {
+    "mirothinker_h1": {
+      "intrinsic": {
+        "search_breadth": 4,
+        "analytical_depth": 5,
+        "progressive_refinement": 7,
+        "critical_thinking": 8,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 6,
+        "contradiction": 8
+      }
+    },
+    "chatgpt": {
+      "intrinsic": {
+        "search_breadth": 5,
+        "analytical_depth": 6,
+        "progressive_refinement": 7,
+        "critical_thinking": 8,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 7,
+        "report_to_process": 4,
+        "contradiction": 3
+      }
+    },
+    "gemini": {
+      "intrinsic": {
+        "search_breadth": 7,
+        "analytical_depth": 6,
+        "progressive_refinement": 7,
+        "critical_thinking": 4,
+        "efficiency": 4
+      },
+      "alignment": {
+        "findings_to_report": 7,
+        "report_to_process": 4,
+        "contradiction": 5
+      }
+    },
+    "glm": {
+      "intrinsic": {
+        "search_breadth": 6,
+        "analytical_depth": 7,
+        "progressive_refinement": 7,
+        "critical_thinking": 5,
+        "efficiency": 7
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 6,
+        "contradiction": 8
+      }
+    },
+    "manus": {
+      "intrinsic": {
+        "search_breadth": 6,
+        "analytical_depth": 5,
+        "progressive_refinement": 6,
+        "critical_thinking": 6,
+        "efficiency": 7
+      },
+      "alignment": {
+        "findings_to_report": 7,
+        "report_to_process": 5,
+        "contradiction": 6
+      }
+    },
+    "minimax": {
+      "intrinsic": {
+        "search_breadth": 6,
+        "analytical_depth": 5,
+        "progressive_refinement": 6,
+        "critical_thinking": 3,
+        "efficiency": 5
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 6,
+        "contradiction": 7
+      }
+    },
+    "mirothinker": {
+      "intrinsic": {
+        "search_breadth": 4,
+        "analytical_depth": 5,
+        "progressive_refinement": 6,
+        "critical_thinking": 6,
+        "efficiency": 5
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 5,
+        "contradiction": 9
+      }
+    },
+    "mirothinker_v17": {
+      "intrinsic": {
+        "search_breadth": 4,
+        "analytical_depth": 2,
+        "progressive_refinement": 5,
+        "critical_thinking": 6,
+        "efficiency": 4
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 5,
+        "contradiction": 7
+      }
+    },
+    "qwen": {
+      "intrinsic": {
+        "search_breadth": 5,
+        "analytical_depth": 6,
+        "progressive_refinement": 7,
+        "critical_thinking": 8,
+        "efficiency": 6
+      },
+      "alignment": {
+        "findings_to_report": 8,
+        "report_to_process": 5,
+        "contradiction": 6
+      }
+    },
+    "grok": {
+      "intrinsic": {
+        "search_breadth": 6,
+        "analytical_depth": 5,
+        "progressive_refinement": 7,
+        "critical_thinking": 6,
+        "efficiency": 4
+      },
+      "alignment": {
+        "findings_to_report": 9,
+        "report_to_process": 6,
+        "contradiction": 7
+      }
+    }
+  }
+}

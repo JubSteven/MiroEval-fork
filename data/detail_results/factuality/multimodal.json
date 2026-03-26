@@ -1,0 +1,1847 @@
+{
+  "71": {
+    "chatgpt": {
+      "right": 41,
+      "wrong": 6,
+      "conflict": 0,
+      "unknown": 7
+    },
+    "claude": {
+      "right": 38,
+      "wrong": 3,
+      "conflict": 1,
+      "unknown": 11
+    },
+    "gemini": {
+      "right": 26,
+      "wrong": 3,
+      "conflict": 2,
+      "unknown": 6
+    },
+    "glm": {
+      "right": 30,
+      "wrong": 5,
+      "conflict": 0,
+      "unknown": 11
+    },
+    "grok": {
+      "right": 17,
+      "wrong": 2,
+      "conflict": 0,
+      "unknown": 4
+    },
+    "manus": {
+      "right": 17,
+      "wrong": 3,
+      "conflict": 3,
+      "unknown": 5
+    },
+    "minimax": {
+      "right": 25,
+      "wrong": 1,
+      "conflict": 3,
+      "unknown": 8
+    },
+    "mirothinker": null,
+    "mirothinker_h1": {
+      "right": 90,
+      "wrong": 5,
+      "conflict": 4,
+      "unknown": 4
+    },
+    "mirothinker_v17": {
+      "right": 28,
+      "wrong": 1,
+      "conflict": 1,
+      "unknown": 5
+    },
+    "qwen": {
+      "right": 24,
+      "wrong": 3,
+      "conflict": 1,
+      "unknown": 6
+    }
+  },
+  "72": {
+    "chatgpt": {
+      "right": 22,
+      "wrong": 3,
+      "conflict": 2,
+      "unknown": 4
+    },
+    "claude": {
+      "right": 21,
+      "wrong": 2,
+      "conflict": 2,
+      "unknown": 7
+    },
+    "gemini": {
+      "right": 70,
+      "wrong": 4,
+      "conflict": 5,
+      "unknown": 11
+    },
+    "glm": {
+      "right": 54,
+      "wrong": 16,
+      "conflict": 5,
+      "unknown": 17
+    },
+    "grok": {
+      "right": 40,
+      "wrong": 2,
+      "conflict": 0,
+      "unknown": 7
+    },
+    "manus": {
+      "right": 29,
+      "wrong": 5,
+      "conflict": 4,
+      "unknown": 2
+    },
+    "minimax": {
+      "right": 60,
+      "wrong": 2,
+      "conflict": 1,
+      "unknown": 8
+    },
+    "mirothinker": null,
+    "mirothinker_h1": {
+      "right": 44,
+      "wrong": 1,
+      "conflict": 1,
+      "unknown": 11
+    },
+    "mirothinker_v17": {
+      "right": 36,
+      "wrong": 5,
+      "conflict": 3,
+      "unknown": 16
+    },
+    "qwen": {
+      "right": 19,
+      "wrong": 2,
+      "conflict": 0,
+      "unknown": 3
+    }
+  },
+  "73": {
+    "chatgpt": {
+      "right": 72,
+      "wrong": 5,
+      "conflict": 1,
+      "unknown": 4
+    },
+    "claude": {
+      "right": 20,
+      "wrong": 1,
+      "conflict": 0,
+      "unknown": 4
+    },
+    "gemini": {
+      "right": 26,
+      "wrong": 7,
+      "conflict": 0,
+      "unknown": 5
+    },
+    "glm": {
+      "right": 19,
+      "wrong": 0,
+      "conflict": 1,
+      "unknown": 1
+    },
+    "grok": {
+      "right": 18,
+      "wrong": 1,
+      "conflict": 0,
+      "unknown": 1
+    },
+    "manus": {
+      "right": 13,
+      "wrong": 2,
+      "conflict": 1,
+      "unknown": 0
+    },
+    "minimax": {
+      "right": 10,
+      "wrong": 1,
+      "conflict": 0,
+      "unknown": 1
+    },
+    "mirothinker": null,
+    "mirothinker_h1": {
+      "right": 40,
+      "wrong": 6,
+      "conflict": 0,
+      "unknown": 2
+    },
+    "mirothinker_v17": {
+      "right": 31,
+      "wrong": 1,
+      "conflict": 0,
+      "unknown": 2
+    },
+    "qwen": {
+      "right": 24,
+      "wrong": 5,
+      "conflict": 0,
+      "unknown": 3
+    }
+  },
+  "74": {
+    "chatgpt": {
+      "right": 32,
+      "wrong": 16,
+      "conflict": 2,
+      "unknown": 0
+    },
+    "claude": {
+      "right": 25,
+      "wrong": 4,
+      "conflict": 1,
+      "unknown": 5
+    },
+    "gemini": {
+      "right": 27,
+      "wrong": 14,
+      "conflict": 3,
+      "unknown": 8
+    },
+    "glm": {
+      "right": 17,
+      "wrong": 13,
+      "conflict": 0,
+      "unknown": 1
+    },
+    "grok": {
+      "right": 18,
+      "wrong": 17,
+      "conflict": 0,
+      "unknown": 9
+    },
+    "manus": {
+      "right": 22,
+      "wrong": 19,
+      "conflict": 0,
+      "unknown": 22
+    },
+    "minimax": {
+      "right": 15,
+      "wrong": 6,
+      "conflict": 2,
+      "unknown": 7
+    },
+    "mirothinker": null,
+    "mirothinker_h1": {
+      "right": 27,
+      "wrong": 8,
+      "conflict": 0,
+      "unknown": 7
+    },
+    "mirothinker_v17": {
+      "right": 22,
+      "wrong": 15,
+      "conflict": 1,
+      "unknown": 7
+    },
+    "qwen": {
+      "right": 18,
+      "wrong": 17,
+      "conflict": 2,
+      "unknown": 8
+    }
+  },
+  "75": {
+    "chatgpt": {
+      "right": 53,
+      "wrong": 1,
+      "conflict": 0,
+      "unknown": 5
+    },
+    "claude": {
+      "right": 96,
+      "wrong": 5,
+      "conflict": 4,
+      "unknown": 10
+    },
+    "gemini": {
+      "right": 64,
+      "wrong": 4,
+      "conflict": 3,
+      "unknown": 11
+    },
+    "glm": {
+      "right": 18,
+      "wrong": 4,
+      "conflict": 2,
+      "unknown": 3
+    },
+    "grok": {
+      "right": 35,
+      "wrong": 3,
+      "conflict": 1,
+      "unknown": 2
+    },
+    "manus": {
+      "right": 28,
+      "wrong": 2,
+      "conflict": 0,
+      "unknown": 3
+    },
+    "minimax": {
+      "right": 10,
+      "wrong": 1,
+      "conflict": 0,
+      "unknown": 1
+    },
+    "mirothinker": null,
+    "mirothinker_h1": {
+      "right": 57,
+      "wrong": 1,
+      "conflict": 1,
+      "unknown": 1
+    },
+    "mirothinker_v17": {
+      "right": 39,
+      "wrong": 3,
+      "conflict": 1,
+      "unknown": 3
+    },
+    "qwen": {
+      "right": 22,
+      "wrong": 0,
+      "conflict": 1,
+      "unknown": 3
+    }
+  },
+  "76": {
+    "chatgpt": {
+      "right": 26,
+      "wrong": 4,
+      "conflict": 0,
+      "unknown": 4
+    },
+    "claude": {
+      "right": 37,
+      "wrong": 0,
+      "conflict": 0,
+      "unknown": 2
+    },
+    "gemini": {
+      "right": 37,
+      "wrong": 12,
+      "conflict": 1,
+      "unknown": 5
+    },
+    "glm": {
+      "right": 9,
+      "wrong": 6,
+      "conflict": 0,
+      "unknown": 3
+    },
+    "grok": {
+      "right": 17,
+      "wrong": 4,
+      "conflict": 1,
+      "unknown": 4
+    },
+    "manus": {
+      "right": 25,
+      "wrong": 4,
+      "conflict": 2,
+      "unknown": 2
+    },
+    "minimax": {
+      "right": 19,
+      "wrong": 8,
+      "conflict": 0,
+      "unknown": 4
+    },
+    "mirothinker": null,
+    "mirothinker_h1": {
+      "right": 47,
+      "wrong": 7,
+      "conflict": 0,
+      "unknown": 3
+    },
+    "mirothinker_v17": {
+      "right": 19,
+      "wrong": 1,
+      "conflict": 0,
+      "unknown": 2
+    },
+    "qwen": {
+      "right": 13,
+      "wrong": 4,
+      "conflict": 0,
+      "unknown": 2
+    }
+  },
+  "77": {
+    "chatgpt": {
+      "right": 42,
+      "wrong": 3,
+      "conflict": 2,
+      "unknown": 5
+    },
+    "claude": null,
+    "gemini": {
+      "right": 28,
+      "wrong": 7,
+      "conflict": 0,
+      "unknown": 11
+    },
+    "glm": {
+      "right": 43,
+      "wrong": 3,
+      "conflict": 4,
+      "unknown": 18
+    },
+    "grok": {
+      "right": 29,
+      "wrong": 3,
+      "conflict": 0,
+      "unknown": 8
+    },
+    "manus": null,
+    "minimax": {
+      "right": 15,
+      "wrong": 6,
+      "conflict": 1,
+      "unknown": 5
+    },
+    "mirothinker": null,
+    "mirothinker_h1": {
+      "right": 27,
+      "wrong": 5,
+      "conflict": 2,
+      "unknown": 5
+    },
+    "mirothinker_v17": {
+      "right": 22,
+      "wrong": 2,
+      "conflict": 2,
+      "unknown": 8
+    },
+    "qwen": {
+      "right": 9,
+      "wrong": 0,
+      "conflict": 3,
+      "unknown": 8
+    }
+  },
+  "78": {
+    "chatgpt": {
+      "right": 68,
+      "wrong": 4,
+      "conflict": 3,
+      "unknown": 14
+    },
+    "claude": {
+      "right": 28,
+      "wrong": 2,
+      "conflict": 0,
+      "unknown": 12
+    },
+    "gemini": {
+      "right": 66,
+      "wrong": 8,
+      "conflict": 2,
+      "unknown": 14
+    },
+    "glm": {
+      "right": 33,
+      "wrong": 0,
+      "conflict": 2,
+      "unknown": 8
+    },
+    "grok": null,
+    "manus": {
+      "right": 26,
+      "wrong": 2,
+      "conflict": 1,
+      "unknown": 6
+    },
+    "minimax": {
+      "right": 22,
+      "wrong": 2,
+      "conflict": 0,
+      "unknown": 8
+    },
+    "mirothinker": null,
+    "mirothinker_h1": {
+      "right": 50,
+      "wrong": 3,
+      "conflict": 3,
+      "unknown": 13
+    },
+    "mirothinker_v17": {
+      "right": 24,
+      "wrong": 0,
+      "conflict": 2,
+      "unknown": 7
+    },
+    "qwen": {
+      "right": 32,
+      "wrong": 0,
+      "conflict": 0,
+      "unknown": 3
+    }
+  },
+  "79": {
+    "chatgpt": {
+      "right": 18,
+      "wrong": 1,
+      "conflict": 2,
+      "unknown": 3
+    },
+    "claude": {
+      "right": 5,
+      "wrong": 0,
+      "conflict": 2,
+      "unknown": 14
+    },
+    "gemini": {
+      "right": 24,
+      "wrong": 1,
+      "conflict": 0,
+      "unknown": 7
+    },
+    "glm": {
+      "right": 22,
+      "wrong": 3,
+      "conflict": 1,
+      "unknown": 10
+    },
+    "grok": {
+      "right": 27,
+      "wrong": 4,
+      "conflict": 2,
+      "unknown": 6
+    },
+    "manus": {
+      "right": 5,
+      "wrong": 2,
+      "conflict": 0,
+      "unknown": 7
+    },
+    "minimax": {
+      "right": 34,
+      "wrong": 2,
+      "conflict": 4,
+      "unknown": 11
+    },
+    "mirothinker": null,
+    "mirothinker_h1": {
+      "right": 70,
+      "wrong": 1,
+      "conflict": 3,
+      "unknown": 13
+    },
+    "mirothinker_v17": {
+      "right": 84,
+      "wrong": 12,
+      "conflict": 6,
+      "unknown": 24
+    },
+    "qwen": {
+      "right": 27,
+      "wrong": 1,
+      "conflict": 0,
+      "unknown": 9
+    }
+  },
+  "80": {
+    "chatgpt": {
+      "right": 44,
+      "wrong": 0,
+      "conflict": 0,
+      "unknown": 2
+    },
+    "claude": {
+      "right": 26,
+      "wrong": 1,
+      "conflict": 0,
+      "unknown": 6
+    },
+    "gemini": {
+      "right": 36,
+      "wrong": 1,
+      "conflict": 0,
+      "unknown": 4
+    },
+    "glm": {
+      "right": 27,
+      "wrong": 3,
+      "conflict": 2,
+      "unknown": 4
+    },
+    "grok": {
+      "right": 35,
+      "wrong": 3,
+      "conflict": 0,
+      "unknown": 1
+    },
+    "manus": {
+      "right": 32,
+      "wrong": 3,
+      "conflict": 2,
+      "unknown": 1
+    },
+    "minimax": {
+      "right": 18,
+      "wrong": 0,
+      "conflict": 0,
+      "unknown": 2
+    },
+    "mirothinker": null,
+    "mirothinker_h1": {
+      "right": 40,
+      "wrong": 1,
+      "conflict": 0,
+      "unknown": 0
+    },
+    "mirothinker_v17": {
+      "right": 23,
+      "wrong": 0,
+      "conflict": 0,
+      "unknown": 2
+    },
+    "qwen": {
+      "right": 17,
+      "wrong": 2,
+      "conflict": 0,
+      "unknown": 3
+    }
+  },
+  "81": {
+    "chatgpt": {
+      "right": 7,
+      "wrong": 0,
+      "conflict": 0,
+      "unknown": 3
+    },
+    "claude": {
+      "right": 18,
+      "wrong": 0,
+      "conflict": 1,
+      "unknown": 5
+    },
+    "gemini": {
+      "right": 24,
+      "wrong": 0,
+      "conflict": 0,
+      "unknown": 4
+    },
+    "glm": {
+      "right": 15,
+      "wrong": 4,
+      "conflict": 0,
+      "unknown": 2
+    },
+    "grok": null,
+    "manus": {
+      "right": 0,
+      "wrong": 1,
+      "conflict": 0,
+      "unknown": 0
+    },
+    "minimax": {
+      "right": 103,
+      "wrong": 11,
+      "conflict": 6,
+      "unknown": 27
+    },
+    "mirothinker": null,
+    "mirothinker_h1": {
+      "right": 23,
+      "wrong": 1,
+      "conflict": 0,
+      "unknown": 9
+    },
+    "mirothinker_v17": {
+      "right": 34,
+      "wrong": 2,
+      "conflict": 1,
+      "unknown": 12
+    },
+    "qwen": {
+      "right": 32,
+      "wrong": 3,
+      "conflict": 0,
+      "unknown": 4
+    }
+  },
+  "82": {
+    "chatgpt": {
+      "right": 19,
+      "wrong": 4,
+      "conflict": 0,
+      "unknown": 6
+    },
+    "claude": {
+      "right": 61,
+      "wrong": 5,
+      "conflict": 2,
+      "unknown": 21
+    },
+    "gemini": {
+      "right": 55,
+      "wrong": 0,
+      "conflict": 1,
+      "unknown": 7
+    },
+    "glm": {
+      "right": 38,
+      "wrong": 2,
+      "conflict": 2,
+      "unknown": 4
+    },
+    "grok": {
+      "right": 21,
+      "wrong": 0,
+      "conflict": 0,
+      "unknown": 5
+    },
+    "manus": {
+      "right": 41,
+      "wrong": 2,
+      "conflict": 3,
+      "unknown": 5
+    },
+    "minimax": {
+      "right": 15,
+      "wrong": 0,
+      "conflict": 0,
+      "unknown": 0
+    },
+    "mirothinker": null,
+    "mirothinker_h1": {
+      "right": 44,
+      "wrong": 0,
+      "conflict": 1,
+      "unknown": 4
+    },
+    "mirothinker_v17": {
+      "right": 14,
+      "wrong": 0,
+      "conflict": 0,
+      "unknown": 2
+    },
+    "qwen": {
+      "right": 52,
+      "wrong": 3,
+      "conflict": 0,
+      "unknown": 5
+    }
+  },
+  "83": {
+    "chatgpt": {
+      "right": 26,
+      "wrong": 0,
+      "conflict": 0,
+      "unknown": 3
+    },
+    "claude": {
+      "right": 47,
+      "wrong": 3,
+      "conflict": 2,
+      "unknown": 11
+    },
+    "gemini": {
+      "right": 66,
+      "wrong": 4,
+      "conflict": 1,
+      "unknown": 13
+    },
+    "glm": {
+      "right": 16,
+      "wrong": 1,
+      "conflict": 0,
+      "unknown": 3
+    },
+    "grok": {
+      "right": 17,
+      "wrong": 2,
+      "conflict": 1,
+      "unknown": 0
+    },
+    "manus": {
+      "right": 9,
+      "wrong": 0,
+      "conflict": 0,
+      "unknown": 0
+    },
+    "minimax": {
+      "right": 17,
+      "wrong": 0,
+      "conflict": 0,
+      "unknown": 2
+    },
+    "mirothinker": null,
+    "mirothinker_h1": {
+      "right": 28,
+      "wrong": 0,
+      "conflict": 0,
+      "unknown": 3
+    },
+    "mirothinker_v17": {
+      "right": 45,
+      "wrong": 3,
+      "conflict": 0,
+      "unknown": 4
+    },
+    "qwen": {
+      "right": 14,
+      "wrong": 10,
+      "conflict": 1,
+      "unknown": 2
+    }
+  },
+  "84": {
+    "chatgpt": {
+      "right": 4,
+      "wrong": 0,
+      "conflict": 0,
+      "unknown": 3
+    },
+    "claude": null,
+    "gemini": {
+      "right": 44,
+      "wrong": 3,
+      "conflict": 6,
+      "unknown": 8
+    },
+    "glm": {
+      "right": 7,
+      "wrong": 5,
+      "conflict": 0,
+      "unknown": 4
+    },
+    "grok": {
+      "right": 16,
+      "wrong": 4,
+      "conflict": 0,
+      "unknown": 1
+    },
+    "manus": {
+      "right": 16,
+      "wrong": 4,
+      "conflict": 0,
+      "unknown": 11
+    },
+    "minimax": {
+      "right": 17,
+      "wrong": 21,
+      "conflict": 0,
+      "unknown": 3
+    },
+    "mirothinker": null,
+    "mirothinker_h1": {
+      "right": 56,
+      "wrong": 10,
+      "conflict": 7,
+      "unknown": 3
+    },
+    "mirothinker_v17": {
+      "right": 37,
+      "wrong": 1,
+      "conflict": 2,
+      "unknown": 3
+    },
+    "qwen": {
+      "right": 8,
+      "wrong": 0,
+      "conflict": 0,
+      "unknown": 0
+    }
+  },
+  "85": {
+    "chatgpt": {
+      "right": 58,
+      "wrong": 5,
+      "conflict": 1,
+      "unknown": 2
+    },
+    "claude": {
+      "right": 69,
+      "wrong": 10,
+      "conflict": 6,
+      "unknown": 29
+    },
+    "gemini": {
+      "right": 64,
+      "wrong": 12,
+      "conflict": 0,
+      "unknown": 12
+    },
+    "glm": {
+      "right": 74,
+      "wrong": 9,
+      "conflict": 1,
+      "unknown": 13
+    },
+    "grok": {
+      "right": 27,
+      "wrong": 7,
+      "conflict": 0,
+      "unknown": 6
+    },
+    "manus": {
+      "right": 43,
+      "wrong": 3,
+      "conflict": 2,
+      "unknown": 6
+    },
+    "minimax": {
+      "right": 74,
+      "wrong": 8,
+      "conflict": 0,
+      "unknown": 16
+    },
+    "mirothinker": null,
+    "mirothinker_h1": {
+      "right": 51,
+      "wrong": 0,
+      "conflict": 0,
+      "unknown": 7
+    },
+    "mirothinker_v17": {
+      "right": 60,
+      "wrong": 4,
+      "conflict": 1,
+      "unknown": 10
+    },
+    "qwen": {
+      "right": 21,
+      "wrong": 1,
+      "conflict": 0,
+      "unknown": 6
+    }
+  },
+  "86": {
+    "chatgpt": {
+      "right": 41,
+      "wrong": 2,
+      "conflict": 4,
+      "unknown": 8
+    },
+    "claude": {
+      "right": 42,
+      "wrong": 2,
+      "conflict": 1,
+      "unknown": 4
+    },
+    "gemini": {
+      "right": 65,
+      "wrong": 4,
+      "conflict": 3,
+      "unknown": 14
+    },
+    "glm": {
+      "right": 40,
+      "wrong": 5,
+      "conflict": 2,
+      "unknown": 12
+    },
+    "grok": {
+      "right": 56,
+      "wrong": 7,
+      "conflict": 2,
+      "unknown": 3
+    },
+    "manus": {
+      "right": 33,
+      "wrong": 6,
+      "conflict": 1,
+      "unknown": 2
+    },
+    "minimax": {
+      "right": 68,
+      "wrong": 21,
+      "conflict": 3,
+      "unknown": 28
+    },
+    "mirothinker": null,
+    "mirothinker_h1": {
+      "right": 40,
+      "wrong": 1,
+      "conflict": 2,
+      "unknown": 11
+    },
+    "mirothinker_v17": {
+      "right": 44,
+      "wrong": 4,
+      "conflict": 1,
+      "unknown": 9
+    },
+    "qwen": {
+      "right": 21,
+      "wrong": 9,
+      "conflict": 0,
+      "unknown": 2
+    }
+  },
+  "87": {
+    "chatgpt": {
+      "right": 72,
+      "wrong": 0,
+      "conflict": 2,
+      "unknown": 10
+    },
+    "claude": null,
+    "gemini": {
+      "right": 28,
+      "wrong": 8,
+      "conflict": 2,
+      "unknown": 21
+    },
+    "glm": null,
+    "grok": {
+      "right": 19,
+      "wrong": 11,
+      "conflict": 1,
+      "unknown": 10
+    },
+    "manus": {
+      "right": 25,
+      "wrong": 0,
+      "conflict": 3,
+      "unknown": 2
+    },
+    "minimax": {
+      "right": 57,
+      "wrong": 25,
+      "conflict": 4,
+      "unknown": 20
+    },
+    "mirothinker": null,
+    "mirothinker_h1": {
+      "right": 42,
+      "wrong": 2,
+      "conflict": 2,
+      "unknown": 11
+    },
+    "mirothinker_v17": {
+      "right": 49,
+      "wrong": 3,
+      "conflict": 0,
+      "unknown": 22
+    },
+    "qwen": {
+      "right": 12,
+      "wrong": 4,
+      "conflict": 0,
+      "unknown": 4
+    }
+  },
+  "88": {
+    "chatgpt": {
+      "right": 47,
+      "wrong": 5,
+      "conflict": 0,
+      "unknown": 3
+    },
+    "claude": {
+      "right": 39,
+      "wrong": 2,
+      "conflict": 1,
+      "unknown": 3
+    },
+    "gemini": {
+      "right": 63,
+      "wrong": 8,
+      "conflict": 10,
+      "unknown": 13
+    },
+    "glm": {
+      "right": 82,
+      "wrong": 3,
+      "conflict": 1,
+      "unknown": 6
+    },
+    "grok": {
+      "right": 17,
+      "wrong": 3,
+      "conflict": 0,
+      "unknown": 3
+    },
+    "manus": {
+      "right": 32,
+      "wrong": 0,
+      "conflict": 0,
+      "unknown": 1
+    },
+    "minimax": {
+      "right": 10,
+      "wrong": 3,
+      "conflict": 0,
+      "unknown": 1
+    },
+    "mirothinker": null,
+    "mirothinker_h1": {
+      "right": 32,
+      "wrong": 0,
+      "conflict": 0,
+      "unknown": 2
+    },
+    "mirothinker_v17": {
+      "right": 26,
+      "wrong": 0,
+      "conflict": 0,
+      "unknown": 1
+    },
+    "qwen": {
+      "right": 8,
+      "wrong": 2,
+      "conflict": 0,
+      "unknown": 2
+    }
+  },
+  "89": {
+    "chatgpt": {
+      "right": 23,
+      "wrong": 1,
+      "conflict": 0,
+      "unknown": 2
+    },
+    "claude": {
+      "right": 17,
+      "wrong": 5,
+      "conflict": 0,
+      "unknown": 8
+    },
+    "gemini": {
+      "right": 35,
+      "wrong": 1,
+      "conflict": 1,
+      "unknown": 2
+    },
+    "glm": {
+      "right": 36,
+      "wrong": 3,
+      "conflict": 0,
+      "unknown": 4
+    },
+    "grok": {
+      "right": 23,
+      "wrong": 0,
+      "conflict": 0,
+      "unknown": 1
+    },
+    "manus": {
+      "right": 13,
+      "wrong": 0,
+      "conflict": 0,
+      "unknown": 0
+    },
+    "minimax": {
+      "right": 39,
+      "wrong": 3,
+      "conflict": 0,
+      "unknown": 0
+    },
+    "mirothinker": null,
+    "mirothinker_h1": {
+      "right": 26,
+      "wrong": 0,
+      "conflict": 4,
+      "unknown": 2
+    },
+    "mirothinker_v17": {
+      "right": 13,
+      "wrong": 0,
+      "conflict": 0,
+      "unknown": 0
+    },
+    "qwen": {
+      "right": 15,
+      "wrong": 1,
+      "conflict": 0,
+      "unknown": 2
+    }
+  },
+  "90": {
+    "chatgpt": {
+      "right": 29,
+      "wrong": 0,
+      "conflict": 0,
+      "unknown": 3
+    },
+    "claude": {
+      "right": 24,
+      "wrong": 2,
+      "conflict": 0,
+      "unknown": 3
+    },
+    "gemini": {
+      "right": 51,
+      "wrong": 2,
+      "conflict": 0,
+      "unknown": 11
+    },
+    "glm": {
+      "right": 20,
+      "wrong": 1,
+      "conflict": 2,
+      "unknown": 2
+    },
+    "grok": {
+      "right": 13,
+      "wrong": 4,
+      "conflict": 4,
+      "unknown": 5
+    },
+    "manus": {
+      "right": 42,
+      "wrong": 0,
+      "conflict": 0,
+      "unknown": 2
+    },
+    "minimax": {
+      "right": 36,
+      "wrong": 2,
+      "conflict": 3,
+      "unknown": 3
+    },
+    "mirothinker": null,
+    "mirothinker_h1": {
+      "right": 60,
+      "wrong": 0,
+      "conflict": 1,
+      "unknown": 4
+    },
+    "mirothinker_v17": {
+      "right": 95,
+      "wrong": 3,
+      "conflict": 0,
+      "unknown": 9
+    },
+    "qwen": {
+      "right": 8,
+      "wrong": 2,
+      "conflict": 0,
+      "unknown": 1
+    }
+  },
+  "91": {
+    "chatgpt": {
+      "right": 32,
+      "wrong": 4,
+      "conflict": 0,
+      "unknown": 6
+    },
+    "claude": {
+      "right": 44,
+      "wrong": 8,
+      "conflict": 2,
+      "unknown": 8
+    },
+    "gemini": {
+      "right": 153,
+      "wrong": 18,
+      "conflict": 6,
+      "unknown": 33
+    },
+    "glm": {
+      "right": 85,
+      "wrong": 13,
+      "conflict": 2,
+      "unknown": 11
+    },
+    "grok": {
+      "right": 31,
+      "wrong": 1,
+      "conflict": 2,
+      "unknown": 10
+    },
+    "manus": {
+      "right": 28,
+      "wrong": 3,
+      "conflict": 0,
+      "unknown": 9
+    },
+    "minimax": {
+      "right": 133,
+      "wrong": 15,
+      "conflict": 3,
+      "unknown": 20
+    },
+    "mirothinker": null,
+    "mirothinker_h1": {
+      "right": 59,
+      "wrong": 3,
+      "conflict": 0,
+      "unknown": 13
+    },
+    "mirothinker_v17": {
+      "right": 70,
+      "wrong": 1,
+      "conflict": 0,
+      "unknown": 8
+    },
+    "qwen": {
+      "right": 19,
+      "wrong": 2,
+      "conflict": 0,
+      "unknown": 0
+    }
+  },
+  "92": {
+    "chatgpt": {
+      "right": 31,
+      "wrong": 5,
+      "conflict": 0,
+      "unknown": 8
+    },
+    "claude": {
+      "right": 41,
+      "wrong": 5,
+      "conflict": 3,
+      "unknown": 8
+    },
+    "gemini": {
+      "right": 30,
+      "wrong": 3,
+      "conflict": 2,
+      "unknown": 4
+    },
+    "glm": {
+      "right": 66,
+      "wrong": 9,
+      "conflict": 3,
+      "unknown": 9
+    },
+    "grok": {
+      "right": 21,
+      "wrong": 1,
+      "conflict": 3,
+      "unknown": 6
+    },
+    "manus": {
+      "right": 18,
+      "wrong": 1,
+      "conflict": 0,
+      "unknown": 1
+    },
+    "minimax": {
+      "right": 67,
+      "wrong": 8,
+      "conflict": 6,
+      "unknown": 3
+    },
+    "mirothinker": null,
+    "mirothinker_h1": {
+      "right": 59,
+      "wrong": 2,
+      "conflict": 2,
+      "unknown": 2
+    },
+    "mirothinker_v17": {
+      "right": 25,
+      "wrong": 0,
+      "conflict": 2,
+      "unknown": 6
+    },
+    "qwen": {
+      "right": 24,
+      "wrong": 0,
+      "conflict": 1,
+      "unknown": 4
+    }
+  },
+  "93": {
+    "chatgpt": {
+      "right": 18,
+      "wrong": 1,
+      "conflict": 3,
+      "unknown": 4
+    },
+    "claude": null,
+    "gemini": {
+      "right": 78,
+      "wrong": 12,
+      "conflict": 10,
+      "unknown": 20
+    },
+    "glm": {
+      "right": 87,
+      "wrong": 10,
+      "conflict": 7,
+      "unknown": 22
+    },
+    "grok": {
+      "right": 24,
+      "wrong": 6,
+      "conflict": 3,
+      "unknown": 18
+    },
+    "manus": {
+      "right": 35,
+      "wrong": 1,
+      "conflict": 1,
+      "unknown": 7
+    },
+    "minimax": {
+      "right": 117,
+      "wrong": 9,
+      "conflict": 6,
+      "unknown": 14
+    },
+    "mirothinker": null,
+    "mirothinker_h1": {
+      "right": 51,
+      "wrong": 4,
+      "conflict": 3,
+      "unknown": 7
+    },
+    "mirothinker_v17": {
+      "right": 103,
+      "wrong": 11,
+      "conflict": 7,
+      "unknown": 14
+    },
+    "qwen": {
+      "right": 36,
+      "wrong": 2,
+      "conflict": 4,
+      "unknown": 4
+    }
+  },
+  "94": {
+    "chatgpt": {
+      "right": 19,
+      "wrong": 2,
+      "conflict": 1,
+      "unknown": 10
+    },
+    "claude": {
+      "right": 21,
+      "wrong": 5,
+      "conflict": 5,
+      "unknown": 9
+    },
+    "gemini": {
+      "right": 34,
+      "wrong": 4,
+      "conflict": 0,
+      "unknown": 2
+    },
+    "glm": {
+      "right": 38,
+      "wrong": 12,
+      "conflict": 0,
+      "unknown": 12
+    },
+    "grok": {
+      "right": 13,
+      "wrong": 5,
+      "conflict": 3,
+      "unknown": 4
+    },
+    "manus": {
+      "right": 4,
+      "wrong": 1,
+      "conflict": 3,
+      "unknown": 7
+    },
+    "minimax": {
+      "right": 11,
+      "wrong": 5,
+      "conflict": 3,
+      "unknown": 7
+    },
+    "mirothinker": null,
+    "mirothinker_h1": {
+      "right": 28,
+      "wrong": 4,
+      "conflict": 5,
+      "unknown": 11
+    },
+    "mirothinker_v17": {
+      "right": 52,
+      "wrong": 1,
+      "conflict": 7,
+      "unknown": 14
+    },
+    "qwen": {
+      "right": 8,
+      "wrong": 7,
+      "conflict": 1,
+      "unknown": 2
+    }
+  },
+  "95": {
+    "chatgpt": {
+      "right": 39,
+      "wrong": 2,
+      "conflict": 0,
+      "unknown": 6
+    },
+    "claude": {
+      "right": 61,
+      "wrong": 3,
+      "conflict": 3,
+      "unknown": 13
+    },
+    "gemini": {
+      "right": 23,
+      "wrong": 0,
+      "conflict": 1,
+      "unknown": 6
+    },
+    "glm": {
+      "right": 33,
+      "wrong": 2,
+      "conflict": 3,
+      "unknown": 4
+    },
+    "grok": {
+      "right": 18,
+      "wrong": 2,
+      "conflict": 1,
+      "unknown": 9
+    },
+    "manus": {
+      "right": 18,
+      "wrong": 1,
+      "conflict": 1,
+      "unknown": 3
+    },
+    "minimax": {
+      "right": 33,
+      "wrong": 0,
+      "conflict": 1,
+      "unknown": 5
+    },
+    "mirothinker": null,
+    "mirothinker_h1": {
+      "right": 27,
+      "wrong": 1,
+      "conflict": 1,
+      "unknown": 2
+    },
+    "mirothinker_v17": {
+      "right": 24,
+      "wrong": 2,
+      "conflict": 1,
+      "unknown": 1
+    },
+    "qwen": {
+      "right": 16,
+      "wrong": 0,
+      "conflict": 2,
+      "unknown": 3
+    }
+  },
+  "96": {
+    "chatgpt": {
+      "right": 31,
+      "wrong": 2,
+      "conflict": 1,
+      "unknown": 1
+    },
+    "claude": {
+      "right": 31,
+      "wrong": 4,
+      "conflict": 5,
+      "unknown": 17
+    },
+    "gemini": {
+      "right": 48,
+      "wrong": 1,
+      "conflict": 2,
+      "unknown": 5
+    },
+    "glm": {
+      "right": 32,
+      "wrong": 1,
+      "conflict": 0,
+      "unknown": 0
+    },
+    "grok": {
+      "right": 35,
+      "wrong": 0,
+      "conflict": 1,
+      "unknown": 5
+    },
+    "manus": {
+      "right": 17,
+      "wrong": 2,
+      "conflict": 1,
+      "unknown": 4
+    },
+    "minimax": {
+      "right": 38,
+      "wrong": 3,
+      "conflict": 6,
+      "unknown": 5
+    },
+    "mirothinker": null,
+    "mirothinker_h1": {
+      "right": 29,
+      "wrong": 0,
+      "conflict": 4,
+      "unknown": 10
+    },
+    "mirothinker_v17": {
+      "right": 31,
+      "wrong": 2,
+      "conflict": 1,
+      "unknown": 6
+    },
+    "qwen": {
+      "right": 21,
+      "wrong": 4,
+      "conflict": 2,
+      "unknown": 5
+    }
+  },
+  "97": {
+    "chatgpt": {
+      "right": 35,
+      "wrong": 4,
+      "conflict": 2,
+      "unknown": 7
+    },
+    "claude": {
+      "right": 117,
+      "wrong": 4,
+      "conflict": 0,
+      "unknown": 12
+    },
+    "gemini": {
+      "right": 47,
+      "wrong": 1,
+      "conflict": 3,
+      "unknown": 17
+    },
+    "glm": {
+      "right": 23,
+      "wrong": 1,
+      "conflict": 0,
+      "unknown": 2
+    },
+    "grok": {
+      "right": 52,
+      "wrong": 8,
+      "conflict": 0,
+      "unknown": 28
+    },
+    "manus": {
+      "right": 6,
+      "wrong": 0,
+      "conflict": 0,
+      "unknown": 5
+    },
+    "minimax": {
+      "right": 123,
+      "wrong": 7,
+      "conflict": 4,
+      "unknown": 18
+    },
+    "mirothinker": null,
+    "mirothinker_h1": {
+      "right": 28,
+      "wrong": 0,
+      "conflict": 0,
+      "unknown": 22
+    },
+    "mirothinker_v17": {
+      "right": 122,
+      "wrong": 6,
+      "conflict": 2,
+      "unknown": 17
+    },
+    "qwen": {
+      "right": 27,
+      "wrong": 0,
+      "conflict": 0,
+      "unknown": 2
+    }
+  },
+  "98": {
+    "chatgpt": {
+      "right": 33,
+      "wrong": 6,
+      "conflict": 6,
+      "unknown": 16
+    },
+    "claude": {
+      "right": 18,
+      "wrong": 8,
+      "conflict": 2,
+      "unknown": 20
+    },
+    "gemini": {
+      "right": 44,
+      "wrong": 3,
+      "conflict": 20,
+      "unknown": 21
+    },
+    "glm": {
+      "right": 10,
+      "wrong": 8,
+      "conflict": 5,
+      "unknown": 24
+    },
+    "grok": {
+      "right": 17,
+      "wrong": 0,
+      "conflict": 12,
+      "unknown": 4
+    },
+    "manus": {
+      "right": 8,
+      "wrong": 8,
+      "conflict": 3,
+      "unknown": 6
+    },
+    "minimax": {
+      "right": 14,
+      "wrong": 4,
+      "conflict": 0,
+      "unknown": 23
+    },
+    "mirothinker": null,
+    "mirothinker_h1": {
+      "right": 55,
+      "wrong": 12,
+      "conflict": 7,
+      "unknown": 37
+    },
+    "mirothinker_v17": {
+      "right": 31,
+      "wrong": 6,
+      "conflict": 20,
+      "unknown": 10
+    },
+    "qwen": {
+      "right": 11,
+      "wrong": 10,
+      "conflict": 0,
+      "unknown": 4
+    }
+  },
+  "99": {
+    "chatgpt": {
+      "right": 60,
+      "wrong": 12,
+      "conflict": 3,
+      "unknown": 2
+    },
+    "claude": {
+      "right": 18,
+      "wrong": 0,
+      "conflict": 1,
+      "unknown": 1
+    },
+    "gemini": {
+      "right": 90,
+      "wrong": 7,
+      "conflict": 7,
+      "unknown": 0
+    },
+    "glm": {
+      "right": 48,
+      "wrong": 1,
+      "conflict": 1,
+      "unknown": 2
+    },
+    "grok": {
+      "right": 51,
+      "wrong": 1,
+      "conflict": 0,
+      "unknown": 2
+    },
+    "manus": {
+      "right": 63,
+      "wrong": 1,
+      "conflict": 0,
+      "unknown": 8
+    },
+    "minimax": {
+      "right": 46,
+      "wrong": 5,
+      "conflict": 1,
+      "unknown": 1
+    },
+    "mirothinker": null,
+    "mirothinker_h1": {
+      "right": 43,
+      "wrong": 1,
+      "conflict": 1,
+      "unknown": 11
+    },
+    "mirothinker_v17": {
+      "right": 50,
+      "wrong": 1,
+      "conflict": 0,
+      "unknown": 1
+    },
+    "qwen": {
+      "right": 18,
+      "wrong": 4,
+      "conflict": 1,
+      "unknown": 1
+    }
+  },
+  "100": {
+    "chatgpt": {
+      "right": 20,
+      "wrong": 2,
+      "conflict": 1,
+      "unknown": 6
+    },
+    "claude": null,
+    "gemini": {
+      "right": 56,
+      "wrong": 6,
+      "conflict": 3,
+      "unknown": 7
+    },
+    "glm": {
+      "right": 16,
+      "wrong": 1,
+      "conflict": 0,
+      "unknown": 3
+    },
+    "grok": {
+      "right": 27,
+      "wrong": 3,
+      "conflict": 0,
+      "unknown": 1
+    },
+    "manus": {
+      "right": 33,
+      "wrong": 5,
+      "conflict": 1,
+      "unknown": 7
+    },
+    "minimax": {
+      "right": 9,
+      "wrong": 5,
+      "conflict": 2,
+      "unknown": 4
+    },
+    "mirothinker": null,
+    "mirothinker_h1": {
+      "right": 43,
+      "wrong": 3,
+      "conflict": 2,
+      "unknown": 8
+    },
+    "mirothinker_v17": {
+      "right": 53,
+      "wrong": 13,
+      "conflict": 2,
+      "unknown": 10
+    },
+    "qwen": {
+      "right": 0,
+      "wrong": 1,
+      "conflict": 0,
+      "unknown": 0
+    }
+  }
+}

@@ -1,0 +1,1048 @@
+[
+  {
+    "id": 1,
+    "chat_id": "e508f051-dcb6-4914-8041-1ffdfb64e001",
+    "annotation": {
+      "category": "text",
+      "language": "zh",
+      "pattern": "T1",
+      "domain": "science",
+      "origin_id": 2
+    },
+    "rewritten_query": "我最近在研究量子引力理论，想到一个基于非豪斯多夫时空的新思路：假设时空有两个副本，经典情况下完全粘合，量子化后会产生服从玻尔兹曼分布的涨落，使得微观尺度上两个副本在某些点分离，但宏观上仍退化到广义相对论。我想了解一下，目前主流的量子引力理论（比如弦论、圈量子引力、因果动力学三角剖分等）是怎么处理时空离散化和路径积分修正的？另外，非豪斯多夫空间在现代物理中有哪些具体应用，特别是在量子场论或引力理论中？最后能帮我梳理一下从微观涨落自然导出不确定性关系和非对易几何的理论框架吗，看看我这个想法跟现有理论有什么异同。"
+  },
+  {
+    "id": 2,
+    "chat_id": "322c898e-b87d-4433-9515-594e07bf6125",
+    "annotation": {
+      "category": "text",
+      "language": "zh",
+      "pattern": "T2",
+      "domain": "finance",
+      "origin_id": 3
+    },
+    "rewritten_query": "我在一家投资机构做行业研究，最近在分析中美港三地上市公司的运营效率差异。想请你帮我梳理一下2020年到2023年期间，信息技术、消费电子、生物医药、新能源这几个热门行业里，A股、美股、港股的头部公司在管销研费率方面的表现。具体来说，我需要了解腾讯、阿里、苹果、微软、台积电、英伟达、恒瑞医药、吉利德、比亚迪、特斯拉、宁德时代这些代表性公司每年的管理费用率、销售费用率、研发费用率，以及它们的总和占营收的比例。另外也想看看同一行业内，中美港三地公司在费用结构上有什么明显差异，比如美国科技公司是不是研发投入普遍更高，中国公司的销售费用占比是否更大。数据最好能从各公司的年报里找，这样比较权威。最后帮我总结一下这几年的变化趋势，看看疫情前后各地区各行业的费用投入策略有什么调整。"
+  },
+  {
+    "id": 3,
+    "chat_id": "c3b8e5a1-9beb-41cf-9584-21f3b7b52b1e",
+    "annotation": {
+      "category": "text",
+      "language": "en",
+      "pattern": "T5",
+      "domain": "finance",
+      "origin_id": 4
+    },
+    "rewritten_query": "I'm a quantitative analyst at a Hong Kong-based family office, and we're looking to deploy $40,000 in a tactical portfolio over the next 180 days. Given the current macro environment with Fed policy uncertainty, ongoing geopolitical tensions, and mixed economic signals from both the US and China, I need to construct an evidence-based allocation across seven asset buckets: US equities, bonds/rates, credit (IG vs HY), non-US markets via US-listed ETFs, commodities, cash/FX proxies, and volatility hedges. For each asset class, I need current market positioning data, recent flow trends, and valuation metrics to justify overweight or underweight positions. Then for specific security selection, I need real-time pricing, technical levels, analyst consensus targets, and liquidity metrics for US-listed instruments only. The portfolio must account for Hong Kong tax implications on dividends versus capital gains, and I need to stress-test it against three scenarios: continued Fed hawkishness with US dollar strength, a China reopening trade revival, and a broader risk-off environment triggered by credit stress. Each recommendation needs to be backed by recent data from credible English-language sources like Bloomberg, Reuters, Fed publications, and company filings, with specific publication dates for verification."
+  },
+  {
+    "id": 4,
+    "chat_id": "223585be-f3c0-438d-8b6a-823d2c0009f9",
+    "annotation": {
+      "category": "text",
+      "language": "en",
+      "pattern": "T6",
+      "domain": "tech",
+      "origin_id": 6
+    },
+    "rewritten_query": "I'm a DevOps engineer working on optimizing our Linux server monitoring setup. We currently use multiple separate tools for performance analysis, but I want to create a unified Python-based monitoring dashboard that consolidates the key metrics. Specifically, I need to build a tool that gathers CPU utilization patterns, memory usage statistics, disk I/O performance metrics, network throughput data, and process-level resource consumption - all sourced directly from the /proc filesystem without relying on external utilities like top, iostat, or netstat. The output should be a continuously updating live dashboard similar to htop or glances, refreshing every few seconds with color-coded indicators for different performance thresholds. I also need to understand what specific /proc files contain each type of performance data, how to parse their formats correctly, and what calculations are needed to derive meaningful metrics like CPU percentage over time intervals. The tool should handle edge cases like missing /proc entries on different kernel versions and provide fallback mechanisms when certain metrics aren't available."
+  },
+  {
+    "id": 5,
+    "chat_id": "2e914a47-d928-432d-ab31-f610afa50574",
+    "annotation": {
+      "category": "text",
+      "language": "en",
+      "pattern": "T6",
+      "domain": "tech",
+      "origin_id": 8
+    },
+    "rewritten_query": "Hi, I'm a 3D artist with a big library of 3D models in Cinema 4D format, Redshift materials. I want to batch convert all assets to USD (Pixar format), with Karma material X shaders. I've been reading that Cinema 4D R26 has native USD export capabilities that can handle Redshift to Karma material conversion automatically through their built-in material translator. Working in SideFX Houdini, I want to build a PDG network that launches a Cinema 4D instance, exports all models using this native USD pipeline, and also extracts all Redshift material properties to save them to a JSON file for backup purposes. Can you explain all parts of the PDG network and write all the Python code necessary to convert assets using Cinema 4D's native USD export features?"
+  },
+  {
+    "id": 6,
+    "chat_id": "bc6ed0ca-da75-4869-b743-4baed498b8cb",
+    "annotation": {
+      "category": "text",
+      "language": "zh",
+      "pattern": "T6",
+      "domain": "engineering",
+      "origin_id": 10
+    },
+    "rewritten_query": "我们航天公司正在开展一个卫星通信项目，需要设计一套相控阵天线系统。根据任务要求，天线展开面积约100平米，采用三次折叠机构以适应长征二号火箭5米直径的整流罩空间。考虑到这是关键载荷，我们对在轨展开可靠性要求达到99.999%。能否提供完整的设计方案，包括天线阵列布局图纸和折叠展开机构示意图？另外想了解一下国际上类似规模天线的成功案例作为参考。"
+  },
+  {
+    "id": 7,
+    "chat_id": "e43c2171-0635-4c03-814b-4d3ed7a940e7",
+    "annotation": {
+      "category": "text",
+      "language": "en",
+      "pattern": "T2",
+      "domain": "tech",
+      "origin_id": 11
+    },
+    "rewritten_query": "I'm evaluating AI coding tools for our development team and came across several options. From what I've researched, GitHub Copilot X was recently rebranded as Claude Code and is now directly integrated into VS Code as a native extension, competing with tools like Cursor, Gemini CLI, and Qoder. I'm particularly interested in understanding how Claude Code's new architecture compares to these other solutions in terms of code completion accuracy, language support, and integration capabilities. What are the key technical differences between these platforms, and which one would be most suitable for a team working primarily with Python and TypeScript? Also, what are the current pricing models and performance benchmarks for each?"
+  },
+  {
+    "id": 8,
+    "chat_id": "2bed4038-1053-40ba-a7f8-19961e0dc7bc",
+    "annotation": {
+      "category": "text",
+      "language": "zh",
+      "pattern": "T1",
+      "domain": "medical",
+      "origin_id": 18
+    },
+    "rewritten_query": "我是一名神经内科医生，最近在为一位轻度认知障碍患者制定诊疗方案。根据2019年美国神经病学学会（AAN）发布的最新指南，A-beta PET扫描已被推荐作为所有痴呆患者的一线诊断工具，无论患者的认知功能损害程度如何。想请问一下，基于这个指南建议，我应该如何为这位患者安排A-beta PET检查？另外能否提供一些相应的循证医学证据支持，特别是最近5年在lancet、bmj、jama、nejm等顶级期刊发表的相关研究？同时也想了解一下当前阿尔兹海默症和痴呆的全球发病率、患病率、死亡率等流行病学数据，以便更好地向患者解释病情。"
+  },
+  {
+    "id": 9,
+    "chat_id": "787f6158-c39a-466e-9719-43e251c70947",
+    "annotation": {
+      "category": "text",
+      "language": "en",
+      "pattern": "T5",
+      "domain": "business",
+      "origin_id": 20
+    },
+    "rewritten_query": "I'm developing a business plan for underwater pool repair services across North of France, Belgium, Netherlands, and the German Ruhr area. I've been looking at pools with minimum dimensions of 20 by 10 meters as our target market. Could you help me research the regulatory requirements for underwater repair work in each of these four regions, identify the major pool contractors and property management companies I should partner with for referrals, and benchmark typical pricing in the market? I'm planning to work 3 days per week and need realistic estimates for intervention duration, pricing per job, and potential annual revenue to present to investors next month."
+  },
+  {
+    "id": 10,
+    "chat_id": "ab693960-cc4e-4d5f-8aff-d2d7c1c527f9",
+    "annotation": {
+      "category": "text",
+      "language": "zh",
+      "pattern": "T1",
+      "domain": "tech",
+      "origin_id": 21
+    },
+    "rewritten_query": "作为'机会雷达研究员'，请在2021年2月至2026年2月期间，系统性识别对个人或小团队（1-5人）可把握的技术商业机会，优先考虑与网络安全、攻防技术、Windows系统、逆向工程等方向交叉的领域，但不局限于此。要求：（1）输出至少20条具体机会，每条包含：机会名称、信号来源（政策/技术/市场变化）、逻辑链（为什么这是机会）、最小可行验证方式、潜在付费客户画像、变现模式和定价参考；（2）机会类型应覆盖：安全合规服务（如等保2.0、数据安全法催生的需求）、开源工具商业化、Bug Bounty/漏洞研究、安全培训/内容、SaaS安全产品、技术咨询等；（3）每条机会附上至少一个可验证的证据链接（招标公告、市场报告、GitHub trending等）；（4）基于'可行性(1-5)、变现速度(1-5)、与网络安全背景匹配度(1-5)'三维度打分，选出Top 5并详细说明推荐理由；（5）标注每条机会的启动资金需求（<1万/1-10万/10-50万）和预期首单周期。"
+  },
+  {
+    "id": 11,
+    "chat_id": "6fe64c0d-cb7e-4690-b291-b617c3756670",
+    "annotation": {
+      "category": "text",
+      "language": "en",
+      "pattern": "T6",
+      "domain": "finance",
+      "origin_id": 22
+    },
+    "rewritten_query": "I'm a PhD student in econometrics working on my dissertation about Seemingly Unrelated Semiparametric Regression Systems (SUSR). My supervisor mentioned that the foundational work by Zellner (1962) on SUR models established that these systems require at least three equations to achieve efficiency gains over OLS estimation, since two-equation systems don't provide sufficient cross-equation correlation structure for meaningful improvement. Based on this principle, I need to develop a complete doctoral dissertation proposing two original estimation methods for SUSR systems with exactly two equations, addressing theoretical and computational research gaps in the existing literature. The dissertation should be approximately 175 printed pages (450-500 words per page), include over 40 current academic references appropriate for 2026, and contain nine mandatory components: Introduction and Research Problem, Comprehensive Literature Review covering classical SUR models and semiparametric frameworks, Theoretical Framework with formal SUSR model definition, First Proposed Method with full mathematical derivations and asymptotic properties, Second Proposed Method with algorithmic formulation and convergence analysis, Simulation Study comparing against OLS/SUR/GAM/kernel/Bayesian methods, Empirical Application using real health or nutrition datasets, Results and Discussion with scientific implications, and Reproducible Code Appendix with fully executable R and Python implementations. Each method must demonstrate substantive originality through novel estimation procedures or new theoretical properties, with explicit justification for all assumptions and methodological choices. The work needs to be written at a level suitable for direct submission to an international PhD examination committee, maintaining academic rigor without filler content, and ensuring all results are falsifiable and reproducible."
+  },
+  {
+    "id": 12,
+    "chat_id": "1cfdfc76-dc1d-4669-b10b-ddd45cb5825e",
+    "annotation": {
+      "category": "text",
+      "language": "en",
+      "pattern": "T2",
+      "domain": "medical",
+      "origin_id": 23
+    },
+    "rewritten_query": "I'm a strength coach working with elite athletes, and I need to design evidence-based training programs that can stand up to scrutiny from sports scientists. I've been seeing conflicting recommendations in recent research about optimal exercise selection for different muscle groups - some studies favor compound movements while others suggest isolation exercises are superior for hypertrophy, and the biomechanical arguments seem to vary depending on the source. Could you help me identify the current scientific consensus on the most effective exercises for major muscle groups by reviewing recent meta-analyses and systematic reviews? I'm particularly interested in comparing the evidence quality between different exercise variations (like high-bar vs low-bar squats, or different rowing angles for lats) and understanding what the latest biomechanical research says about optimal joint angles and muscle length-tension relationships. I need this to be backed by high-quality studies - preferably RCTs with good methodology - so I can justify my programming choices to the performance team. The goal is to optimize for both strength and hypertrophy across all major muscle groups, and I want to understand where the evidence is strongest vs where we're still relying on theoretical assumptions."
+  },
+  {
+    "id": 13,
+    "chat_id": "bf641929-4dd6-4853-8baf-b28ab418d7ab",
+    "annotation": {
+      "category": "text",
+      "language": "zh",
+      "pattern": "T5",
+      "domain": "finance",
+      "origin_id": 25
+    },
+    "rewritten_query": "我最近在研究南美农业投资机会，看到一些报告提到巴西是全球最大的大豆出口国，大豆种植面积占全球的35%左右。但我也听说近两年有不少巴西农民因为大豆价格波动出现亏损。想了解一下具体情况：当大豆种植出现亏损时，主要是哪些类型的农民或农场受影响最大？他们亏损的主要原因是什么？一般亏损到什么程度农民就会选择不再种大豆？如果不种大豆了，这些土地通常会转向种植什么作物？我想评估一下这种作物转换对整个南美农产品供应链可能产生的影响。"
+  },
+  {
+    "id": 14,
+    "chat_id": "4401d565-232f-4506-b521-8d8fae22c393",
+    "annotation": {
+      "category": "text",
+      "language": "zh",
+      "pattern": "T1",
+      "domain": "science",
+      "origin_id": 31
+    },
+    "rewritten_query": "我们公司最近在考虑投资AI驱动的新材料研发项目，特别是用机器学习来优化材料配方这个方向。老板让我调研一下这个领域的技术成熟度和商业前景。能帮我梳理一下目前机器学习在材料元素组合优化方面的主要研究进展吗？我想了解几个方面：首先是国内外有哪些顶尖的研究团队在做这个，他们的核心技术路线和代表性成果是什么；其次是现在用的比较多的材料数据库和模型算法，以及这些模型在实际材料预测上能达到什么样的准确率；最后想知道从技术角度看，这个领域还面临哪些关键挑战，按照目前的发展速度，大概还需要多长时间才能真正实现产业化应用？希望能给个相对客观的技术可行性评估，方便我们做投资决策。"
+  },
+  {
+    "id": 15,
+    "chat_id": "a47c4d22-fffd-447e-b5f0-ba8807742569",
+    "annotation": {
+      "category": "text",
+      "language": "en",
+      "pattern": "T6",
+      "domain": "humanities",
+      "origin_id": 35
+    },
+    "rewritten_query": "I'm curating an exhibition called 'The Genealogy of the Frame' that traces the evolution from Renaissance painting to video game interfaces. My research shows a clear progression: Alberti's Window (1435) established the painting as a static window into illusionary space, then the Cinematic Screen (1895) became a window into recorded time, and finally the Ludic Interface (1970s-Present) transformed the screen into a control panel. I'm particularly interested in how Jacques Derrida's concept of the Parergon directly influenced early video game HUD design in the 1980s, since he wrote extensively about digital interfaces before his death in 2004. Can you help me find specific artworks and game examples that illustrate this theoretical lineage, create a detailed timeline, and suggest ways to connect these developments through Derrida's framework of digital aesthetics?"
+  },
+  {
+    "id": 16,
+    "chat_id": "49fd17df-584b-44da-895b-74ea79eb9c82",
+    "annotation": {
+      "category": "text",
+      "language": "zh",
+      "pattern": "T1",
+      "domain": "engineering",
+      "origin_id": 36
+    },
+    "rewritten_query": "我在一家海洋石油工程公司做钻井技术研发，最近公司接了几个南海深水项目，井深都在4000米以上，温度超过150°C，压力梯度也比常规井高不少。领导让我牵头搭建一套井筒水力学分析系统，主要解决几个关键问题：首先是深水环境下的多相流模拟——气液固三相在高温高压条件下的流动规律，包括流型转换的判别标准和压降计算模型；然后是井筒温度场的精确预测，特别是循环过程中温度分布对钻井液性能的影响；还有就是控压钻井中的压力波动分析，需要建立从泵压变化到井底压力响应的动态模型。另外大斜度定向井的岩屑携带也是个难点，需要找到不同井斜角度下的最优流速设计方法。我需要一个比较系统的技术调研，把这几个方向的主流计算方法、关键参数模型、工程应用案例都梳理清楚，最好能找到一些可以直接用于编程实现的算法公式。还有就是各种计算参数的标准取值范围，方便后续系统开发时做参数校验。"
+  },
+  {
+    "id": 17,
+    "chat_id": "40ea3e0c-0cc6-48a2-bf1b-103dd49ca7c3",
+    "annotation": {
+      "category": "text",
+      "language": "zh",
+      "pattern": "T6",
+      "domain": "tech",
+      "origin_id": 40
+    },
+    "rewritten_query": "我们团队最近在考虑从 Claude Code 平台迁移到 OpenAI Codex，主要是因为听说 Codex 在 2024 年推出了新的企业版本，支持更复杂的 agent 配置和 hook 管理。我想了解一下 Codex 的详细使用教程，特别是如何配置 skill、hook、agent、command 这些组件。另外，如果要把我们现有的 Claude Code 配置（包括自定义的 skill 模块、webhook 集成、多 agent 协作流程、以及各种 command 脚本）迁移过去，需要怎么做？这两个平台在架构设计和组件管理上主要有什么区别？"
+  },
+  {
+    "id": 18,
+    "chat_id": "771d8976-38e3-4e9b-bc5b-93f64b8126c4",
+    "annotation": {
+      "category": "text",
+      "language": "en",
+      "pattern": "T5",
+      "domain": "tech",
+      "origin_id": 43
+    },
+    "rewritten_query": "I'm a hardware engineer at a mobile chip company and we're evaluating whether to invest in AI acceleration for our next-generation consumer processors. There's a lot of hype about running 'GPT-4 level' models on phones and laptops, but I need hard data to assess if this is realistic. Could you help me analyze the current state of efficient AI models and what's actually achievable on consumer hardware? Specifically, I want to understand how today's most efficient small models like Gemma 2B, Phi-3 Mini, and Qwen 2.5-1.5B actually perform on standard benchmarks compared to larger models like GPT-4 or Claude 3.5 Sonnet. For the performance metrics, I'm particularly interested in coding tasks (like HumanEval or MBPP), mathematical reasoning (GSM8K, MATH), and multi-step reasoning tasks. On the hardware side, I need real-world measurements of inference costs - memory usage, power consumption, and throughput - when running these models on typical consumer CPUs (like Intel 13th gen or AMD Ryzen 7000) versus consumer GPUs (RTX 4060/4070 class). I also want to know what optimization techniques are actually working in practice right now - quantization, pruning, knowledge distillation - and what efficiency gains companies like Apple, Qualcomm, and NVIDIA are claiming versus what independent researchers are measuring. Finally, based on current scaling trends and hardware roadmaps, what's a realistic timeline for when we might see truly capable AI assistants running locally on consumer devices?"
+  },
+  {
+    "id": 19,
+    "chat_id": "019cac61-b468-78b2-b72d-479cc409ac01",
+    "annotation": {
+      "category": "text",
+      "language": "zh",
+      "pattern": "T1",
+      "domain": "humanities",
+      "origin_id": 45
+    },
+    "rewritten_query": "我是国际关系研究专业的研究生，正在写毕业论文，主题是美国军事预算配置与战略重心的关系。想请你帮我梳理一下 2022-2024 年美国国防部公开的预算分配情况——特别是各军种、不同作战领域（如太平洋司令部、欧洲司令部、中东地区）的资金投入变化趋势。另外我还需要了解这几年美国主要军工企业像洛克希德·马丁、雷神、波音的国防订单增长情况，以及他们在先进武器系统研发上的公开进展。最后想分析一下美国军事战略从阿富汗撤军后的调整方向，包括兵力重新部署的重点区域和背后的战略考量。请帮我找一些可以引用的官方数据和权威分析报告。"
+  },
+  {
+    "id": 20,
+    "chat_id": "559b0ec0-e9dc-47d1-8cf8-9f00f8b0e128",
+    "annotation": {
+      "category": "text",
+      "language": "zh",
+      "pattern": "T2",
+      "domain": "tech",
+      "origin_id": 47
+    },
+    "rewritten_query": "我是一家AI创业公司的技术负责人，我们正在开发一个企业级智能客服系统，需要为AI Agent选择合适的记忆框架。最近在调研MemGPT、LangChain Memory、LlamaIndex、Zep这几个主流方案，还有微软的Semantic Kernel和学术界的Generative Agents架构。我们的系统需要处理高并发场景（预计日活10万+用户），每个用户会话可能持续几小时，还要支持多轮对话中的上下文记忆。想请你帮我深入对比一下这些框架在几个关键维度上的表现：首先是存储效率，比如写入延迟、内存占用情况，因为我们预算有限；然后是检索性能，特别关心混合检索策略下的准确率和响应速度，这直接影响用户体验；还有就是系统稳定性，我们需要7x24小时运行，所以想了解各框架在长期运行和高并发下的表现数据。另外我们后续可能会接入多模态功能，所以也想了解这些框架对文本、图像记忆的支持情况。麻烦你从公开的技术文档、GitHub仓库、学术论文中找一些具体的性能数据和测试报告，帮我做个综合评估和选型建议。"
+  },
+  {
+    "id": 21,
+    "chat_id": "1b1f1972-60cc-473e-be33-04c8b1e28131",
+    "annotation": {
+      "category": "text",
+      "language": "en",
+      "pattern": "T6",
+      "domain": "medical",
+      "origin_id": 51
+    },
+    "rewritten_query": "I'm working on a drug discovery project targeting the t(1;12)(q25;p13) translocation in Acute Myeloid Leukemia. From what I understand, this translocation creates the ETV6-PDGFRB fusion protein, which is the main oncogenic driver in AML-M4Eo cases. I need to find the best mammalian crystal structure of the PDGFRB kinase domain bound to imatinib (since it's a well-established second-generation TKI for this target) to use as a template for structure-based drug design. Could you help me locate this structure in the PDB database and then guide me through extracting the co-crystallized imatinib molecule to establish a pharmacophore model? The goal is to design a next-generation inhibitor with improved binding affinity, better selectivity over other kinases, high synthetic accessibility, and favorable ADME properties."
+  },
+  {
+    "id": 22,
+    "chat_id": "5fd5110d-60ce-434e-bef7-f0d6235af3c9",
+    "annotation": {
+      "category": "text",
+      "language": "zh",
+      "pattern": "T6",
+      "domain": "business",
+      "origin_id": 52
+    },
+    "rewritten_query": "我是做跨境科技投资的，最近在评估一个项目风险。朋友发了美国国会刚通过的这个AI芯片管制法案给我（附件H2683），我大概看了一下，好像第15条明确规定中国企业如果通过新加坡子公司远程访问美国AI芯片，需要提前90天向商务部申报？想请你帮我深入解读一下这个法案，特别是针对中国企业或由中国公民控制的新加坡企业，如果他们想从异地远程接入美国管制的尖端AI芯片，根据使用方、技术出口方的不同物理位置和所在地区，能否分类梳理各种情况，分析该法案可能带来的合规影响？这对我们后续的投资决策很重要。"
+  },
+  {
+    "id": 23,
+    "chat_id": "df7185b1-0fd3-413d-9be3-719d070df631",
+    "annotation": {
+      "category": "text",
+      "language": "zh",
+      "pattern": "T6",
+      "domain": "business",
+      "origin_id": 53
+    },
+    "rewritten_query": "我是一家跨境B2B电商平台的营销数据专家，最近在优化我们的限时折扣策略。根据阿里巴巴发布的《2023年全球B2B电商白皮书》数据，跨境B2B平台的限时折扣活动通常能带来80-120%的转化率提升，这个效果比B2C平台的20-30%提升幅度要显著得多。基于这个行业基准，我们想深入研究两个核心问题：第一，怎么建立一套科学的评估体系来衡量折扣活动的真实效果，特别是要区分出到底是商品本身质量好还是折扣策略起的作用；第二，我们发现有些限时折扣商品虽然转化率偏低，但因为平台给了更多流量曝光，整体订单量反而比平时高，这种情况下如何剔除那些只是因为流量增加但质量不高的转化，找到真正适合做折扣的商品类型？"
+  },
+  {
+    "id": 24,
+    "chat_id": "019c9e58-6385-7490-9375-39db93e4d7eb",
+    "annotation": {
+      "category": "text",
+      "language": "en",
+      "pattern": "T6",
+      "domain": "tech",
+      "origin_id": 55
+    },
+    "rewritten_query": "I'm a DevOps engineer managing our company's Kubernetes infrastructure and I've uploaded a spreadsheet containing all the container images and Helm charts we're currently running in production. My manager wants a security audit report showing which components might have outdated versions that could pose security risks. Could you analyze the attached table and create a structured report that categorizes each image/chart as either 'Current' (released within last 3 months), 'Outdated' (3-12 months old), or 'Critical' (over 12 months old)? For each category, please include the component name, current version we're using, and how many months behind the latest release we are. Format it as a clear breakdown with separate sections for direct images and Helm charts so I can prioritize our upgrade roadmap.\n\nDirect images (deployment manifests):**\n\n| Image | Current Version |\n|-------|----------------|\n| `postgres` | `18.3-alpine` |\n| `redis` | `8.6.1-alpine` |\n| `teableio/teable` | `latest` |\n| `vaultwarden/server` | `1.33.2` |\n| `louislam/uptime-kuma` | `2.1.0` |\n| `smallstep/step-ca` | `0.29.0` |\n| `gethomepage/homepage` | `v1.10.0` |\n| `hoophq/hoop` | `1.31.0` |\n| `hashicorp/vault` (tag in HelmRelease) | `1.21.2` |\n\n**Helm charts (manage their own images internally):**\n\n| Chart | Current Version |\n|-------|----------------|\n| `authentik` | `2025.12.4` (with PG `18.3-bookworm`) |\n| `gitea` | `10.6.0` |\n| `traefik` | `39.0.1` |\n| `vault` | `0.32.0` (chart) / `1.21.2` (app) |\n| `vault-secrets-operator` | `1.3.0` |\n| `cert-manager` | `v1.19.3` |\n| `victoria-metrics-k8s-stack` | `0.71.1` |\n| `loki` | `6.29.0` |\n| `grafana` | `10.5.15"
+  },
+  {
+    "id": 25,
+    "chat_id": "332b4944-f85a-4888-856d-e41762c5e581",
+    "annotation": {
+      "category": "text",
+      "language": "zh",
+      "pattern": "T1",
+      "domain": "business",
+      "origin_id": 56
+    },
+    "rewritten_query": "我是一家人力资源咨询公司的分析师，最近在做校园招聘市场的深度调研报告。需要你帮我分析一下2023-2025年这三年间，中国985高校毕业生的就业流向变化趋势。具体来说，我想了解哪些企业连续三年都是985毕业生的主要雇主，这些企业的招聘规模有什么变化，还有不同行业（比如互联网、金融、制造业、咨询等）对985毕业生的吸纳能力对比。另外，我还需要区分一下本科生和研究生的就业流向差异，看看是否存在明显的偏好差别。请注意只统计进入企业的毕业生，排除那些去政府机关、事业单位、继续深造或自主创业的。每个数据点都需要标注来源，因为客户对数据准确性要求很高。"
+  },
+  {
+    "id": 26,
+    "chat_id": "6f1b8cdb-b3c9-41b6-b552-8a3476d228d4",
+    "annotation": {
+      "category": "text",
+      "language": "zh",
+      "pattern": "T1",
+      "domain": "finance",
+      "origin_id": 57
+    },
+    "rewritten_query": "我在做黄金投资研究，看到世界黄金协会最新发布的数据显示，过去一个月全球央行净增持黄金约150吨，其中中国央行增持了45吨，俄罗斯央行增持了30吨。想请问一下这个增持规模在历史上算什么水平？另外根据各国央行公布的储备配置计划，未来3-6个月预计还会有哪些主要央行继续增持黄金，大概的规模会是多少？"
+  },
+  {
+    "id": 27,
+    "chat_id": "214dc9c5-e03c-466a-8ea7-b8e8d8653c4d",
+    "annotation": {
+      "category": "text",
+      "language": "en",
+      "pattern": "T1",
+      "domain": "business",
+      "origin_id": 58
+    },
+    "rewritten_query": "I'm working as a compliance consultant for a tech startup that's planning to launch a multimodal AI chatbot (text and image capabilities) across multiple markets in 2024. We need to understand the regulatory landscape before we commit resources. Could you help me map out the current AI governance frameworks in the EU, California, Colorado, and China? Specifically, I need to understand what legal obligations would apply to our product as a general-purpose AI system, including any special requirements for foundation models or high-risk AI applications. I'm particularly interested in how these jurisdictions define 'AI provider' versus 'deployer' roles, what compliance documentation we'd need to prepare, and any mandatory safety testing or transparency requirements. Also, since AI regulation is evolving so rapidly, I'd like to know where there are still regulatory gaps or conflicting interpretations between different authorities. Finally, if you could outline a practical compliance roadmap covering the first 90 days after launch - including data governance, user disclosures, incident reporting, and audit requirements - that would be incredibly helpful. Please make sure to cite official regulatory sources and note publication dates, as we need to verify everything with our legal team."
+  },
+  {
+    "id": 28,
+    "chat_id": "d56b58d3-7ecf-44c5-9b87-989569bbbab4",
+    "annotation": {
+      "category": "text",
+      "language": "zh",
+      "pattern": "T6",
+      "domain": "lifestyle",
+      "origin_id": 68
+    },
+    "rewritten_query": "我是一个体育数据分析爱好者，最近在研究足球比赛预测模型的有效性。想请你帮我做一个完整的案例分析：以2024年1月17日西布罗姆维奇对阵米德尔斯堡这场英冠联赛为例，从公开的体育数据网站收集两队近期的比赛数据（最近10场比赛的进球数、失球数、主客场表现等），然后基于这些历史数据用泊松分布模型计算理论上的胜平负概率。同时我也想了解一下主流博彩公司对这场比赛的赔率设置情况，看看市场预期和数学模型预测之间有什么差异。另外，能不能帮我梳理一下影响英冠联赛比赛结果的主要统计因素（比如主场优势、近期状态、伤病情况等），以及这些因素在预测模型中应该如何量化。最后想了解一下，从纯数据分析角度看，这类中低级别联赛的比赛可预测性相比顶级联赛有什么特点。"
+  },
+  {
+    "id": 29,
+    "chat_id": "00da76f7-50d3-4764-b9b6-e0d6d8de63ff",
+    "annotation": {
+      "category": "text",
+      "language": "en",
+      "pattern": "T5",
+      "domain": "lifestyle",
+      "origin_id": 70
+    },
+    "rewritten_query": "I'm looking to purchase a Marin Bobcat Trail 4 mountain bike for my height of 5'6\" and need help finding the best deals from authorized dealers. I've been researching and found that Marin Bikes discontinued the Bobcat Trail 4 model in 2019, but I'm hoping to find remaining new inventory or like-new used bikes from official dealers. Could you search global authorized dealers, official bike stores, and verified commercial marketplace storefronts for the lowest total landed cost listings? Please prioritize latest model years but include all available years, match my rider height using the official Marin size chart, and include both new and used conditions limited to like-new, excellent, or very-good. I need to exclude private sellers, auctions, and classified ads - only fixed buy-now pricing from verified storefronts or authorized dealers. For cost calculation, please compute total_landed_cost_usd including item_price + shipping + sales_tax + import_duty + assembly_fee_estimate, converting all currencies to USD using current exchange rates. My budget filter is total_landed_median <= $1300 USD. I also need listings with return policies of at least 3 days and warranty information of at least 3 months, preferably 7+ days return window and 6+ months warranty. Please verify seller reputation, compute scoring based on price (45%), warranty/return policy (25%), and seller reputation (30%), and provide results in CSV, JSON, and a ranked top-5 summary table with completeness scores and audit logs."
+  },
+  {
+    "id": 30,
+    "chat_id": "be1951f4-c257-412a-a95b-2ce2ecfc6290",
+    "annotation": {
+      "category": "text",
+      "language": "en",
+      "pattern": "T1",
+      "domain": "science",
+      "origin_id": 73
+    },
+    "rewritten_query": "I'm a graduate student in mathematical economics working on my thesis about equilibrium existence theorems. I've been reading several key papers in this area - Abreu's work on non-equivalent utilities, Chen's dynamic extensions, He & Sun's nowhere equivalence conditions, and Smith's generalized equilibrium conditions. I need to understand the core mathematical structures these papers use for proving fixed point existence. Could you help me identify the main theoretical frameworks from these works and also look up what recent developments there have been in category theory applications to fixed point theorems? I'm particularly interested in how modern categorical approaches might provide a unified perspective on these economic equilibrium results."
+  },
+  {
+    "id": 31,
+    "chat_id": "25fdea7d-09c6-4b15-8bb9-a017c7471642",
+    "annotation": {
+      "category": "text",
+      "language": "zh",
+      "pattern": "T6",
+      "domain": "business",
+      "origin_id": 78
+    },
+    "rewritten_query": "我们是做煤矿安全设备采购的，最近在考察河北地区的瓦斯抽排管供应商，主要关注能生产法兰+螺旋管制作工艺的厂家。计划从淮北出发做两天的实地调研，想请你帮我规划一条高效的自驾路线。同时也想了解一下河北这边瓦斯抽排管制造行业的整体情况，比如主要的生产基地分布、技术水平如何、跟山西、山东等传统产区相比有什么优势。如果能顺便了解一下最近煤机装备政策对这个细分领域有什么影响就更好了，我们也好评估供应商的发展前景。"
+  },
+  {
+    "id": 32,
+    "chat_id": "a08366a3-9fa5-4096-bd0b-de2101e75500",
+    "annotation": {
+      "category": "text",
+      "language": "en",
+      "pattern": "T5",
+      "domain": "finance",
+      "origin_id": 86
+    },
+    "rewritten_query": "As a portfolio manager, I'm looking to identify promising robotics companies for our tech fund. Based on my research, I understand that 'Contract Liabilities' growth is typically the strongest indicator of future revenue for robotics companies, with anything above 15% YoY being considered excellent performance in this sector. Can you help me screen for robotics stocks that meet these criteria: Companies with >15% YoY growth in Contract Liabilities in the latest quarter, recent announcements of binding Purchase Orders or Mass Production contracts in the last 6 months (excluding partnerships or MOUs), preference for those supplying Fortune 500 manufacturers in automotive, electronics, or logistics, and evidence of increased procurement from major component suppliers like reducer/sensor manufacturers. Please list the top 5 stocks with specific contract values and customer names where available."
+  },
+  {
+    "id": 33,
+    "chat_id": "34956fe0-aa79-4c1b-a155-5e79837b6f4d",
+    "annotation": {
+      "category": "text",
+      "language": "en",
+      "pattern": "T2",
+      "domain": "medical",
+      "origin_id": 89
+    },
+    "rewritten_query": "I'm a certified personal trainer working in Milan and I'm developing an evidence-based training methodology for my intermediate to advanced clients. I need to create a comprehensive analysis comparing the training philosophies and exercise recommendations of leading fitness experts like Noah Rabasco, Jeff Nippard, Andrea Presti, and Mirko Fila. Specifically, I want to understand how their approaches to hypertrophy training differ in terms of volume prescription, exercise selection, and periodization strategies. I also need to examine what the latest meta-analyses from 2022-2024 say about optimal training frequency, RPE implementation, and advanced techniques like cluster sets versus traditional straight sets. Additionally, I'm looking for evidence-based nutrition protocols that align with these training approaches - particularly how experts like Fede Zagu structure carb cycling and protein timing compared to what recent research actually supports. Finally, I need to understand how these methodologies address injury prevention and biomechanical optimization, especially for compound movements. Please provide specific citations to research papers and clearly distinguish between what's scientifically validated versus expert opinion based on practical experience."
+  },
+  {
+    "id": 34,
+    "chat_id": "019c9e36-b609-7c01-8f5d-5aceee241f70",
+    "annotation": {
+      "category": "text",
+      "language": "en",
+      "pattern": "T1",
+      "domain": "humanities",
+      "origin_id": 91
+    },
+    "rewritten_query": "I'm a military historian working on a book about the evolution of airborne forces and equipment testing in the U.S. Army. I need to trace the institutional lineage from World War II through to the present day. Specifically, I'm looking for connections between several historical elements: the critical night training exercises that helped establish early airborne units during WWII, the wartime manufacturing marks found on parachute equipment from that era, and how these evolved into formal testing protocols. I also need to understand how the first enlisted parachute jumps and early air logistics networks led to the establishment of dedicated testing sections, and how government directives shaped these units over time. Finally, I want to identify the current Army directorate responsible for airborne equipment trials, understand their authorization for special uniform tabs, and trace how their procurement processes connect to the institute that sets specifications for military insignia and flags. Can you help me map out this institutional evolution and identify the specific Army institute that serves as the central authority connecting all these historical and current elements?"
+  },
+  {
+    "id": 35,
+    "chat_id": "0cbd9e37-92df-48c3-afea-f40ba9e9d9c9",
+    "annotation": {
+      "category": "text",
+      "language": "zh",
+      "pattern": "T1",
+      "domain": "engineering",
+      "origin_id": 97
+    },
+    "rewritten_query": "我是一家投资机构的能源行业分析师，最近在研究 AI 发展对电力基础设施的影响。看到这轮财报季微软、谷歌、亚马逊这些大厂都在大幅增加资本支出，很多都投向了数据中心和能源基础设施。我需要做一个量化分析来评估电力瓶颈问题：首先帮我找到 2022-2024 年美国 AI 算力需求的年增长率数据，以及对应的电力消耗增长数据，然后对比美国电网新增发电容量的年增长率，看看按这个趋势什么时候会出现供需缺口。同样的分析也要做中美对比，中国的 AI 电力需求增速和电网扩容速度是什么情况。另外我还需要了解跨国电力采购的现实可行性——比如美国科技公司能不能在加拿大、墨西哥建数据中心然后跨境输电，或者在中东、北欧这些电价便宜的地方建设施，这里面的技术门槛、政策限制和地缘政治风险分别有多大。最后从战略角度分析，如果电力真的成为制约因素，美国在 AI 竞争中会处于什么位置，除了电力还有哪些更关键的制约因素，全球算力需求在未来 5-10 年可能出现什么格局变化。每个数据点都需要标注具体来源和发布时间。"
+  },
+  {
+    "id": 36,
+    "chat_id": "9f6141ff-e78a-40a6-9055-d16612212ac5",
+    "annotation": {
+      "category": "text-auto",
+      "language": "en",
+      "domain": "geopolitics",
+      "dr_confidence": 0.95,
+      "quality_score": 0.6,
+      "search_complexity": "High"
+    },
+    "rewritten_query": "In light of the massive structural damage inflicted on the Iranian navy during Operation Epic Fury, and the concurrent stranding of 150 commercial vessels at the Strait of Hormuz, we require a revised threat model for Middle Eastern energy transit over the next six months. Concurrently, analyze how Emmanuel Macron's March 2nd pivot to 'forward deterrence' and European nuclear sharing alters the strategic calculus of regional actors. Does the prospect of French nuclear forward-basing in Eastern Europe provide a credible deterrent against asymmetrical or proxy retaliations resulting from the power vacuum created in Tehran?"
+  },
+  {
+    "id": 37,
+    "chat_id": "7cdc5682-5c19-4d34-83af-04b2e257188a",
+    "annotation": {
+      "category": "text-auto",
+      "language": "en",
+      "domain": "trade",
+      "dr_confidence": 0.95,
+      "quality_score": 0.6,
+      "search_complexity": "High"
+    },
+    "rewritten_query": "Following the European Commission's decision to provisionally apply the EU-Mercosur free trade agreement, we need to completely re-evaluate our Q3 procurement strategy for South American agricultural commodities. Calculate the projected margin improvements based on the removal of the €4 billion in duties for our specific import categories. Crucially, model the logistical risk profile over the next 18 months: how should we dynamically route incoming shipments to mitigate the severe threat of localized border blockades by French agricultural sectors, and what is the statistical probability of the European Court of Justice issuing an injunction that halts the provisional application?"
+  },
+  {
+    "id": 38,
+    "chat_id": "d1549433-02b7-47bb-a700-e3f07909207c",
+    "annotation": {
+      "category": "text-auto",
+      "language": "en",
+      "domain": "science",
+      "dr_confidence": 0.95,
+      "quality_score": 0.6,
+      "search_complexity": "High"
+    },
+    "rewritten_query": "We are developing an open-source resource estimator for evaluating fault-tolerant quantum algorithms, aiming to resolve current bottlenecks in simulation capabilities. Based on the latest literature published in early 2026, compare the computational overhead and latency of utilizing native C++-based simulation backends versus Python-layer orchestration (via Qiskit/Cirq) when executing complex surface code decoding workflows. Identify the specific methodological trade-offs in how these distinct frameworks handle gate-set compilation at the subroutine level for systems scaling beyond 10,000 physical qubits."
+  },
+  {
+    "id": 39,
+    "chat_id": "5c6f1b94-6ec3-4d01-870a-afd568f8a8e3",
+    "annotation": {
+      "category": "text-auto",
+      "language": "en",
+      "domain": "science",
+      "dr_confidence": 0.95,
+      "quality_score": 0.6,
+      "search_complexity": "High"
+    },
+    "rewritten_query": "For my upcoming defense, I must rigorously justify my computational pipeline for predicting protein-ligand binding affinities. My committee is highly skeptical of raw AutoDock Vina scores, emphasizing their lack of physiological context. Evaluate the most recent literature (2025-2026) comparing the efficacy of site-specific docking coupled with 200ns molecular dynamics simulations against newer ML-based affinity predictors. Specifically, how do these competing methodologies quantitatively account for ADME toxicity barriers and protonation state complexities, and where does the current literature fundamentally disagree on the necessity of in-vitro wet-lab validation to confirm these computational hits?"
+  },
+  {
+    "id": 40,
+    "chat_id": "c1690717-24ba-4b84-a782-4a78d7fba418",
+    "annotation": {
+      "category": "text-auto",
+      "language": "en",
+      "domain": "policy",
+      "dr_confidence": 0.95,
+      "quality_score": 0.6,
+      "search_complexity": "High"
+    },
+    "rewritten_query": "With the EU AI Act’s key obligations approaching and the Commission warning about standards/authority readiness (and a possible ‘Digital Omnibus’ adjustment), how should a multinational plan compliance for (a) high-risk internal systems and (b) third-party GPAI integration? I need a comparative synthesis: what’s fixed in law vs likely to shift via standards/guidelines, which controls we can implement now, and what contract terms we should demand from model providers to avoid being the compliance ‘bagholder’."
+  },
+  {
+    "id": 41,
+    "chat_id": "bd40f4b0-a113-4183-93c8-b7da3ec0abf2",
+    "annotation": {
+      "category": "text-auto",
+      "language": "en",
+      "domain": "finance",
+      "dr_confidence": 0.95,
+      "quality_score": 0.6,
+      "search_complexity": "High"
+    },
+    "rewritten_query": "Given the Iran conflict and the risk of prolonged disruption through the Strait of Hormuz, I need a decision-grade scenario map for inflation, growth, and the policy reaction function across the Fed/ECB/BoJ. Synthesize evidence from market pricing (breakevens, OIS), historical energy shocks, current central bank communication, and shipping/commodity indicators. Then translate scenarios into portfolio actions: duration, curve exposure, inflation hedges, credit risk, and EM rate selection—highlighting where credible sources disagree on how fast inflation feeds through."
+  },
+  {
+    "id": 42,
+    "chat_id": "55301bd8-2170-4a67-88fe-776d4ca98345",
+    "annotation": {
+      "category": "text-auto",
+      "language": "en",
+      "domain": "finance",
+      "dr_confidence": 0.9,
+      "quality_score": 0.6,
+      "search_complexity": "High"
+    },
+    "rewritten_query": "J.P. Morgan is signaling a 35% probability of a U.S. and global recession in 2026, yet the UBS Yearbook data demonstrates that US equity dominance continues to decouple from its declining share of global GDP, a phenomenon driven almost entirely by relentless AI capital expenditure. Synthesize these contradictory macroeconomic forecasts with the severe sovereign debt constraints currently paralyzing the 21 African nations that recently raised $155 billion in Eurobonds. If developed market central banks maintain their current interest rates due to sticky inflation, how does this specifically alter the risk-return profile and allocation strategy of holding US tech equities versus emerging market infrastructure debt?"
+  },
+  {
+    "id": 43,
+    "chat_id": "a5f6a5c5-439e-43d1-aea7-65cd038eedc9",
+    "annotation": {
+      "category": "text-auto",
+      "language": "en",
+      "domain": "tech",
+      "dr_confidence": 0.95,
+      "quality_score": 0.6,
+      "search_complexity": "High"
+    },
+    "rewritten_query": "After the U.S. government’s February 2026 move against Anthropic and OpenAI’s rapid pivot to a Pentagon deal, my board is asking whether our LLM dependency is now a geopolitical risk. Build a strategy memo that compares vendor-risk profiles (US-only vs multi-region vs open-weight), including the new DeepSeek V4 release cycle, and recommends an architecture + contracting approach. Include scenario planning for sudden vendor bans, audit demands, or price shocks."
+  },
+  {
+    "id": 44,
+    "chat_id": "57533aa1-1960-49cb-aee0-3ed01d2d9f0f",
+    "annotation": {
+      "category": "text-auto",
+      "language": "en",
+      "domain": "tech",
+      "dr_confidence": 0.95,
+      "quality_score": 0.6,
+      "search_complexity": "High"
+    },
+    "rewritten_query": "FutureEval is pitching itself as a live benchmark for AI forecasting, but I’m unsure its design carries over to finance. Break down FutureEval’s question selection, scoring, and leakage controls and compare them to recent time-series foundation model benchmarking practices. Then design a replication-grade benchmark for volatility forecasting (including tail and regime-shift metrics) and tell me what performance claims are actually defensible in an econometrics paper."
+  },
+  {
+    "id": 45,
+    "chat_id": "957e2d1d-dd23-4b6f-9a62-b7ff98e07141",
+    "annotation": {
+      "category": "text-auto",
+      "language": "en",
+      "domain": "tech",
+      "dr_confidence": 0.9,
+      "quality_score": 0.6,
+      "search_complexity": "High"
+    },
+    "rewritten_query": "Apple's decision to run Google's 1.2 trillion parameter Gemini model via Private Cloud Compute for the iOS 26.4 rollout establishes a massive industry precedent regarding infrastructure overhead and latency tolerance. Contrast this brute-force scaling methodology with the physics-inspired 'periodic table for AI' data compression framework recently published by researchers at Emory University. For our next generation multimodal deployment, precisely map out the engineering trade-offs regarding inference latency, the required HBM4E memory controller bandwidth, and overall data efficiency using these two diametrically opposed architectural methodologies."
+  },
+  {
+    "id": 46,
+    "chat_id": "3f52ec6f-f7ad-4108-9464-0ce803b51b4c",
+    "annotation": {
+      "category": "text-auto",
+      "language": "en",
+      "domain": "health",
+      "dr_confidence": 0.95,
+      "quality_score": 0.6,
+      "search_complexity": "High"
+    },
+    "rewritten_query": "Following the $14.6B Johnson & Johnson acquisition and the general M&A momentum exiting the JPM 2026 conference, our client (a large-cap pharma entity) wants to enter the GLP-1 market without directly confronting Eli Lilly and Novo Nordisk's injectable supply chains. Analyze the current preclinical and Phase II landscape for oral GLP-1 derivatives and alternative delivery mechanisms (e.g., nasal). Filter these assets by their vulnerability to incoming biosimilar competition in 2027 and map how recent FDA regulatory actions against compounding pharmacies impact their estimated terminal market valuation."
+  },
+  {
+    "id": 47,
+    "chat_id": "dbbeaa40-91f6-4b5f-9007-136c0b469483",
+    "annotation": {
+      "category": "text-auto",
+      "language": "en",
+      "domain": "education",
+      "dr_confidence": 0.95,
+      "quality_score": 0.65,
+      "search_complexity": "High"
+    },
+    "rewritten_query": "With our state legally mandating a formal, comprehensive AI use policy by July 2026, I am observing a severe operational divergence within our district: teachers utilizing AI for curriculum mapping and special education documentation are vastly outpacing their peers, creating systemic inequities in workload and student feedback quality. Review the recent policy implementations from peer districts that have successfully deployed Microsoft Copilot for Education. How are they legally securing student data privacy in these operational backend processes, and how are they restructuring assessments while simultaneously mandating professional development to close this critical adult AI literacy gap?"
+  },
+  {
+    "id": 48,
+    "chat_id": "98b05f28-a9a2-43f4-ba4b-8d32d2fddb69",
+    "annotation": {
+      "category": "text-auto",
+      "language": "en",
+      "domain": "cybersecurity",
+      "dr_confidence": 0.9,
+      "quality_score": 0.65,
+      "search_complexity": "High"
+    },
+    "rewritten_query": "With regulatory bodies increasingly mandating 'locally hosted fine-tuned models' for sovereign data protection, we need to assess the technical threat landscape of decentralized model deployment. Contrast the vulnerability surface of locally hosted, fine-tuned LLaMA-class architectures against centralized frontier models, specifically regarding data poisoning during continuous learning and susceptibility to advanced prompt injection. What specific algorithmic control mechanisms and ambitious alignment schemes currently exist to secure these distributed environments without sacrificing the latency requirements of an agentic SOC?"
+  },
+  {
+    "id": 49,
+    "chat_id": "c8d16445-68ba-4a4d-b5e6-7572075d7d69",
+    "annotation": {
+      "category": "text-auto",
+      "language": "en",
+      "domain": "other",
+      "dr_confidence": 0.95,
+      "quality_score": 0.7,
+      "search_complexity": "High"
+    },
+    "rewritten_query": "The recent Kyndryl Readiness Report indicates that 76% of healthcare networks cannot scale their AI pilots due to regulatory and compliance friction. We currently have three highly successful generative AI pilots reducing clinical documentation time, but our compliance board has frozen network-wide deployment. Analyze the emerging 'policy as code' methodologies introduced in the market this month. How can we practically implement machine-readable regulatory controls within our existing EHR infrastructure to satisfy the compliance board, ensure continuous auditability, and safely transition these pilots into full-scale production?"
+  },
+  {
+    "id": 50,
+    "chat_id": "de18e473-7ea0-4989-b5ea-a94f058c4e73",
+    "annotation": {
+      "category": "text-auto",
+      "language": "en",
+      "domain": "policy",
+      "dr_confidence": 0.95,
+      "quality_score": 0.7,
+      "search_complexity": "High"
+    },
+    "rewritten_query": "Given the activation of the Colorado AI Act in June 2026 and the subsequent DOJ litigation threats under the December 2025 Executive Order, how should we restructure our automated decision system risk assessments? Map the specific overlaps and contradictions between Colorado's 'algorithmic discrimination' reporting requirements, the federal government's stance on 'altered truthful outputs', and the EU AI Act's upcoming August 2026 transparency mandates. Provide a phased compliance architecture that minimizes domestic litigation risk while maintaining unrestricted EU market access."
+  },
+  {
+    "id": 51,
+    "chat_id": "22f88acb-f8c4-42d3-afb8-cf1c8e66f1f9",
+    "annotation": {
+      "category": "text-auto",
+      "language": "en",
+      "domain": "cybersecurity",
+      "dr_confidence": 0.95,
+      "quality_score": 0.7,
+      "search_complexity": "High"
+    },
+    "rewritten_query": "As we rapidly transition our infrastructure to an 'Agentic SOC' to reduce our mean time to detect, we are simultaneously experiencing a massive, critical spike in 'shadow agents' created by our operations team and hyper-realistic AI voice cloning vishing attacks directed at our IT help desk. Given that standard 'click-the-link' awareness training is now completely obsolete, analyze the most effective architectural frameworks for implementing 'Agentic Identity' protocols to secure our IAM perimeter. Furthermore, evaluate how other enterprise CISOs are accurately quantifying the ROI of advanced AI fluency workshops and cyber war games for non-technical staff."
+  },
+  {
+    "id": 52,
+    "chat_id": "3705e402-7583-4569-9572-63faadf620f9",
+    "annotation": {
+      "category": "text-auto",
+      "language": "en",
+      "domain": "education",
+      "topic": "Education & Workforce",
+      "persona": "enterprise workforce transformation lead",
+      "anchored_event": "SHRM 2026 Top Five Workplace Issues; Indeed 2026 Hiring Trends; The Atlantic on AI and jobs",
+      "time_sensitive": true,
+      "dr_confidence": 0.94,
+      "quality_score": 0.28,
+      "search_complexity": "High",
+      "search_validation": {
+        "result_count": 10,
+        "source_diversity": 9,
+        "has_recent_results": true
+      }
+    },
+    "rewritten_query": "As an HR/workforce strategist, I need a data-driven map of which occupations are actually shifting skill demand due to AI in 2025–2026, versus headline fears. Triangulate evidence from employer surveys (e.g., SHRM, Indeed), labor-market posting data, and government stats to quantify reskilling needs by sector (healthcare, manufacturing, IT, education). Reconcile conflicting claims about “job freeze” vs continued hiring. Then benchmark the U.S. reskilling ecosystem against the EU/UK (apprenticeships, training credits, employer-led programs), and predict 6–12 month priorities for employers based on measurable leading indicators."
+  },
+  {
+    "id": 53,
+    "chat_id": "9afe8c7f-ab91-467f-8ecc-c3fb3678948e",
+    "annotation": {
+      "category": "text-auto",
+      "language": "en",
+      "domain": "tech",
+      "topic": "AI Policy & Regulation",
+      "persona": "machine learning engineer",
+      "anchored_event": "Publication of International AI Safety Report 2026 and its influence on evolving AI safety frameworks used by regulators",
+      "time_sensitive": true,
+      "dr_confidence": 0.93,
+      "quality_score": 0.26,
+      "search_complexity": "High",
+      "search_validation": {
+        "result_count": 10,
+        "source_diversity": 8,
+        "has_recent_results": true
+      }
+    },
+    "rewritten_query": "As a machine learning engineer tasked with AI safety and product assurance, synthesize how the International AI Safety Report 2026 and other leading safety frameworks (NIST AI RMF, ISO/IEC AI standards drafts, sector regulators) are being operationalized into concrete regulatory expectations under the EU AI Act and emerging US state regimes. Identify contested technical points (evals, red-teaming, incident reporting, model cards, capability thresholds) and forecast which practices are most likely to become de facto compliance norms over the next 3–6 months."
+  },
+  {
+    "id": 54,
+    "chat_id": "0207d35e-8152-4868-9684-8fec533d9d7b",
+    "annotation": {
+      "category": "text-auto",
+      "language": "en",
+      "domain": "legal",
+      "topic": "AI Policy & Regulation",
+      "persona": "startup founder",
+      "anchored_event": "Acceleration of US state AI legislative sessions and multiple state AI laws effective in 2026 alongside EU AI Act ramp-up",
+      "time_sensitive": true,
+      "dr_confidence": 0.92,
+      "quality_score": 0.22,
+      "search_complexity": "High",
+      "search_validation": {
+        "result_count": 10,
+        "source_diversity": 10,
+        "has_recent_results": true
+      }
+    },
+    "rewritten_query": "As a startup founder selling an AI-enabled product across the US and EU, compare how 2025–2026 US state AI laws (e.g., governance frameworks, transparency, consumer notice, automated decision systems) align or conflict with EU AI Act requirements. Build a jurisdiction-by-jurisdiction matrix of obligations, exemptions, and enforcement mechanisms, then propose an engineering/compliance strategy that minimizes duplicated work. Validate interpretations by triangulating statutes, AG guidance, industry memos, and compliance tooling practices."
+  },
+  {
+    "id": 55,
+    "chat_id": "a2d2bddb-fecd-455a-95c8-133c36d2f4f1",
+    "annotation": {
+      "category": "text-auto",
+      "language": "en",
+      "domain": "policy",
+      "topic": "Education & Workforce",
+      "persona": "state education policy analyst",
+      "anchored_event": "Federal & State Push for AI Policy and Teacher Training in K-12; RAND-led panel on uneven AI policy development; Indonesia AI in K-12 momentum (Jakarta Post)",
+      "time_sensitive": true,
+      "dr_confidence": 0.93,
+      "quality_score": 0.28,
+      "search_complexity": "High",
+      "search_validation": {
+        "result_count": 10,
+        "source_diversity": 10,
+        "has_recent_results": true
+      }
+    },
+    "rewritten_query": "I’m advising a state education agency on 2025–2026 K–12 generative AI governance. Synthesize how emerging federal “guardrails,” state-level guidance, and district policies are converging/diverging on (a) student data privacy and vendor contracts, (b) classroom use rules by grade band (K–5 vs 6–12), and (c) teacher training requirements. Compare the U.S. approach with Indonesia’s national push for AI/computational thinking and at least one other OECD system. Identify measurable policy levers (funding, procurement clauses, audits) and where experts disagree on effectiveness and equity."
+  },
+  {
+    "id": 56,
+    "chat_id": "770257e7-dca5-4a66-8536-ed907322ad1b",
+    "annotation": {
+      "category": "text-auto",
+      "language": "en",
+      "domain": "legal",
+      "topic": "Legal & Compliance",
+      "persona": "investigative journalist",
+      "anchored_event": "Current reporting on AI hiring discrimination compliance guides, pending deadlines reshaping AI governance, and federal lawsuits challenging AI hiring software; plus recent privilege rulings for AI tool communications.",
+      "time_sensitive": true,
+      "dr_confidence": 0.93,
+      "quality_score": 0.28,
+      "search_complexity": "High",
+      "search_validation": {
+        "result_count": 10,
+        "source_diversity": 10,
+        "has_recent_results": false
+      }
+    },
+    "rewritten_query": "As a journalist covering algorithmic discrimination in hiring, map the emerging “patchwork” of US state/local rules and federal litigation trends on AI hiring tools (age/sex/race proxies), and compare them to EU GDPR/AI governance approaches to automated employment decision-making. Use statutes, agency guidance, court dockets/settlements, technical audit standards, and vendor documentation to quantify compliance burdens (audit frequency, notice requirements, bias testing thresholds) and highlight conflicting expert views on whether bias audits reduce liability or create discoverable risk—especially after recent rulings limiting privilege for AI communications."
+  },
+  {
+    "id": 57,
+    "chat_id": "8620dd7d-eeef-49ed-8295-023a33fc71ac",
+    "annotation": {
+      "category": "text-auto",
+      "language": "en",
+      "domain": "legal",
+      "topic": "Legal & Compliance",
+      "persona": "in-house litigation counsel",
+      "anchored_event": "Recent US federal/NY court decisions holding client communications with generative AI tools are not privileged (as summarized by Clark Hill and other legal alerts).",
+      "time_sensitive": true,
+      "dr_confidence": 0.9,
+      "quality_score": 0.32,
+      "search_complexity": "High",
+      "search_validation": {
+        "result_count": 10,
+        "source_diversity": 10,
+        "has_recent_results": false
+      }
+    },
+    "rewritten_query": "As in-house litigation counsel at a multinational, I need a comparative analysis of how US courts are treating attorney-client privilege/work-product claims when clients share facts or drafts with third-party generative AI tools, versus how UK/EU legal professional privilege doctrines approach similar “outsourcing” to vendors. Build a practical risk framework (what tool terms, data flows, and attorney involvement matter), cite leading post-2024 decisions and bar guidance, and propose contract + workflow controls that would still allow AI-assisted drafting without privilege waiver."
+  },
+  {
+    "id": 58,
+    "chat_id": "09d3f99e-af53-4f44-9ccd-afdcb07a963f",
+    "annotation": {
+      "category": "text-auto",
+      "language": "en",
+      "domain": "legal",
+      "topic": "Legal & Compliance",
+      "persona": "privacy compliance lead",
+      "anchored_event": "EDPB selection of the 2026 Coordinated Enforcement Action topic on transparency and information obligations; parallel commentary on improving GDPR enforcement and “Shadow AI” concerns.",
+      "time_sensitive": true,
+      "dr_confidence": 0.92,
+      "quality_score": 0.27,
+      "search_complexity": "High",
+      "search_validation": {
+        "result_count": 10,
+        "source_diversity": 10,
+        "has_recent_results": true
+      }
+    },
+    "rewritten_query": "As a privacy compliance lead designing 2025-2026 readiness, synthesize what the EDPB’s Coordinated Enforcement Framework focus on transparency/information obligations means in practice for AI systems that use personal data (including “shadow AI” in workplaces). Compare likely enforcement posture and remedies across at least 5 DPAs (e.g., Ireland, France, Spain, Netherlands, Germany), using recent decisions, annual reports, and guidance. Identify measurable common failure modes (notice content, lawful basis, automated decision-making disclosures) and predict where enforcement will converge/diverge."
+  },
+  {
+    "id": 59,
+    "chat_id": "5547721e-9f60-4e59-adc8-1e1857ca4a9c",
+    "annotation": {
+      "category": "text-auto",
+      "language": "en",
+      "domain": "tech",
+      "topic": "Crypto & Digital Assets",
+      "persona": "DeFi protocol engineer at a fintech startup",
+      "anchored_event": "Industry/legal analyses on DeFi compliance in 2026 (AML, sanctions) and emerging regulator scrutiny signals",
+      "time_sensitive": true,
+      "dr_confidence": 0.93,
+      "quality_score": 0.42,
+      "search_complexity": "High",
+      "search_validation": {
+        "result_count": 5,
+        "source_diversity": 5,
+        "has_recent_results": true
+      }
+    },
+    "rewritten_query": "As a DeFi protocol engineer building a compliant lending/DEX stack, synthesize 2025–2026 developments in AML/sanctions expectations for DeFi across the U.S. (FinCEN/OFAC guidance, enforcement patterns, Travel Rule interpretations) and the EU (AMLR/transfer-of-funds updates), and contrast them with FATF positions. Evaluate competing technical approaches—KYC/whitelisting pools, identity attestations, risk-based wallet screening, and zk-KYC—on censorship-resistance, user privacy, and operational feasibility. Provide an architecture recommendation with a threat model and a table mapping controls to specific regulatory obligations."
+  },
+  {
+    "id": 60,
+    "chat_id": "f66a51c9-6c95-4940-acfc-9734178b851c",
+    "annotation": {
+      "category": "text-auto",
+      "language": "en",
+      "domain": "policy",
+      "topic": "Healthcare & Pharma",
+      "persona": "regulatory affairs grad student",
+      "anchored_event": "Experts react to FDA's shift to single pivotal trials for most drugs; FDA removes two study requirement for new drug approval",
+      "time_sensitive": true,
+      "dr_confidence": 0.92,
+      "quality_score": 0.22,
+      "search_complexity": "High",
+      "search_validation": {
+        "result_count": 10,
+        "source_diversity": 9,
+        "has_recent_results": true
+      }
+    },
+    "rewritten_query": "As a regulatory affairs graduate student, evaluate how FDA’s shift toward accepting single pivotal trials as the default evidentiary standard could change approval strategies for biologics (including gene therapies) and metabolic drugs over the next 3–6 months. Compile and compare: FDA announcements/guidance, RAPS expert reactions, past FDA approval packages (how often confirmatory evidence came from RWE or post-marketing studies), and EMA/PMDA standards for ‘one-study’ acceptability. Quantify historical approval/label-expansion outcomes (time-to-approval, post-marketing commitments, safety-related label changes) and identify where experts disagree on patient-risk tradeoffs."
+  },
+  {
+    "id": 61,
+    "chat_id": "fa8ffdb1-aff9-406e-acfb-745012966f37",
+    "annotation": {
+      "category": "text-auto",
+      "language": "en",
+      "domain": "cybersecurity",
+      "topic": "Cybersecurity",
+      "persona": "SOC engineering lead evaluating procurement for a regulated healthcare network",
+      "anchored_event": "Public positioning of “agentic SOC” as a new SecOps model (Elastic/LimaCharlie) and recent reports on agentic AI adoption and vendor-launched security agents",
+      "time_sensitive": true,
+      "dr_confidence": 0.93,
+      "quality_score": 0.32,
+      "search_complexity": "High",
+      "search_validation": {
+        "result_count": 4,
+        "source_diversity": 4,
+        "has_recent_results": false
+      }
+    },
+    "rewritten_query": "For an “agentic SOC” (tools that plan/act, not just recommend), what architectures and control patterns are emerging as best practice in 2025-2026—multi-agent orchestration, tool-use guardrails, human-in-the-loop thresholds, and auditability? Compare claims vs evidence across vendors and practitioner writeups (e.g., Elastic, LimaCharlie, IRONSCALES) plus any standards guidance (NIST/ISO, AI risk frameworks, AI-BOM discussions). Include a cross-industry comparison (healthcare vs finance) with measurable outcomes: alert MTTR, false-positive rates, containment success, and failure modes/near-misses."
+  },
+  {
+    "id": 62,
+    "chat_id": "5591ac08-60c6-4ceb-a5d8-14ca349b1b44",
+    "annotation": {
+      "category": "text-auto",
+      "language": "en",
+      "domain": "cybersecurity",
+      "topic": "Cybersecurity",
+      "persona": "threat intelligence analyst at a multinational enterprise",
+      "anchored_event": "Google/GTIG reporting that it tracked 43 zero-days in 2025 with major share in enterprise software/appliances; multiple Google-confirmed in-the-wild Android/Chrome zero-days and a Qualcomm-marked exploited issue",
+      "time_sensitive": true,
+      "dr_confidence": 0.94,
+      "quality_score": 0.22,
+      "search_complexity": "High",
+      "search_validation": {
+        "result_count": 10,
+        "source_diversity": 10,
+        "has_recent_results": true
+      }
+    },
+    "rewritten_query": "In 2025-2026, how is the zero-day market shifting toward enterprise software/appliances vs mobile (Android/Chrome), and what evidence links the change to spyware/exploit vendors rather than “traditional” cybercrime? Build a quantitative view (counts, affected product classes, patch latency, exploitation confirmation rates) by triangulating Google/GTIG tracking, vendor advisories (e.g., Qualcomm/Android/Chrome), and independent vulnerability datasets. Compare disclosure/mitigation mechanisms across the US/EU/Japan (e.g., KEV-style lists, coordinated disclosure norms) and highlight where experts disagree on attribution and measurement bias."
+  },
+  {
+    "id": 63,
+    "chat_id": "5fab7346-884e-4049-a8d1-80da846571e1",
+    "annotation": {
+      "category": "text-auto",
+      "language": "en",
+      "domain": "finance",
+      "topic": "Healthcare & Pharma",
+      "persona": "biotech equity analyst",
+      "anchored_event": "Regulator lifts clinical hold on Intellia's gene therapy trials / Reuters: Intellia gets FDA nod to resume second gene therapy trial after safety pause",
+      "time_sensitive": true,
+      "dr_confidence": 0.93,
+      "quality_score": 0.32,
+      "search_complexity": "High",
+      "search_validation": {
+        "result_count": 10,
+        "source_diversity": 9,
+        "has_recent_results": true
+      }
+    },
+    "rewritten_query": "As a biotech equity analyst, map how the FDA’s recent lifting of clinical holds on in vivo gene-editing/gene therapy INDs (e.g., Intellia) is reshaping the de-risking playbook for 2025–2026 trials. Synthesize: FDA/CBER communications and safety review themes (immunogenicity, off-target, hepatotoxicity), company 8-Ks/earnings transcripts, trial registry protocol changes, and KOL commentary. Compare US expectations vs EMA/UK MHRA on risk mitigation (sentinel dosing, stopping rules, long-term follow-up). Produce a forward-looking framework with quantitative indicators (hold frequency, time-to-resume, CMC vs clinical causes)."
+  },
+  {
+    "id": 64,
+    "chat_id": "1c7a6b12-5090-496f-9c15-55cf2e9d6363",
+    "annotation": {
+      "category": "text-auto",
+      "language": "en",
+      "domain": "energy",
+      "topic": "Climate & Energy",
+      "persona": "grid planning analyst at a utility/ISO",
+      "anchored_event": "Data Center Moratorium Bills Are Spreading in 2026 (Good Jobs First); Data center electricity growth driving U.S. grid changes",
+      "time_sensitive": true,
+      "dr_confidence": 0.93,
+      "quality_score": 0.28,
+      "search_complexity": "High",
+      "search_validation": {
+        "result_count": 10,
+        "source_diversity": 10,
+        "has_recent_results": true
+      }
+    },
+    "rewritten_query": "As a grid planning analyst, I need a cross-region comparison of how grid constraints are shaping data center approvals and design in 2025–2026. Using interconnection queue data, ISO/RTO reliability filings (e.g., PJM/ERCOT), state moratorium proposals (e.g., bills like HB 1265), and utility IRPs, what are the most common “binding constraints” (transformer/substation capacity, transmission congestion, capacity market limits, water constraints) and which mitigation strategies actually clear permitting (on-site generation, storage, flexible load, curtailed PPAs, microgrids)? Please quantify timelines/cost ranges and highlight conflicting views from grid operators vs developers."
+  },
+  {
+    "id": 65,
+    "chat_id": "6f03ddc3-77cd-4c46-a086-2ccd314eee66",
+    "annotation": {
+      "category": "text-auto",
+      "language": "en",
+      "domain": "policy",
+      "topic": "Crypto & Digital Assets",
+      "persona": "Financial journalist",
+      "anchored_event": "U.S. legislative proposals to restrict or delay retail CBDC issuance alongside accelerating stablecoin regulation discussions",
+      "time_sensitive": true,
+      "dr_confidence": 0.93,
+      "quality_score": 0.22,
+      "search_complexity": "High",
+      "search_validation": {
+        "result_count": 10,
+        "source_diversity": 9,
+        "has_recent_results": false
+      }
+    },
+    "rewritten_query": "As a financial journalist tracking CBDC adoption, analyze how jurisdictions are shifting between retail CBDCs, wholesale/tokenized deposits, and regulated stablecoins as payment rails. Compare at least three regions (e.g., EU, UK, Singapore/Brazil/India) on pilot scope, interoperability standards, privacy safeguards, and commercial-bank roles, and contrast with U.S. constraints implied by recent legislative proposals delaying or restricting retail CBDCs. Use measurable indicators (pilot transaction volumes, bank/PSP participation, cross-border corridor tests) and summarize conflicting expert forecasts on whether regulated stablecoins will outpace CBDCs for domestic and cross-border payments over the next 6–18 months."
+  },
+  {
+    "id": 66,
+    "chat_id": "912e77de-8383-41dc-80da-a9760ee7668d",
+    "annotation": {
+      "category": "text-auto",
+      "language": "en",
+      "domain": "tech",
+      "topic": "Biotech & Science",
+      "persona": "computational biology / HPC engineer",
+      "anchored_event": "The Quantum Computing Hype Could Cool Off in 2026 -- Here's Why",
+      "time_sensitive": true,
+      "dr_confidence": 0.93,
+      "quality_score": 0.33,
+      "search_complexity": "High",
+      "search_validation": {
+        "result_count": 10,
+        "source_diversity": 10,
+        "has_recent_results": true
+      }
+    },
+    "rewritten_query": "As a computational biology engineer, evaluate where quantum computing is genuinely competitive for biomolecular simulation and drug discovery workflows in 2025–2026 (e.g., electronic structure, docking, ML acceleration, optimization). Synthesize evidence from peer-reviewed benchmarks, vendor roadmaps, and independent assessments to compare superconducting vs trapped-ion vs photonic/measurement-based approaches, including error mitigation, qubit counts, circuit depth, and end-to-end runtime/cost versus classical HPC. Explain why some experts argue the hype may cool and identify the most defensible near-term use cases."
+  },
+  {
+    "id": 67,
+    "chat_id": "1b7daa38-1015-40c9-9cb0-39e8d1609901",
+    "annotation": {
+      "category": "text-auto",
+      "language": "en",
+      "domain": "legal",
+      "topic": "Crypto & Digital Assets",
+      "persona": "Payments compliance attorney",
+      "anchored_event": "OCC Notice of Proposed Rulemaking to implement key GENIUS Act stablecoin provisions; contemporaneous SEC stablecoin guidance/FAQs",
+      "time_sensitive": true,
+      "dr_confidence": 0.93,
+      "quality_score": 0.22,
+      "search_complexity": "High",
+      "search_validation": {
+        "result_count": 10,
+        "source_diversity": 10,
+        "has_recent_results": false
+      }
+    },
+    "rewritten_query": "As a payments compliance attorney advising a stablecoin issuer, compare how the OCC’s proposed GENIUS Act implementing rule, recent SEC stablecoin-related guidance/FAQs, and EU MiCA/UK FCA frameworks treat (1) reserve composition and custody, (2) redemption rights and timelines, and (3) yield-bearing or “interest-like” stablecoin products. Identify the main areas of regulatory divergence and where experts disagree on issuer profitability and bank-charter viability. Include a quantitative scenario analysis for how reserve constraints and disclosure/audit requirements change net interest margins and liquidity risk."
+  },
+  {
+    "id": 68,
+    "chat_id": "f6051b80-ba01-4859-abdd-1b6717f36c7e",
+    "annotation": {
+      "category": "text-auto",
+      "language": "en",
+      "domain": "policy",
+      "topic": "Biotech & Science",
+      "persona": "science journalist",
+      "anchored_event": "Addressing changes in NIH open access requirements, questions ...",
+      "time_sensitive": true,
+      "dr_confidence": 0.93,
+      "quality_score": 0.28,
+      "search_complexity": "High",
+      "search_validation": {
+        "result_count": 10,
+        "source_diversity": 10,
+        "has_recent_results": true
+      }
+    },
+    "rewritten_query": "As a science journalist covering research policy, analyze how shifting open-access funding and compliance rules in 2025–2026 are changing publishing strategies in computational biology and quantum computing. Compare NIH public-access changes and major Chinese funder restrictions on paying high APCs, then map how university “read-and-publish” agreements and publisher waiver policies alter total cost of publication, journal choice, and preprint-to-journal pathways across the US/UK/EU/China. Use policy documents, library agreements, APC datasets, and author behavior studies; surface conflicting stakeholder views."
+  },
+  {
+    "id": 69,
+    "chat_id": "0188cd55-b881-47fc-83cb-f95a9380d2b0",
+    "annotation": {
+      "category": "text-auto",
+      "language": "en",
+      "domain": "science",
+      "topic": "Supply Chain & Industrial",
+      "persona": "Graduate researcher in industrial engineering",
+      "anchored_event": "2026 Global Semiconductor Industry Outlook - Deloitte; Electronics Weekly News | Feb 23 - Mar 1, 2026; 2026 semiconductor industry outlook + M&A - Sourceability",
+      "time_sensitive": true,
+      "dr_confidence": 0.93,
+      "quality_score": 0.28,
+      "search_complexity": "High",
+      "search_validation": {
+        "result_count": 10,
+        "source_diversity": 9,
+        "has_recent_results": true
+      }
+    },
+    "rewritten_query": "As a graduate student studying industrial resilience, map the 2025–2026 semiconductor supply-chain bottlenecks that matter most (advanced packaging capacity, specialty gases/chemicals like helium, photoresists, substrates, and test/assembly). Compare risk-mitigation approaches across the U.S., Taiwan, South Korea, Japan, and the EU (dual sourcing, inventory policies, long-term offtake, onshoring incentives), and quantify impacts on lead times and pricing for selected nodes (e.g., HBM-related components vs. mature nodes). Synthesize analyst outlooks, customs/trade data, company 10-Ks, and government industrial-policy documents."
+  },
+  {
+    "id": 70,
+    "chat_id": "8ee52247-7882-40b3-9f7b-d0505ea6755b",
+    "annotation": {
+      "category": "text-auto",
+      "language": "en",
+      "domain": "trade",
+      "topic": "Supply Chain & Industrial",
+      "persona": "Supply-chain finance analyst at an industrial manufacturer",
+      "anchored_event": "US–Mexico Cross-Border Logistics: Nearshoring Trends for 2026; Nearshoring Without Growth: Why Investment Uncertainty Is Holding ...; US Supreme Court Strikes Down Major Tariffs, Triggering New Trade Uncertainty",
+      "time_sensitive": true,
+      "dr_confidence": 0.95,
+      "quality_score": 0.24,
+      "search_complexity": "High",
+      "search_validation": {
+        "result_count": 10,
+        "source_diversity": 10,
+        "has_recent_results": true
+      }
+    },
+    "rewritten_query": "As a supply-chain finance analyst, quantify how 2025–2026 nearshoring into Mexico is evolving beyond headline announcements: compare FDI/plant startups, cross-border freight volumes (truck/rail), border dwell times, and logistics cost inflation vs. alternative nearshoring hubs (e.g., Poland/Czechia, Vietnam). Incorporate how tariff-policy uncertainty and compliance/enforcement risk are affecting CAPEX timing, inventory buffers, and supplier selection. Reconcile conflicting views from forwarders, macro economists, and manufacturer filings; produce a base-case forecast for 2026–2027 capacity and lane pricing."
+  }
+]

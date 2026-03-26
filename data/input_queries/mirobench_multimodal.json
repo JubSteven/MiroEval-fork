@@ -1,0 +1,746 @@
+[
+  {
+    "id": 71,
+    "chat_id": "ab761592-719d-443b-b912-e1b9ca494c52",
+    "files": [
+      {
+        "filename": "attachment_71_01.jpg",
+        "type": "image",
+        "dir": "multimodal-attachments/71/attachment_71_01.jpg",
+        "size": "1.5 MB"
+      }
+    ],
+    "annotation": {
+      "category": "image",
+      "language": "zh",
+      "origin_id": 102
+    },
+    "rewritten_query": "我是化工厂设备维护部门的工程师，最近我们一台钛钢复合板反应器出现了泄漏问题。这个反应器主要处理含硫废碱液（硫化钠、硫氢化钠、氢氧化钠各3%重量比）和空气的反应，工作温度170-240℃，压力2-5MPaG，用的是3mm钛+碳钢爆炸复合板。拆开检查后发现钛层腐蚀很严重，怀疑可能跟之前误入过含氯2500mg/L的有机溶剂废水有关。我拍了个腐蚀部位的照片，能帮我看看这个腐蚀形态特征，然后查一下钛材料在这种含氯环境下的腐蚀机理和速率数据吗？想确认一下到底是氯离子腐蚀还是其他原因导致的。"
+  },
+  {
+    "id": 72,
+    "chat_id": "d6ecc4ac-ad6d-45c9-8c42-161fd4a2381e",
+    "files": [
+      {
+        "filename": "attachment_72_01.jpg",
+        "type": "image",
+        "dir": "multimodal-attachments/72/attachment_72_01.jpg",
+        "size": "1.1 MB"
+      }
+    ],
+    "annotation": {
+      "category": "image",
+      "language": "zh",
+      "origin_id": 105
+    },
+    "rewritten_query": "我在做一个关于古地理演化对气候影响的研究项目，附件是一张假想的地理改造图，显示塔里木盆地变成海洋并通过水道连接印度洋。我需要评估这种地理变化可能带来的气候效应，想了解一下历史上类似的大型内陆海（比如地中海、里海等）对周边地区气候的实际影响数据，以及现在气象学界对于大型水体如何调节区域气候有哪些定量的研究结论。最好能找到一些具体的温度、降水、湿度变化的数值范围，这样我可以对比分析这个假想情景可能产生的影响程度，特别是对中亚干旱区和季风系统可能造成的改变。"
+  },
+  {
+    "id": 73,
+    "chat_id": "87cacdba-e97f-4b93-bae8-d20f0ea8597a",
+    "files": [
+      {
+        "filename": "attachment_73_01.png",
+        "type": "image",
+        "dir": "multimodal-attachments/73/attachment_73_01.png",
+        "size": "193.3 KB"
+      }
+    ],
+    "annotation": {
+      "category": "image",
+      "language": "zh",
+      "origin_id": 106
+    },
+    "rewritten_query": "我最近在学习 Capture One 的色彩管理，看到图片里的渲染意图设置有四个选项。据我了解，A7M4 相机的 RAW 文件本身就包含 sRGB 色彩空间信息，所以在 Capture One 里应该直接按照相机设定的 sRGB 来处理。我的设备配置是 MacBook M4 Pro 外接戴尔 U2725QE 显示器，两个设备都是 P3 广色域。想问一下在这种配置下，渲染意图应该选择哪个选项比较合适？另外我发现一个奇怪的现象，就是开启软打样功能后，即使我选择了 JPG+sRGB 的导出配方，照片在软件里看起来和关闭软打样时完全一样，这是不是说明我的显示器校准有问题？"
+  },
+  {
+    "id": 74,
+    "chat_id": "aa18e089-caad-4f15-9190-ff6f2537b7fe",
+    "files": [
+      {
+        "filename": "attachment_74_01.jpg",
+        "type": "image",
+        "dir": "multimodal-attachments/74/attachment_74_01.jpg",
+        "size": "14.8 MB"
+      }
+    ],
+    "annotation": {
+      "category": "image",
+      "language": "zh",
+      "origin_id": 108
+    },
+    "rewritten_query": "我是环境科学专业的研究生，正在写关于黄河流域生态文明建设的毕业论文。我上传了一张黄河流域GIS专题图，显示的是2013-2024年各地区耦合协调度的时空变化。根据我导师提供的资料，黄河流域在2018年被正式纳入国家重大区域发展战略，从那时起各地区的协调发展水平应该呈现显著提升趋势。请你帮我基于这张图片，按照严格的学术规范来分析不同颜色代表的协调度等级在各个时间节点的空间分布特征，并按上游/中游/下游进行分区段解读。分析时请严格遵守'无图面证据不下结论'的原则，只依据图中可见的图例、颜色、行政区边界与地名标注作答。输出格式要求：先逐字复述图例内容，然后建立颜色-地区-区段的对应关系，最后对各区段进行归纳总结。区段划分按我提供的行政区清单执行，并在最后提供核对摘要说明图例完整性等技术问题。"
+  },
+  {
+    "id": 75,
+    "chat_id": "ba3272e3-102c-4710-a7fa-a2cbaaf72b77",
+    "files": [
+      {
+        "filename": "attachment_75_01.png",
+        "type": "image",
+        "dir": "multimodal-attachments/75/attachment_75_01.png",
+        "size": "318.6 KB"
+      }
+    ],
+    "annotation": {
+      "category": "image",
+      "language": "zh",
+      "origin_id": 113
+    },
+    "rewritten_query": "我是一名生物信息学研究生，最近在做产前基因检测相关的毕业设计。附件是我找到的一个医疗AI诊断系统架构图，里面有基因变异数据的处理流程和一些具体的变异位点信息。我想了解一下图中提到的基因变异数据库（比如那个Gene Variants VCF表格）通常使用什么质量评分标准，另外也想查一下像autoPVS1这类致病性判定算法目前在临床上的应用情况如何，有哪些主流的开源实现可以参考？"
+  },
+  {
+    "id": 76,
+    "chat_id": "a9b7f715-0ace-492a-9f6c-da9b6a20532c",
+    "files": [
+      {
+        "filename": "attachment_76_01.png",
+        "type": "image",
+        "dir": "multimodal-attachments/76/attachment_76_01.png",
+        "size": "217.1 KB"
+      }
+    ],
+    "annotation": {
+      "category": "image",
+      "language": "zh",
+      "origin_id": 115
+    },
+    "rewritten_query": "我在研究Transformer模型的GPU并行优化，看到一篇论文介绍注意力机制的前向传播架构。论文中提到这个架构采用了FlashAttention算法，通过4个全局同步点来协调计算，同时所有矩阵加载都是异步进行的。我想了解一下：为什么FlashAttention需要这么多同步点？异步加载和同步计算之间的配合机制是怎样的？另外，从图中可以看到矩阵分块（chunking）的处理方式，这种设计对内存带宽利用率有什么影响？"
+  },
+  {
+    "id": 77,
+    "chat_id": "181f0d9a-155d-4ffb-871d-e51cb5e77389",
+    "files": [
+      {
+        "filename": "attachment_77_01.png",
+        "type": "image",
+        "dir": "multimodal-attachments/77/attachment_77_01.png",
+        "size": "133.7 KB"
+      }
+    ],
+    "annotation": {
+      "category": "image",
+      "language": "zh",
+      "origin_id": 118
+    },
+    "rewritten_query": "我们实验室最近在研究abrin的细胞毒性机制，刚完成了一轮RNA-seq分析。从初步的GSEA-KEGG结果来看（见附件），排名最高的富集通路是Ribosome biogenesis in eukaryotes，NES值大概在3.1左右？另外我注意到Viral protein interaction with cytokine and cytokine receptor这个通路的NES值也挺高的，应该是2.8左右。能帮我深入分析一下这些富集结果，特别是结合这些主要通路的生物学功能，推断abrin可能的作用机制吗？最好用英文输出，方便我们后续写论文。"
+  },
+  {
+    "id": 78,
+    "chat_id": "0ba884ef-910d-45c6-af32-4a095d39221b",
+    "files": [
+      {
+        "filename": "attachment_78_01.png",
+        "type": "image",
+        "dir": "multimodal-attachments/78/attachment_78_01.png",
+        "size": "137.1 KB"
+      }
+    ],
+    "annotation": {
+      "category": "image",
+      "language": "zh",
+      "origin_id": 122
+    },
+    "rewritten_query": "我最近在用StarCCM+做船舶CFD仿真，模拟带液舱的船舶在水槽中线性聚焦波条件下的运动。设置了船舶三个自由度：横摇（绕y轴旋转）、横荡（沿x轴平移）、垂荡（沿z轴平移）。为了提高计算效率，我把宽度方向的网格设为一层来模拟二维条件，用的是瞬态求解器，时间步0.02s，二阶精度，内部迭代10次，重叠网格和背景加密区域的四面体网格大小控制在0.31m左右。现在仿真跑到230s左右时弹簧阻尼Monitor突然从-1.5跳到3.2，垂荡和横荡都出现了剧烈突变，但横摇倒是还比较稳定。能帮我看看这个Monitor曲线，分析一下为什么会出现这种数值突变，应该怎么调整参数来解决？"
+  },
+  {
+    "id": 79,
+    "chat_id": "03c86264-8973-49c1-a21b-6138d8aee72a",
+    "files": [
+      {
+        "filename": "attachment_79_01.png",
+        "type": "image",
+        "dir": "multimodal-attachments/79/attachment_79_01.png",
+        "size": "231.6 KB"
+      }
+    ],
+    "annotation": {
+      "category": "image",
+      "language": "zh",
+      "origin_id": 133
+    },
+    "rewritten_query": "我最近在做小游戏市场分析，朋友发了一份2025年4-12月微信和抖音小游戏畅销榜TOP20的截图给我（见附件）。我大概看了一下，像《向僧户开炮》在微信这边排第1，《灵画师》在抖音那边也挺靠前的。能帮我详细搜索一下这些游戏的最早上线时间、首发平台，还有游戏品类分级（轻度、中重度、重度）吗？我想分析一下不同类型游戏在两个平台的表现差异，为我们团队的产品规划提供参考。"
+  },
+  {
+    "id": 80,
+    "chat_id": "bddbee22-5278-4baf-a254-b41904898692",
+    "files": [
+      {
+        "filename": "attachment_80_01.png",
+        "type": "image",
+        "dir": "multimodal-attachments/80/attachment_80_01.png",
+        "size": "65.4 KB"
+      }
+    ],
+    "annotation": {
+      "category": "image",
+      "language": "zh",
+      "origin_id": 139
+    },
+    "rewritten_query": "我是一个AI算法工程师，最近在做多模态融合项目。附件是我找到的一个关于模态交互机制的图表，里面展示了六种不同的交互模式。能帮我看看这个图表中Independence和Dominance这两种模式在信号响应上有什么具体区别吗？另外我想了解一下目前学术界对这些多模态交互理论的研究现状，特别是有没有比较成熟的评估框架可以参考。"
+  },
+  {
+    "id": 81,
+    "chat_id": "4af37d93-17bb-4914-aa6c-6f1dd99cf2c1",
+    "files": [
+      {
+        "filename": "attachment_81_01.webp",
+        "type": "image",
+        "dir": "multimodal-attachments/81/attachment_81_01.webp",
+        "size": "308.2 KB"
+      }
+    ],
+    "annotation": {
+      "category": "image",
+      "language": "zh",
+      "origin_id": 140
+    },
+    "rewritten_query": "我是一家投资机构的研究员，最近在关注AI和开发者工具赛道的投资机会。听说BREX发布了一个2025年增长最快的50家软件供应商榜单，其中包括Cursor、OpenRouter、Kling AI、Retell AI、Perplexity、Windsurf、FireCrawl、Clay、Replit、Exa等公司。我想深入研究一下这个榜单中排名前20的公司，帮我分析一下这些公司的商业模式分布情况——比如有多少家是纯SaaS订阅、多少家是API按量计费、多少家是开源核心付费增值模式。同时我也想了解一下这些公司的目标客户群体差异，是主要服务开发者、企业IT部门还是终端消费者。另外从技术路线上看，AI原生公司和传统软件公司的占比大概是怎样的，它们在产品定位和竞争策略上有什么明显区别。最后麻烦帮我梳理一下这20家公司中哪些已经有明确的盈利模式，哪些还处在烧钱获客阶段，这对我判断投资时机很重要。"
+  },
+  {
+    "id": 82,
+    "chat_id": "907c3a79-d340-4707-9cad-d085bc76c331",
+    "files": [
+      {
+        "filename": "attachment_82_01.png",
+        "type": "image",
+        "dir": "multimodal-attachments/82/attachment_82_01.png",
+        "size": "581.7 KB"
+      }
+    ],
+    "annotation": {
+      "category": "image",
+      "language": "zh",
+      "origin_id": 142
+    },
+    "rewritten_query": "我最近在研究裸眼3D显示技术的产业化可行性，准备给投资方做一份技术路线对比报告。附件是我找到的一张技术原理图，里面展示了目前主流的5种裸眼3D光学方案：视差屏障、柱透镜阵列、集成光场、时空复用和衍射光学。能帮我从这张图中提取每种方案的核心技术原理，然后制作一个结构化的对比表格吗？表格需要包含技术原理、优势、劣势、适用场景和技术成熟度这几个维度。另外如果能顺便查一下目前哪些厂商在主推这些技术路线就更好了，这样我能更好地评估市场前景。"
+  },
+  {
+    "id": 83,
+    "chat_id": "bc51cf8a-13fa-449c-8c03-2cb09e31aa54",
+    "files": [
+      {
+        "filename": "attachment_83_01.png",
+        "type": "image",
+        "dir": "multimodal-attachments/83/attachment_83_01.png",
+        "size": "402.0 KB"
+      }
+    ],
+    "annotation": {
+      "category": "image",
+      "language": "zh",
+      "origin_id": 148
+    },
+    "rewritten_query": "我是一名财务分析师，最近在研究华为的财务表现。附件是华为2015-2019年的财务数据表格，包含销售收入、营业利润、营业利润率等关键指标。我需要你帮我做一个详细的营业利润率分析报告，具体包括：先把每年的营业利润率数据提取出来做成趋势图表，然后计算年度变化幅度，最后结合华为在这几年的主要业务发展和市场环境变化，分析一下营业利润率波动的可能原因。如果需要的话，也可以查一下华为在这个时间段的重大事件或行业背景信息作为补充。输出格式用Markdown，分成数据提取、趋势分析、原因解读三个部分。"
+  },
+  {
+    "id": 84,
+    "chat_id": "b3359954-5835-4b2c-a9bf-caa0a5f93f88",
+    "files": [
+      {
+        "filename": "attachment_84_01.png",
+        "type": "image",
+        "dir": "multimodal-attachments/84/attachment_84_01.png",
+        "size": "15.9 KB"
+      }
+    ],
+    "annotation": {
+      "category": "image",
+      "language": "zh",
+      "origin_id": 150
+    },
+    "rewritten_query": "我是一名药物配方工程师，最近在优化磷酸镁水合物氨吸附剂的配方。附件是我们实验室做的配方优化结果散点图，横轴是镁含量，纵轴是磷含量，圆点大小表示钠离子含量，颜色深浅代表氨吸附性能（氮含量）。图中每个点都是一个实际的配方产物，包含了镁、磷、钠三个组分变量和氨吸附性能这个因变量。我们想从这个图中提取出具体的数据点，然后做定量分析看哪个组分对吸附性能影响最大。麻烦帮我先把图中所有数据点的四个变量值读取出来，整理成一个表格（包含镁浓度、磷浓度、钠浓度、氨吸附性能四列），然后基于这些数据推荐最适合的统计分析方法，比如多元线性回归、主成分分析或随机森林等。输出要分两部分：数据表格和方法推荐，方便我直接拿去做进一步分析。"
+  },
+  {
+    "id": 85,
+    "chat_id": "dd3cd53d-da16-4a2b-883b-d8e7e414fc94",
+    "files": [
+      {
+        "filename": "attachment_85_01.pdf",
+        "type": "pdf",
+        "dir": "multimodal-attachments/85/attachment_85_01.pdf",
+        "size": "880.6 KB"
+      }
+    ],
+    "annotation": {
+      "category": "doc",
+      "language": "zh",
+      "origin_id": 152
+    },
+    "rewritten_query": "我是一家科技政策咨询机构的分析师，最近在为客户撰写中国重大技术装备产业发展报告。附件是工信部刚发布的《首台(套)重大技术装备推广应用指导目录(2024年版)》，里面列出了很多前沿装备。能帮我从这个目录中挑选几个代表性的装备类别，比如高端工业母机、电力装备或者航空航天装备，然后查一下这些装备目前在国内外的研发进展和商业化现状吗？主要想了解哪些还在实验室阶段，哪些已经有产品投放市场了。"
+  },
+  {
+    "id": 86,
+    "chat_id": "6b54a29e-6d3b-4f14-a389-caa467396e22",
+    "files": [
+      {
+        "filename": "attachment_86_01.pdf",
+        "type": "pdf",
+        "dir": "multimodal-attachments/86/attachment_86_01.pdf",
+        "size": "1.6 MB"
+      }
+    ],
+    "annotation": {
+      "category": "doc",
+      "language": "zh",
+      "origin_id": 156
+    },
+    "rewritten_query": "我最近在研究科技股投资机会，同事分享了Alphabet公司2025年Q4财报（见附件）。我大概看了一下，这次Google Cloud收入增长好像是52%左右？另外净利润增长幅度大概在35%附近？作为机构投资人，我需要你帮我深度分析一下GOOG这个季度的表现。主要想了解收入和利润的具体结构、各业务板块的增长动力、财报数据的合理性，以及跟微软、亚马逊等竞争对手比较的优劣势。结合当前AI浪潮和云计算市场格局，你觉得GOOG的长期竞争壁垒是在加强还是削弱？另外市场上关于GOOG的各种信息很多，能帮我区分一下哪些是硬事实、哪些是市场叙事？按目前333.34美元的价格和4万亿美元市值，从估值角度看是否还有投资价值？"
+  },
+  {
+    "id": 87,
+    "chat_id": "e7d4b36b-687d-4cb8-a0ab-be38e938a63b",
+    "files": [
+      {
+        "filename": "attachment_87_01.pdf",
+        "type": "pdf",
+        "dir": "multimodal-attachments/87/attachment_87_01.pdf",
+        "size": "229.0 KB"
+      },
+      {
+        "filename": "attachment_87_02.pdf",
+        "type": "pdf",
+        "dir": "multimodal-attachments/87/attachment_87_02.pdf",
+        "size": "984.2 KB"
+      },
+      {
+        "filename": "attachment_87_03.pdf",
+        "type": "pdf",
+        "dir": "multimodal-attachments/87/attachment_87_03.pdf",
+        "size": "439.2 KB | Pages: 5"
+      },
+      {
+        "filename": "attachment_87_04.pdf",
+        "type": "pdf",
+        "dir": "multimodal-attachments/87/attachment_87_04.pdf",
+        "size": "528.7 KB"
+      },
+      {
+        "filename": "attachment_87_05.pdf",
+        "type": "pdf",
+        "dir": "multimodal-attachments/87/attachment_87_05.pdf",
+        "size": "140.0 KB | Pages: 8"
+      },
+      {
+        "filename": "attachment_87_06.pdf",
+        "type": "pdf",
+        "dir": "multimodal-attachments/87/attachment_87_06.pdf",
+        "size": "208.7 KB"
+      }
+    ],
+    "annotation": {
+      "category": "doc",
+      "language": "en",
+      "origin_id": 159
+    },
+    "rewritten_query": "Based on the six attached papers covering axiomatic characterizations of Nash equilibrium, differential privacy composition theorems, and knowledge ontologies, please complete the following multi-step analysis: (1) For each theorem, provide a rigorous mathematical summary including the key axioms, assumptions, and proof techniques used; (2) Identify the category-theoretic structures implicit in each result — specifically, characterize the relevant categories, functors, and natural transformations; (3) Using the framework of open games (as developed by Ghani, Hedges et al.), reformulate the Nash equilibrium characterization theorems in categorical terms; (4) Apply categorical approaches to unify the differential privacy composition results with the Pufferfish privacy framework; (5) Propose a unified category-theoretic framework that connects game-theoretic equilibrium concepts with privacy-preserving mechanisms through common algebraic structures. For each step, cite specific definitions and theorems from the attached papers."
+  },
+  {
+    "id": 88,
+    "chat_id": "c458bc01-529b-447f-ad27-0c54f8c41b00",
+    "files": [
+      {
+        "filename": "attachment_88_01.pdf",
+        "type": "pdf",
+        "dir": "multimodal-attachments/88/attachment_88_01.pdf",
+        "size": "440.8 KB"
+      },
+      {
+        "filename": "attachment_88_02.pdf",
+        "type": "pdf",
+        "dir": "multimodal-attachments/88/attachment_88_02.pdf",
+        "size": "567.0 KB"
+      },
+      {
+        "filename": "attachment_88_03.pdf",
+        "type": "pdf",
+        "dir": "multimodal-attachments/88/attachment_88_03.pdf",
+        "size": "1.4 MB"
+      }
+    ],
+    "annotation": {
+      "category": "doc",
+      "language": "en",
+      "origin_id": 161
+    },
+    "rewritten_query": "I'm working on a research project in econometrics and came across three interesting papers on variance ratio tests and optimal inference methods. I've attached Jon Faust's 1992 Econometrica paper on variance ratio tests for serial dependence, a recent paper by Bollerslev, Li, and Ren on optimal inference for spot regressions, and Li and Yang's paper on multi-horizon tests for market frictions. Could you help me understand what specific optimality conditions Faust established for variance ratio tests in his 1992 paper, and also look up what the current state of research is on optimal econometric testing methods in finance? I'm particularly interested in how these classical results might connect to modern high-frequency data analysis."
+  },
+  {
+    "id": 89,
+    "chat_id": "b641e20d-5e52-4d6d-96e7-866a3d69144e",
+    "files": [
+      {
+        "filename": "attachment_89_01.pdf",
+        "type": "pdf",
+        "dir": "multimodal-attachments/89/attachment_89_01.pdf",
+        "size": "1.3 MB"
+      }
+    ],
+    "annotation": {
+      "category": "doc",
+      "language": "en",
+      "origin_id": 164
+    },
+    "rewritten_query": "I'm a nutrition consultant working with clients who have chronic inflammatory conditions. I've been researching different curcumin supplements for my practice and came across this research paper comparing various bioavailable formulations. Could you help me extract the key bioavailability data from this study - specifically the AUC and Cmax values for curcuRouge compared to other formulations like Theracurmin, Meriva, and NovaSol? I'd also like to understand how these absorption rates compare to what's typically reported in the supplement industry for enhanced curcumin products. This would help me make evidence-based recommendations to my clients."
+  },
+  {
+    "id": 90,
+    "chat_id": "1df326fe-3c2f-49db-8cb7-401ec96fe7c8",
+    "files": [
+      {
+        "filename": "attachment_90_01.pdf",
+        "type": "pdf",
+        "dir": "multimodal-attachments/90/attachment_90_01.pdf",
+        "size": "7.1 MB"
+      }
+    ],
+    "annotation": {
+      "category": "doc",
+      "language": "en",
+      "origin_id": 165
+    },
+    "rewritten_query": "I'm preparing for an upcoming neuroscience seminar where I need to present this Nature Neuroscience paper on axon initial segment plasticity during fear learning. The attached paper shows some interesting findings about AIS dynamics in mouse prefrontal cortex, but I want to put their results in proper context before my presentation. Could you help me compare their key experimental findings with what's currently known in the field about AIS plasticity and fear memory? I'm particularly interested in how their longitudinal imaging approach and the specific AIS length changes they observed stack up against other recent studies on structural plasticity during learning. Also, I'd appreciate if you could identify any methodological limitations or alternative interpretations of their data that I should be prepared to discuss during the Q&A session."
+  },
+  {
+    "id": 91,
+    "chat_id": "0924661e-ce6b-4216-8515-310ffe79e695",
+    "files": [
+      {
+        "filename": "attachment_91_01.txt",
+        "type": "text",
+        "dir": "multimodal-attachments/91/attachment_91_01.txt",
+        "size": "1.0 KB"
+      }
+    ],
+    "annotation": {
+      "category": "doc",
+      "language": "zh",
+      "origin_id": 168
+    },
+    "rewritten_query": "我是一个开发者，最近在深度使用Claude Code CLI来提升编程效率，听说有很多官方和第三方插件可以扩展功能。我想做一个比较全面的插件生态调研，重点关注几个方向：首先是代码审查类的插件（像code-review、pr-review-toolkit这些），看看它们的功能差异和安装方式；然后是开发辅助类的（比如feature-dev、superpowers、agent-sdk-dev），了解一下各自的特色和适用场景；还有语言服务类的插件（pyright-lsp、typescript-lsp、vtsls等），对比一下它们的语言支持范围。另外也想了解一下不同组织维护的插件质量怎么样，比如claude-plugins-official、anthropic-agent-skills、第三方开发者的插件在功能完整性和更新频率上有什么区别。最后希望能整理出一个完整的安装指南，包括每个插件的具体安装命令和依赖要求，方便我和团队快速配置开发环境。"
+  },
+  {
+    "id": 92,
+    "chat_id": "4eb21f64-69cc-4054-ac34-1fbb5117e22d",
+    "files": [
+      {
+        "filename": "attachment_92_01.pdf",
+        "type": "pdf",
+        "dir": "multimodal-attachments/92/attachment_92_01.pdf",
+        "size": "1.6 MB"
+      }
+    ],
+    "annotation": {
+      "category": "doc",
+      "language": "zh",
+      "origin_id": 170
+    },
+    "rewritten_query": "我是经济学专业的硕士研究生，最近在写关于无形资产与货币政策传导的毕业论文。附件是我找到的一篇汪意成、周伟岷发表的无形资本研究综述文章，里面梳理了不少重要文献。我想基于这篇文章的框架和引用文献，做一个更全面的无形资产研究现状分析，需要你帮我对比一下附件中提到的研究脉络与当前学术界的最新进展有什么异同。具体来说，能否从附件文献出发，查找近三年国内外在无形资产度量方法、企业影响机制、宏观经济效应等方面的新研究，然后形成一个结构化的对比分析报告？我特别想了解哪些研究方向是附件作者重点关注的，哪些是近期新兴的热点，以及在研究方法和实证发现上有什么新的突破。"
+  },
+  {
+    "id": 93,
+    "chat_id": "86fb712d-d445-485d-93df-5ae0d19afa28",
+    "files": [
+      {
+        "filename": "attachment_93_01.pdf",
+        "type": "pdf",
+        "dir": "multimodal-attachments/93/attachment_93_01.pdf",
+        "size": "131.9 KB | Pages: 3"
+      },
+      {
+        "filename": "attachment_93_02.pdf",
+        "type": "pdf",
+        "dir": "multimodal-attachments/93/attachment_93_02.pdf",
+        "size": "1.1 MB"
+      },
+      {
+        "filename": "attachment_93_03.pdf",
+        "type": "pdf",
+        "dir": "multimodal-attachments/93/attachment_93_03.pdf",
+        "size": "1.0 MB"
+      },
+      {
+        "filename": "attachment_93_04.pdf",
+        "type": "pdf",
+        "dir": "multimodal-attachments/93/attachment_93_04.pdf",
+        "size": "874.6 KB"
+      },
+      {
+        "filename": "attachment_93_05.pdf",
+        "type": "pdf",
+        "dir": "multimodal-attachments/93/attachment_93_05.pdf",
+        "size": "440.7 KB"
+      }
+    ],
+    "annotation": {
+      "category": "doc",
+      "language": "en",
+      "origin_id": 174
+    },
+    "rewritten_query": "I'm a pharmaceutical researcher at a biotech company focusing on diabetes therapeutics, and we're exploring natural compounds for β-cell regeneration as potential drug leads. I need a comprehensive analysis of the current evidence on plant-derived interventions that specifically target pancreatic β-cell regeneration in diabetes. Could you help me compare the efficacy profiles of the major herbal extracts that have been studied — particularly pomegranate peel, Peganum harmala seeds, and other promising candidates — across different experimental models? I'm especially interested in understanding the dose-response relationships, the molecular mechanisms involved (like PDX1, NGN3 expression, and anti-apoptotic pathways), and how the results from animal studies translate to potential human applications. For each intervention, I'd like to see the specific quantitative outcomes (blood glucose reduction percentages, insulin level improvements, β-cell mass changes) and any histopathological evidence of actual β-cell regeneration. Also, could you identify any contradictions in the literature regarding optimal dosing or efficacy, and assess which approaches show the most promise for clinical translation? I need to understand both the therapeutic potential and any safety concerns that have been reported."
+  },
+  {
+    "id": 94,
+    "chat_id": "ce40a2a6-c968-45e0-aa5a-9679dbe6baf1",
+    "files": [
+      {
+        "filename": "attachment_94_01.jpeg",
+        "type": "image",
+        "dir": "multimodal-attachments/94/attachment_94_01.jpeg",
+        "size": "45.8 KB"
+      },
+      {
+        "filename": "attachment_94_02.jpeg",
+        "type": "image",
+        "dir": "multimodal-attachments/94/attachment_94_02.jpeg",
+        "size": "242.7 KB"
+      },
+      {
+        "filename": "attachment_94_03.jpeg",
+        "type": "image",
+        "dir": "multimodal-attachments/94/attachment_94_03.jpeg",
+        "size": "65.9 KB"
+      },
+      {
+        "filename": "attachment_94_04.jpeg",
+        "type": "image",
+        "dir": "multimodal-attachments/94/attachment_94_04.jpeg",
+        "size": "248.0 KB"
+      },
+      {
+        "filename": "attachment_94_05.jpeg",
+        "type": "image",
+        "dir": "multimodal-attachments/94/attachment_94_05.jpeg",
+        "size": "129.0 KB"
+      },
+      {
+        "filename": "attachment_94_06.jpeg",
+        "type": "image",
+        "dir": "multimodal-attachments/94/attachment_94_06.jpeg",
+        "size": "290.7 KB"
+      },
+      {
+        "filename": "attachment_94_07.jpeg",
+        "type": "image",
+        "dir": "multimodal-attachments/94/attachment_94_07.jpeg",
+        "size": "347.2 KB"
+      },
+      {
+        "filename": "attachment_94_08.jpeg",
+        "type": "image",
+        "dir": "multimodal-attachments/94/attachment_94_08.jpeg",
+        "size": "390.8 KB"
+      },
+      {
+        "filename": "attachment_94_09.jpeg",
+        "type": "image",
+        "dir": "multimodal-attachments/94/attachment_94_09.jpeg",
+        "size": "180.4 KB"
+      },
+      {
+        "filename": "attachment_94_10.jpeg",
+        "type": "image",
+        "dir": "multimodal-attachments/94/attachment_94_10.jpeg",
+        "size": "289.9 KB"
+      }
+    ],
+    "annotation": {
+      "category": "multi_turn",
+      "language": "zh",
+      "origin_id": 185
+    },
+    "rewritten_query": "我家12岁公猫最近因为慢性呕吐去医院检查，诊断出胰腺结节和轻度肾功能异常（肌酐216µmol/L），医生建议调整饮食。我拍了几款正在考虑的罐头和湿粮包装，还在纠结三款干粮：某品牌nature系列、某品牌gim 35和某品牌dr 25。想请你帮我查一下这些产品的具体营养成分数据，特别是脂肪和磷含量，然后对比一下哪些更适合我家猫现在的身体状况。最好能给个优先级排序，我好知道该怎么选择和搭配喂食。"
+  },
+  {
+    "id": 95,
+    "chat_id": "9a4b9129-c23c-4553-86cc-4ffada8e800b",
+    "files": [
+      {
+        "filename": "attachment_95_01.pdf",
+        "type": "pdf",
+        "dir": "multimodal-attachments/95/attachment_95_01.pdf",
+        "size": "574.9 KB"
+      },
+      {
+        "filename": "attachment_95_02.pdf",
+        "type": "pdf",
+        "dir": "multimodal-attachments/95/attachment_95_02.pdf",
+        "size": "1.7 MB"
+      }
+    ],
+    "annotation": {
+      "category": "multi_turn",
+      "language": "zh",
+      "origin_id": 187
+    },
+    "rewritten_query": "我是一名房地产经济学研究者，最近在撰写一篇关于政府保障房供给政策的学术论文。根据我收集的文献资料，发现2024年住建部明确提出要推动县级以上城市收购存量商品房用作保障性住房，这被认为是当前房地产调控的重要创新举措。我需要基于附件中的早期版文献综述全文以及两份PDF研究文献，将现有的文献综述重写为四个标准学术部分：预期与房价关联机制、既有调控工具局限性分析、公共住房政策的理论基础与实践价值、以及本研究的核心贡献。同时，我还需要对一个具体的研究命题进行可行性评议，并确保整个写作符合CSSCI期刊的学术规范。请帮我完成这项文献整理和学术写作任务。"
+  },
+  {
+    "id": 96,
+    "chat_id": "c6ff37b9-727b-42c8-936d-4479f6e6daf4",
+    "files": [
+      {
+        "filename": "attachment_96_01.pdf",
+        "type": "pdf",
+        "dir": "multimodal-attachments/96/attachment_96_01.pdf",
+        "size": "846.9 KB"
+      },
+      {
+        "filename": "attachment_96_02.pdf",
+        "type": "pdf",
+        "dir": "multimodal-attachments/96/attachment_96_02.pdf",
+        "size": "1.1 MB"
+      }
+    ],
+    "annotation": {
+      "category": "multi_turn",
+      "language": "zh",
+      "origin_id": 188
+    },
+    "rewritten_query": "我正在准备一个关于中国医疗器械投融资的分析报告，看了一下附件中的两份行业报告。从报告数据来看，2025年中国医疗器械融资金额同比增长应该是61%左右？能帮我基于这两份附件制作一套两页PPT内容，主题是2025中国医疗器械投融资趋势（向好导向）。请严格使用附件中的可验证数据，如果需要补充权威公开来源的话，也要给出准确来源。我需要的交付物包括两页PPT文案、配图方案、证据清单和总述摘要等。"
+  },
+  {
+    "id": 97,
+    "chat_id": "08d490c8-540b-4539-ba30-2875ba2963d5",
+    "files": [
+      {
+        "filename": "attachment_97_01.doc",
+        "type": "word",
+        "dir": "multimodal-attachments/97/attachment_97_01.doc",
+        "size": "477.5 KB"
+      },
+      {
+        "filename": "attachment_97_02.doc",
+        "type": "word",
+        "dir": "multimodal-attachments/97/attachment_97_02.doc",
+        "size": "219.0 KB"
+      }
+    ],
+    "annotation": {
+      "category": "multi_turn",
+      "language": "zh",
+      "origin_id": 189
+    },
+    "rewritten_query": "我最近在研究传统文化中的大六壬术数学，手头有两份古籍文献《大六壬心镜加排盘（打印）.doc》和《六壬大全-神将释.doc》。想请你帮我做个系统性的文献整理工作，主要是把这两个文档中关于神将加临十二地支的判象规则提取出来，整理成一个便于查阅的对照表格。具体来说，我需要你先从文献中找出每个神将（贵人、螣蛇、朱雀等十二将）加临不同地支时的传统名象和吉凶判断，然后按神将分类整理成表格形式，每条都要注明出处页码。另外，如果两个文献对同一条目有不同说法，请都列出来并标注来源。最后能否总结一下这套判象体系的基本原则和使用要点？我想用这个整理结果作为学习资料，所以格式要清晰易懂。"
+  },
+  {
+    "id": 98,
+    "chat_id": "96293299-cac2-4139-8ffe-aa39a0b2ff8a",
+    "files": [
+      {
+        "filename": "attachment_98_01.pdf",
+        "type": "pdf",
+        "dir": "multimodal-attachments/98/attachment_98_01.pdf",
+        "size": "471.3 KB"
+      },
+      {
+        "filename": "attachment_98_02.pdf",
+        "type": "pdf",
+        "dir": "multimodal-attachments/98/attachment_98_02.pdf",
+        "size": "178.0 KB"
+      }
+    ],
+    "annotation": {
+      "category": "multi_doc",
+      "language": "zh",
+      "origin_id": 194
+    },
+    "rewritten_query": "我们公司最近在做直流远供电源系统的产品标准化工作，技术部门让我参考现有的LED驱动控制器命名规范来制定新的命名体系。附件里有两份技术文档，一个是产品型录，另一个是详细的技术参数表，包含了局端机和远端机的各种规格参数。我需要根据这些技术规格设计出两套命名规则：一套给局端机用，一套给远端机用。要求是尽量参考我们现有的GDD和QDD命名格式，保持相同的位数长度，但要能清楚区分关键的技术参数，比如功率等级、电压范围、防护等级这些，同时还要给将来的产品扩展留出足够空间。能帮我从附件中提取相关参数，然后设计出具体的编码规则吗？最好能给出每一位代表什么含义的说明表格。"
+  },
+  {
+    "id": 99,
+    "chat_id": "c5ebc5d4-aff0-404f-92e5-00e7ce035e71",
+    "files": [
+      {
+        "filename": "attachment_99_01.pdf",
+        "type": "pdf",
+        "dir": "multimodal-attachments/99/attachment_99_01.pdf",
+        "size": "868.9 KB"
+      },
+      {
+        "filename": "attachment_99_02.pdf",
+        "type": "pdf",
+        "dir": "multimodal-attachments/99/attachment_99_02.pdf",
+        "size": "224.8 KB"
+      }
+    ],
+    "annotation": {
+      "category": "multi_doc",
+      "language": "en",
+      "origin_id": 201
+    },
+    "rewritten_query": "I'm a graduate student working on my dissertation about mechanism design and implementation theory. I need to understand the mathematical foundations of two specific papers I've found - one by Kartik, Tercieux, and Holden on simple mechanisms with preferences for honesty, and another by Gavan and Penta on safe implementation. Could you help me extract the key mathematical conditions and theorems from these papers? Specifically, I'm looking for the formal definitions of 'separable punishment' from the first paper and 'comonotonicity' from the second paper, along with their main implementation results. I also need to find similar work in this area that deals with honesty constraints or social responsibility in mechanism design to build a comprehensive literature review."
+  },
+  {
+    "id": 100,
+    "chat_id": "ba41ee67-0d56-47a0-9363-a16b1226a71d",
+    "files": [
+      {
+        "filename": "attachment_100_01.pdf",
+        "type": "pdf",
+        "dir": "multimodal-attachments/100/attachment_100_01.pdf",
+        "size": "1.6 MB"
+      },
+      {
+        "filename": "attachment_100_02.pdf",
+        "type": "pdf",
+        "dir": "multimodal-attachments/100/attachment_100_02.pdf",
+        "size": "801.5 KB"
+      },
+      {
+        "filename": "attachment_100_03.pdf",
+        "type": "pdf",
+        "dir": "multimodal-attachments/100/attachment_100_03.pdf",
+        "size": "8.6 MB"
+      },
+      {
+        "filename": "attachment_100_04.pdf",
+        "type": "pdf",
+        "dir": "multimodal-attachments/100/attachment_100_04.pdf",
+        "size": "2.4 MB"
+      },
+      {
+        "filename": "attachment_100_05.pdf",
+        "type": "pdf",
+        "dir": "multimodal-attachments/100/attachment_100_05.pdf",
+        "size": "715.5 KB"
+      },
+      {
+        "filename": "attachment_100_06.pdf",
+        "type": "pdf",
+        "dir": "multimodal-attachments/100/attachment_100_06.pdf",
+        "size": "757.4 KB"
+      },
+      {
+        "filename": "attachment_100_07.pdf",
+        "type": "pdf",
+        "dir": "multimodal-attachments/100/attachment_100_07.pdf",
+        "size": "403.0 KB"
+      },
+      {
+        "filename": "attachment_100_08.pdf",
+        "type": "pdf",
+        "dir": "multimodal-attachments/100/attachment_100_08.pdf",
+        "size": "1.7 MB"
+      },
+      {
+        "filename": "attachment_100_09.pdf",
+        "type": "pdf",
+        "dir": "multimodal-attachments/100/attachment_100_09.pdf",
+        "size": "2.4 MB"
+      },
+      {
+        "filename": "attachment_100_10.pdf",
+        "type": "pdf",
+        "dir": "multimodal-attachments/100/attachment_100_10.pdf",
+        "size": "2.1 MB"
+      }
+    ],
+    "annotation": {
+      "category": "multi_doc",
+      "language": "zh",
+      "origin_id": 202
+    },
+    "rewritten_query": "附件包含十份国际投行的2026年市场策略展望报告（Goldman Sachs、JPMorgan、BlackRock、Bank of America等）。请完成以下跨报告分析：（1）共识观点提取：从每份报告中提取对2026年中国/亚太市场的核心观点，制作观点矩阵表（行=投行，列=宏观经济、货币政策、市场估值、行业偏好等维度），标注各家共识和分歧点；（2）推荐股票统计：提取各报告中明确推荐的个股名称，按被推荐次数从高到低排列Top 10，标注每个推荐的来源报告和推荐理由；（3）行业配置对比：各投行对TMT、半导体、创新药、消费、新能源等板块的配置建议对比；（4）风险因素汇总：各报告提及的主要风险因素及其评估；（5）结合以下个人持仓方向评估一致性：TMT（腾讯、阿里）、半导体制造（中微公司、北方华创）、创新药（恒瑞、百济神州、信达生物）、机器人（三花智控）。所有数据标注来源报告名称。"
+  }
+]
