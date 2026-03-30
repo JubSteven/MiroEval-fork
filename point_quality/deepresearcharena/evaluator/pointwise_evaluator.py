@@ -31,7 +31,7 @@ class PointwiseEvaluator(BaseEvaluator, PointwiseEvaluatorCore):
     
     def __init__(self, 
                  data_dir: str,
-                 model_name: str = "gpt-5-mini",
+                 model_name: str = "gpt-5.1",
                  api_type: str = "openai",
                  cache_dir: str = None):
         """Initialize the pointwise evaluator"""

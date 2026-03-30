@@ -42,7 +42,7 @@ def main():
                         help='Path to input JSON file (e.g., chatgpt_text_100.json)')
     parser.add_argument('--model_name', type=str, required=True,
                         help='Name for the target model (e.g., chatgpt)')
-    parser.add_argument('--evaluator_model', type=str, default='openai/gpt-5',
+    parser.add_argument('--evaluator_model', type=str, default='gpt-5.1',
                         help='Evaluator LLM model name')
     parser.add_argument('--api_type', type=str, default='auto',
                         help='API type: auto (detect by model name), openai, or openrouter')

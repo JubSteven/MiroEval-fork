@@ -14,7 +14,7 @@ query_selection:
 # Model Configuration
 evaluator_model:
   name: "gpt-5.1"                                    # LLM model for evaluation (evaluator model)
-  api_type: "openrouter"                    # API type: "openai" or "openrouter"
+  api_type: "auto"                         # API type: "auto" (detect by model name), "openai", or "openrouter"
   max_tokens: 8192                      # Maximum tokens for LLM responses
   temperature: 0.1                      # Temperature for LLM generation
 
