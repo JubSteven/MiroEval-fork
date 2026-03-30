@@ -11,6 +11,11 @@
 
 MiroEval is a comprehensive evaluation framework for Deep Research systems, providing automated **task generation** and assessment across three complementary dimensions: **Factual** correctness, **Point**-wise quality, and **Process** quality.
 
+<div align="center">
+  <img src="static/text_70_results.png" width="90%" alt="Text-only 70-query evaluation results across three dimensions" />
+  <p><i>Text-only evaluation results (70 queries) across Synthesis Quality, Factual Accuracy, and Process Quality.</i></p>
+</div>
+
 All three evaluation modules share a unified `data/` directory as their input data source. Each sub-project manages its own `.env` file for API keys (see `.env.template` in each sub-project).
 
 ## Architecture
@@ -22,12 +27,10 @@ MiroEval/
 │   ├── input_queries/         # Evaluation query sets
 │   ├── method_results/        # Text-only model results (JSON array per model)
 │   ├── method_multimodal_results/  # Multimodal model results (JSON array per model)
-│   └── detail_results/        # Per-task per-model intermediate scores (for table generation)
+│   └── detail_results/        # Per-task per-model intermediate scores
 ├── factual_eval/              # Factual evaluation (MiroFlow-based fact-checking agent)
 ├── point_quality/             # Quality evaluation (adaptive point-wise scoring)
-├── process_eval/              # Process evaluation (intrinsic process quality + report alignment)
-├── tex/                       # LaTeX table generation (config + scripts)
-└── scripts/                   # Shared utility scripts (data conversion, etc.)
+└── process_eval/              # Process evaluation (intrinsic process quality + report alignment)
 ```
 
 ---
@@ -82,11 +85,7 @@ See [`task_generation/README.md`](task_generation/README.md) for full details.
 
 ### Model Results (`data/method_results/`, `data/method_multimodal_results/`)
 
-One JSON file per model, containing a JSON array of complete query-response pairs.
-
-**Text-only models (14):** chatgpt, claude, deepseek, doubao, gemini, glm, grok, kimi, manus, minimax, mirothinker, mirothinker_base_17, mirothinker_v17, qwen
-
-**Multimodal models (10):** claude, gemini, glm, grok, manus, minimax, mirothinker, mirothinker_v17, openai, qwen
+One JSON file per model, containing a JSON array of complete query-response pairs. Place your model's output file (e.g., `<model_name>_text.json`) in the appropriate directory.
 
 **Result Schema:**
 
@@ -293,7 +292,7 @@ python run_batch_eval.py --input ../data/method_multimodal_results/mirothinker_v
 
 # Specify evaluator model and query count
 python run_batch_eval.py --input ../data/method_results/claude_text.json --model_name claude \
-    --evaluator_model gpt-5 --max_queries 50
+    --evaluator_model gpt-5.1 --max_queries 50
 
 # Reuse criteria from a previous run (only re-score)
 python run_batch_eval.py --input ../data/method_results/gemini_text.json --model_name gemini \
@@ -306,7 +305,7 @@ Configuration file located at `deepresearcharena/config/pointwise.yaml`. Key fie
 
 ```yaml
 evaluator_model:
-  name: "gpt"             # Judge LLM
+  name: "gpt-5.1"             # Judge LLM
   api_type: "auto"             # auto (detect by model name), openai, or openrouter
   temperature: 0.1
 
@@ -460,7 +459,9 @@ python run_pipeline.py --clear-cache
       "findings_to_report": { "avg": 8.3, "count": 70 },
       "report_to_process": { "avg": 7.6, "count": 70 },
       "contradiction": { "avg": 8.8, "count": 70 },
-      "overall_avg": 8.03
+      "intrinsic_avg": 8.1,
+      "alignment_avg": 8.23,
+      "overall_avg": 8.17
     }
   },
   "entry_results": { ... }
@@ -478,50 +479,11 @@ python run_pipeline.py --clear-cache
 | **Method**        | Agent + web search verification | LLM multi-dimension scoring | LLM structuring + scoring |
 | **Data Input**    | response (report text)          | response (report text)      | process + response        |
 | **Scoring Scale** | Right / Wrong / Unknown         | 0-10 continuous             | 1-10 integer              |
-| **Judge LLM**     | GPT-5-mini (default)            | GPT-5.2 (default)           | GPT-5.2 (default)         |
+| **Judge LLM**     | GPT-5-mini (default)            | GPT-5.1 (default)           | GPT-5.2 (default)         |
 | **Parallelism**   | Async + semaphore               | ThreadPoolExecutor          | ThreadPoolExecutor        |
 | **Caching**       | None (agent state)              | Multi-level JSON cache      | Three-level JSON cache    |
 | **Python**        | >= 3.11 (uv)                    | >= 3.10 (pip)               | >= 3.10 (pip)             |
 
-
-## Reproducing Evaluation Tables
-
-Pre-computed per-task scores are stored in `data/detail_results/` (see [`data/detail_results/README.md`](data/detail_results/README.md) for the full format specification). To regenerate the LaTeX tables:
-
-```bash
-cd tex
-python generate_tables.py
-# → tables/main_result.tex, tables/outcome_detail.tex, tables/process_detail.tex
-```
-
-Reference tables are in `tex/tables_example/` for comparison. The generated tables may have minor numerical differences (< 0.5) due to rounding.
-
-To re-extract scores from full pipeline outputs:
-
-```bash
-cd tex
-python populate_detail_results.py   # Extract from pipeline outputs → detail_results/
-python generate_tables.py           # Generate tables from detail_results/
-```
-
-### Architecture
-
-```
-tex/
-├── config.py                  # Model names, ordering, dimension definitions
-├── generate_tables.py         # Read detail_results → generate LaTeX tables
-├── populate_detail_results.py # Extract from pipeline outputs → detail_results
-├── tables/                    # Generated output (gitignored)
-└── tables_example/            # Reference tables for comparison
-```
-
-```
-data/detail_results/
-├── task_subsets.json           # 70 text + 30 multimodal task IDs
-├── report/{text,multimodal}.json      # Report quality dimension scores
-├── factuality/{text,multimodal}.json  # Factuality verdict counts
-└── process/{text,multimodal}.json     # Process dimension scores
-```
 
 ## License
 
