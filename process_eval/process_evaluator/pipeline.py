@@ -327,20 +327,32 @@ class ProcessEvalPipeline:
                     if score is not None:
                         model_scores[model][dim].append(score)
 
-        # Calculate averages
+        # Calculate averages: overall = mean(intrinsic_avg, alignment_avg)
         summary = {}
         for model, dims in model_scores.items():
             summary[model] = {}
-            all_scores = []
+            intrinsic_avgs = []
+            alignment_avgs = []
             for dim, scores in dims.items():
                 if scores:
                     avg = sum(scores) / len(scores)
                     summary[model][dim] = {"avg": round(avg, 2), "count": len(scores)}
-                    all_scores.append(avg)
+                    if dim in INTRINSIC_DIMS:
+                        intrinsic_avgs.append(avg)
+                    else:
+                        alignment_avgs.append(avg)
                 else:
                     summary[model][dim] = {"avg": None, "count": 0}
-            if all_scores:
-                summary[model]["overall_avg"] = round(sum(all_scores) / len(all_scores), 2)
+            intrinsic_mean = sum(intrinsic_avgs) / len(intrinsic_avgs) if intrinsic_avgs else None
+            alignment_mean = sum(alignment_avgs) / len(alignment_avgs) if alignment_avgs else None
+            summary[model]["intrinsic_avg"] = round(intrinsic_mean, 2) if intrinsic_mean is not None else None
+            summary[model]["alignment_avg"] = round(alignment_mean, 2) if alignment_mean is not None else None
+            if intrinsic_mean is not None and alignment_mean is not None:
+                summary[model]["overall_avg"] = round((intrinsic_mean + alignment_mean) / 2, 2)
+            elif intrinsic_mean is not None:
+                summary[model]["overall_avg"] = round(intrinsic_mean, 2)
+            elif alignment_mean is not None:
+                summary[model]["overall_avg"] = round(alignment_mean, 2)
             else:
                 summary[model]["overall_avg"] = None
 
