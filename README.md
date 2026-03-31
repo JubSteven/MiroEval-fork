@@ -4,8 +4,8 @@
   <h3>MiroEval: Benchmarking Multimodal Deep Research Agents in Process and Outcome</h3>
 
 [![Paper](https://img.shields.io/badge/Paper-arXiv%202603.28407-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2603.28407)
-[![Blog](https://img.shields.io/badge/Blog-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://miroeval.github.io/blog)
-[![WEBSITE](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://miroeval.github.io/website)
+[![Blog](https://img.shields.io/badge/Blog-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://miroeval-ai.github.io/blog)
+[![WEBSITE](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://miroeval-ai.github.io/website)
 [![GITHUB](https://img.shields.io/badge/Github-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MiroMindAI/MiroEval)
 
 </div>
