@@ -251,6 +251,12 @@ def _worker_signal_handler(signum, frame):
 
 def _factual_eval_task_worker(task_dict, cfg_dict, max_concurrent_chunks, max_retries, chunk_timeout=None, chunk_tracing=True):
     """Worker function for ProcessPoolExecutor. Runs a single factual eval task."""
+    # Ensure CWD is factual_eval/ so relative config paths resolve correctly.
+    # ProcessPoolExecutor (forkserver) inherits the CWD from when the
+    # forkserver was started, which may be the repo root.
+    _fe_dir = str(Path(__file__).resolve().parent.parent.parent)
+    os.chdir(_fe_dir)
+
     from miroflow.agents import build_agent_from_config
     from miroflow.logging.task_tracer import set_tracer
     from miroflow.benchmark.eval_utils import Task
